@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+
+.LSPLoginSignupContainer {
+    background: linear-gradient(to right, #d2ffc6, #aeff98);
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Fredoka", sans-serif;
+}
+
+.LSPHelloImage {
+    border-radius: 50px;
+    height: 645px;
+    margin-top: 150px;
+    margin-left: 430px;
+}
+
+.LSPFormContainer {
+    width: 450px;
+    padding: 490px;
+    padding: 1.5rem;
+    margin-top: -550px;
+    margin-left: 935px;
+    align-items: center;
+}
+
+.LSPFormTitle {
+    font-family: 'Londrina Solid';
+    font-size: 2.2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1.3rem;
+    letter-spacing: 3px;
+    margin-bottom: 0.9rem;
+}
+
+.LSPInputGroup {
+    padding: 3px 0;
+    margin: 10px 0;
+    position: relative;
+}
+
+.LSPInputGroup i {
+    position: absolute;
+    padding: 3px 1px;
+    color: black;
+}
+
+.LSPInput {
+    color: inherit;
+    width: 90%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid #757575;
+    padding-left: 1.5rem;
+    font-size: 20px;
+}
+.LSPInput:focus {
+    background-color: transparent;
+    outline: transparent;
+    border-bottom: 2px solid hsl(327, 90%, 28%);
+}
+
+.LSPInput::placeholder {
+    color: transparent;
+}
+
+.LSPLabel {
+    color: #757575;
+    position: relative;
+    left: 1.3em;
+    top: -1.5em;
+    cursor: auto;
+    transition: 0.3s ease all;
+}
+
+.LSPInput:focus ~ .LSPLabel, 
+.LSPInput:not(:placeholder-shown) ~ .LSPLabel {
+    top: -3.2em;
+    color: hsl(327, 90%, 28%);
+    font-size: 15px;
+}
+
+.LSPBtn {
+    font-size: 18px;
+    font-weight: 700;
+    margin: 20px 120px;
+    padding: 9px 0;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    width: 200px;
+    background: rgb(66, 161, 54);
+    color: white;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.LSPBtn:hover {
+    background: rgb(50, 121, 41);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+}
+
+.LSPLinks {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 2rem;
+    margin-top: 0.9rem;
+    margin-bottom: 0.5rem;
+    align-items: baseline;
+    font-weight: bold;
+}
+
+.LSPButton {
+    color: rgb(44, 118, 36);
+    border: none;
+    background-color: transparent;
+    font-size: 1.1rem;
+    font-weight: 600;
+    cursor: pointer;
+    width: 140px; 
+    height: 45px;
+    border-radius: 20px;
+    border-bottom: 5px solid rgb(147, 244, 187);
+    margin-top: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.LSPButton:hover {
+    text-decoration: underline;
+    transform: scale(1.05);
+    border-bottom: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}

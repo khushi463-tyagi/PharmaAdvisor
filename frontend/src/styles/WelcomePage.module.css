@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&display=swap');
+
+.WPWelcomeContainer {
+    height: 100vh;
+    width: 100%;
+}
+
+.WPBg {
+    background-image: url("../assets/images/BG1.png");
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.WPBox {
+    height: 650px;
+    width: 1000px;
+    background-color: white;
+    box-shadow: 0px 30px 60px rgb(13, 44, 4);
+    border-radius: 30px;
+    position: relative;
+    margin-top: -775px;
+    margin-left: 475px;
+    align-content: center;
+}
+
+.WPBox .WPLogo img {
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.WPBox .WPContent {
+    font-family: "Londrina Solid";
+    text-align: center;
+    margin-top: -60px;
+}
+
+.WPBox .WPContent .WPHead {
+    line-height: 15px;
+}
+
+.WPBox .WPContent .WPHead .WPWelcome {
+    font-size: 55px;
+}
+
+.WPBox .WPContent .WPHead .WPName {
+    font-size: 75px;
+    color: rgb(4, 98, 4);
+}
+
+.WPBox .WPContent p {
+    margin-left: 300px;
+    width: 400px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    margin-top: -20px;
+}
+
+.WPBox button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 200px;
+    height: 45px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 800;
+    background-color: rgb(8, 124, 51);
+    color: white;
+    border: none;
+    margin-left: 400px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.WPBox button:hover {
+    box-shadow: 0px 3px 5px rgb(0, 125, 125);
+}
+
+.WPATPattern {
+    margin-top: -80px;
+}
+
+.WPATPattern .WPFirst img {
+    z-index: 1;
+    height: 350px;
+    margin-top: -400px;
+    margin-left: 650px;
+    animation: move1 3s linear infinite alternate;
+}
+
+.WPATPattern .WPSecond img {
+    z-index: 1;
+    height: 350px;
+    margin-top: -300px;
+    margin-left: -25px;
+    animation: move2 3s linear infinite alternate;
+}
+
+@keyframes move1 {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(5px);
+    }
+    100% {
+        transform: translateX(5px);
+    }
+}
+
+@keyframes move2 {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateX(5px);
+    }
+    100% {
+        transform: translateY(5px);
+    }
+}

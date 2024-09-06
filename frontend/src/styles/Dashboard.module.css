@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    padding-top: 120px;
+    background-color: #c9f0b6;
+    height: 750px;
+    max-height: 75vh;
+    position: relative;
+}
+
+.greeting {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #333;
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+}
+
+.greeting h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #006600;
+    margin-bottom: 0.5rem;
+}
+
+.greeting p {
+    font-size: 25px;
+    font-weight: 500;
+    color: #006600;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.card {
+    background: #fff;
+    border-radius: 25px;
+    box-shadow: 0 8px 15px rgba(1, 97, 63, 0.5); 
+    padding: 1.5rem;
+    text-align: center;
+    position: relative;
+    margin: 2px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    flex: 1 1 calc(33.333% - 2rem); 
+    max-width: calc(33.333% - 4rem);
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    
+}
+
+.card h2 {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+    color: #03793e;
+}
+
+.card p {
+    font-size: 20px;
+    color: #2e2d2d;
+    font-weight: 500;
+    margin-bottom: 1.5rem;
+}
+
+.card-button {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #006600;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.card-button:hover {
+    background-color: #06a906;
+    cursor: pointer;
+    box-shadow: 0 8px 12px rgba(5, 136, 92, 0.7);  
+    transform: scale(1.02);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 20px rgba(5, 136, 92, 0.7); 
+}
+
+.cardHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.cardLogo {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+    border-radius: 20px;
+    box-shadow: 1px 4px 8px #14c455;
+}
+
+.card h2 {
+    font-size: 1.75rem;
+    color: #03793e;
+    margin: 0; 
+}

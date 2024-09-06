@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&display=swap');
+
+.aboutPage {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  padding-top: 130px;
+  background: #ffffff;
+}
+
+.about {
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #bbe4d3, #7bcaaa);
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+}
+
+.about h1 {
+  font-size: 32px;
+  color: #004d40;
+}
+
+.about p {
+  color: #1b5a24;
+  font-size: 21px;
+}
+
+.slideshowContainer {
+  position: relative;
+  max-width: 80%;
+  margin: 50px auto;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(171, 169, 169, 0.2);
+  background: rgb(195, 230, 213);
+}
+
+.slide {
+  display: none;
+}
+
+.slideActive {
+  display: block;
+}
+
+.slideContent {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.slideImage {
+  width: 45%;
+  height: 40%;
+  object-fit: cover; 
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.slideText {
+  width: 50%;
+  font-size: 1.3em;
+  text-align: left;
+  padding: 20px;
+  color: #175f3e;
+  position: relative;
+}
+
+.slideText::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+  border-radius: 10px;
+}
+
+.featureLink {
+  font-size: 1.8em;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: 600;
+  color: #0f452d;
+  text-decoration: none;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.featureLink:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  color: #199dc1;
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: #fcfafa;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.3s ease;
+  border-radius: 3px;
+  user-select: none;
+}
+
+.prev {
+  left: 0;
+  background: rgba(92, 91, 91, 0.5);
+}
+
+.next {
+  right: 0;
+  background: rgba(92, 91, 91, 0.5);
+}
+
+.prev:hover,
+.next:hover {
+  background: rgba(121, 121, 121, 0.8);
+}
+
+@media (max-width: 768px) {
+  .slideContent {
+    flex-direction: column;
+  }
+
+  .slideImage,
+  .slideText {
+    width: 100%;
+    text-align: center;
+  }
+
+  .slideText {
+    padding: 10px 0;
+  }
+}

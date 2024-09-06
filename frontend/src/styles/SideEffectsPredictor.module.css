@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400..800&family=Fredoka:wght@300..700&family=Poppins:wght@500&display=swap');
+.container
+{
+    min-height: 60vh;
+    margin-top: 130px;
+}
+.card {
+    background-color: #fff;
+    border-radius: 10px;
+    width: 600px;
+    min-height: 275px;
+    box-shadow: 20px 0 25px rgba(12, 145, 47, 0.845);
+    padding: 20px;
+    margin-left: 570px;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.cardTitle {
+    font-size: 24px;
+    color: #065e39;
+    margin-bottom: 20px;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerImage {
+    max-height: 70px;
+    margin-right: 20px;
+}
+
+.headerTitle {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    color: #065e39;
+}
+
+.inputField {
+    font-size: medium;
+    padding-left: 10px;
+    background-color: rgb(228, 250, 215);
+    margin: 10px 0;
+    border-radius: 5px;
+    border-color: #70c6a2;
+    box-shadow: 0 0 3px;
+    border: 1px solid #92d581;
+    width: 80%;
+    height: 30px;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+
+.buttonGroup {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background-color: #065e39;
+    /* box-shadow: 0 0 3px; */
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px 20px;
+    color: #f0fdf5;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 0 5px #065e39;
+    margin-right: 10px;
+}
+
+.button:hover {
+    background-color: #55d4c5;
+    transform: scale(1.05);
+    transition: transform 0.2s ease-in-out;
+    box-shadow: 0 2px 6px #065e39;
+}
+
+.sideEffectsBox {
+    background-color: #f0fdf5;
+    border: 1px solid #92d581;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px;
+}
+
+.sideEffectsHeading {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    color: #065e39;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.sideEffectsList {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sideEffectsItem {
+    background-color: #95e0c1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #352121;
+}
+
+.error {
+    color: red;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}

@@ -1,0 +1,232 @@
+.CPSectionWrapper {
+    width: 100%;
+    height: 80vh;
+    padding: 10px;
+    margin-top: 120px;
+    background: #c9f0b6;
+}
+
+.CPBoxWrapper { 
+    box-shadow: 5px 10px 10px rgba(49, 160, 141, 0.587);
+    position: relative;
+    display: table;
+    width: 1400px;
+    margin: auto;
+    margin-top: 35px;
+    border-radius: 30px;
+}
+
+.CPInfoWrap {
+    width: 458px;
+    height: 575px;
+    padding: 55px;
+    float: left;
+    border-radius: 30px 0px 0px 30px;
+    background: linear-gradient(144deg, rgb(0, 183, 255) 0%, rgb(89, 225, 168) 49%);
+    color: #fff;
+}
+
+.CPInfoTitle {
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    text-align: left;
+    font-size: 28px;
+    letter-spacing: 0.5px;
+    color: #296551;
+    font-weight: bold;
+}
+
+.CPInfoSubTitle {
+    font-size: 21px;
+    margin-top: 17px;
+    font-weight: lighter;
+    color: black;
+    font-family: 'Fredoka', sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 26px;
+}
+
+.CPInfoDetails {
+    list-style: none;
+    color: black;
+    margin: 60px 0px;
+}
+
+.CPInfoDetails li {
+    margin-top: 25px;
+    font-size: 18px;
+    color: #fff;
+}
+
+.CPInfoDetails li i {
+    background: #296551;
+    padding: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.CPInfoDetails li a {
+    color: black;
+    text-decoration: none;
+}
+.CPInfoDetails span {
+    color: black;
+    font-family: 'Fredoka', sans-serif;
+}
+.CPInfoDetails li a:hover {
+    color: rgb(47, 92, 115);
+}
+
+.CPSocialIcons {
+    list-style: none;
+    padding-left: 95px;
+    color: #296551;
+    margin: 20px 0px;
+}
+
+.CPSocialIcons li {
+    display: inline-block;
+}
+
+.CPSocialIcons li i {
+    background: #296551;
+    color: #fff;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 22%;
+    margin: 0px 5px;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.CPSocialIcons li i:hover {
+    background: #fff;
+    color: #000000;
+}
+
+.CPFormWrap {
+    width: 782px;
+    height: 610px;
+    float: right;
+    padding: 40px 25px 35px 25px;
+    border-radius: 0px 30px 30px 0px;
+    background: #ecf0f3;
+}
+
+.CPFormTitle {
+    text-align: left;
+    margin-left: 23px;
+    font-size: 28px;
+    letter-spacing: 0.5px;
+    color: #03673d;
+    font-family: 'Baloo Bhaijaan 2', sans-serif;
+    font-weight: bold;
+}
+
+.CPFormFields {
+    display: table;
+    width: 90%;
+    padding: 15px 5px 5px 5px;
+}
+
+.CPFormGroup {
+    width: 36%;
+    float: left;
+    padding: 0px 30px;
+    margin: 14px 18px;
+    border-radius: 25px;
+    box-shadow: inset 8px 8px 8px #cbced1, inset -8px -8px 8px #ffffff;
+    position: relative;
+}
+
+.CPFormGroup:last-child {
+    width: 92%;
+}
+
+.CPFormFields input,
+.CPFormFields textarea {
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 18px;
+    color: #555;
+    padding: 20px 10px 20px 15px;
+    width: 100%;
+}
+
+.CPFormFields textarea {
+    height: 150px;
+    resize: none;
+}
+
+.CPSubmitButton {
+    width: 93%;
+    height: 60px;
+    margin: 0px 12px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    background: #03673d;
+    box-shadow: 3px 3px 8px #6f7070, -3px -3px 8px #e0fff6;
+    transition: .5s;
+}
+
+.CPSubmitButton:hover {
+    background: rgb(183, 242, 183);
+    color: #000000;
+    transform: scale(1.02);
+    border: 1px solid #000000;  
+    
+}
+
+/* Responsive css */
+@media only screen and (max-width: 767px) {
+    .CPBoxWrapper {
+        width: 100%;
+    }
+
+    .CPInfoWrap,
+    .CPFormWrap {
+        width: 100%;
+        height: inherit;
+        float: none;  
+    }
+
+    .CPInfoWrap {
+        border-radius: 30px 30px 0px 0px;
+    }
+
+    .CPFormWrap {
+        border-radius: 0px 0px 30px 30px;
+    }
+
+    .CPFormGroup {
+        width: 100%;
+        float: none;
+        margin: 25px 0px;
+    }
+
+    .CPFormFields .CPFormGroup:last-child, 
+    .CPSubmitButton {
+        width: 100%;
+    }
+
+    .CPSubmitButton {
+        margin: 10px 0px;
+    }
+}
+
+/* Common hover effect for input fields */
+.CPFormFields input:hover,
+.CPFormFields textarea:hover {
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.CPFormFields input:hover,
+.CPFormFields textarea:hover {
+    background-color: none;
+}

@@ -1,0 +1,74 @@
+.container
+{
+  min-height: 65vh;
+}
+.Checker {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  margin-top: 250px;
+  margin-left: 470px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(12, 145, 79, 0.845);
+  text-align: center;
+  width: 800px;
+}
+
+.input {
+  width: 80%;
+  background-color: rgb(228, 250, 215);
+  padding: 20px;
+  margin: 10px 0;
+  font-size: large;
+  border-radius: 5px;
+  border: 1px solid #92d581;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  max-height: 70px;
+  margin-right: 10px;
+}
+
+.title {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-size: 2rem;
+  color: #004d40;
+}
+
+.button {
+  padding: 10px 20px;
+  border: none;
+  margin: 10px;
+  background-color: #0ebc73;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 18px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #59beaf;
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
+
+.result {
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  border: 1px solid #81d5ab;
+  margin-top: 25px;
+  padding: 15px;
+  font-size: 18px;
+  color: #004d40;
+}
