@@ -6,10 +6,8 @@ import csv
 app = Flask(__name__)
 CORS(app)
 
-# Load the CSV data
 interaction_df = pd.read_csv('./data/drug_interactions.csv')
 
-# Create a dictionary for quick lookup
 interactions_dict = {}
 
 for _, row in interaction_df.iterrows():
