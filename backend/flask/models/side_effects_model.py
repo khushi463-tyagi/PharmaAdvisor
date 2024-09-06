@@ -4,17 +4,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
     
 def preprocess_data(df):
-    # Convert 'Severity Score' and 'Frequency' to numeric
     df['Severity Score'] = pd.to_numeric(df['Severity Score'], errors='coerce')
     df['Frequency'] = pd.to_numeric(df['Frequency'], errors='coerce')
-    # Drop rows with NaN values in the specified columns
     df.dropna(subset=['Seriousness', 'Severity Score', 'Frequency'], inplace=True)
     return df
     
 def train_model(df):
     features = ['Seriousness', 'Severity Score', 'Frequency']
     target = 'Severity'
-    # Map 'Seriousness' to numeric values
     seriousness_map = {'Serious': 1, 'Non-Serious': 0}
     df['Seriousness'] = df['Seriousness'].map(seriousness_map)
     df[target] = df['Seriousness'] * df['Severity Score'] * df['Frequency']
@@ -41,7 +38,6 @@ def predict_side_effects(medicine, model, df):
     
     # Preprocess the data
     med_data = preprocess_data(med_data)
-    # Predict the severity
     med_data['Predicted Severity'] = model.predict(med_data[['Seriousness', 'Severity Score', 'Frequency']])
     
     # Get the top 5 side effects based on predicted severity
