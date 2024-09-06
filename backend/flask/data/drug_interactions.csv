@@ -1,0 +1,102 @@
+medicine1,medicine2,interaction,explanation
+Aspirin,Warfarin,Increased risk of bleeding,"Both drugs affect blood clotting, leading to a significantly increased risk of bleeding."
+Aspirin,Ibuprofen,Increased risk of gastrointestinal bleeding and reduced cardioprotective effects of aspirin,Both drugs irritate the gastrointestinal tract and NSAIDs can interfere with aspirin's antiplatelet effect.
+Aspirin,Fluoxetine,Increased risk of bleeding,"SSRIs can inhibit platelet aggregation, increasing the risk of bleeding when combined with aspirin."
+Aspirin,Lisinopril,Reduced efficacy of ACE inhibitors,"Aspirin may reduce the antihypertensive effects of ACE inhibitors, making blood pressure control less effective."
+Aspirin,Methotrexate,Increased risk of methotrexate toxicity,"Aspirin can decrease the clearance of methotrexate, leading to higher levels and increased toxicity risk."
+Aspirin,Prednisone,Increased risk of gastrointestinal bleeding and ulcers,"Both drugs cause gastrointestinal irritation, increasing the risk of ulcers and bleeding."
+Warfarin,Amiodarone,Increased risk of bleeding,"Amiodarone can increase Warfarin levels in the blood, heightening the risk of bleeding."
+Warfarin,Ciprofloxacin,Increased risk of bleeding,"Ciprofloxacin can enhance the effects of Warfarin, leading to an elevated bleeding risk."
+Warfarin,Phenytoin,Increased risk of bleeding and Phenytoin toxicity,"Both drugs can alter each other's metabolism, increasing the risk of adverse effects."
+Ibuprofen,Lisinopril,Reduced antihypertensive effect,Ibuprofen can decrease the effectiveness of Lisinopril in lowering blood pressure.
+Ibuprofen,Prednisone,Increased risk of gastrointestinal bleeding,"Both drugs can irritate the gastrointestinal tract, leading to a higher risk of bleeding."
+Zolpidem,Alcohol,Increased risk of CNS depression,"Both Zolpidem and alcohol are central nervous system depressants, and their combined use can increase the risk of severe drowsiness, dizziness, and impaired coordination."
+Zolpidem,Benzodiazepines,Increased risk of CNS depression,"Combining Zolpidem with benzodiazepines can lead to excessive sedation, respiratory depression, and increased risk of overdose."
+Lorazepam,Alcohol,Increased risk of CNS depression,"Both Lorazepam and alcohol are central nervous system depressants, and their combined use can increase the risk of severe drowsiness, dizziness, and impaired coordination."
+Lorazepam,Opioids,Increased risk of respiratory depression,"Combining Lorazepam with opioids can significantly increase the risk of severe respiratory depression, sedation, and potentially fatal overdose."
+Doxycycline,Isotretinoin,Increased risk of intracranial hypertension,"The combination of Doxycycline and Isotretinoin can increase the risk of intracranial hypertension, a serious condition involving increased pressure in the skull."
+Doxycycline,Antacids,Reduced absorption of Doxycycline,"Antacids can interfere with the absorption of Doxycycline, reducing its effectiveness."
+Naproxen,Warfarin,Increased risk of bleeding,"Naproxen and Warfarin both affect blood clotting, and their combination can significantly increase the risk of bleeding."
+Naproxen,Lithium,Increased risk of lithium toxicity,"Naproxen can increase lithium levels in the blood, leading to a higher risk of lithium toxicity."
+Chlorpheniramine,Alcohol,Increased risk of CNS depression,"Chlorpheniramine is a sedating antihistamine, and combining it with alcohol can enhance CNS depressant effects, leading to increased drowsiness and dizziness."
+Chlorpheniramine,MAO inhibitors,Increased risk of hypertensive crisis,Combining Chlorpheniramine with MAO inhibitors can lead to a hypertensive crisis due to increased blood pressure.
+Ustekinumab,Live vaccines,Increased risk of infection,"Ustekinumab can weaken the immune system, making it unsafe to receive live vaccines."
+Baloxavir marboxil,Live vaccines,Reduced vaccine effectiveness,"Baloxavir marboxil, an antiviral, may interfere with the effectiveness of live vaccines such as the nasal flu vaccine."
+Canagliflozin,Insulin,Increased risk of hypoglycemia,"Canagliflozin and insulin both lower blood glucose levels, and their combination can increase the risk of hypoglycemia."
+Sevelamer,Levothyroxine,Reduced absorption of Levothyroxine,"Sevelamer can interfere with the absorption of Levothyroxine, leading to reduced effectiveness of the thyroid medication."
+Lithium,NSAIDs,Increased risk of lithium toxicity,"NSAIDs can increase lithium levels in the blood, raising the risk of lithium toxicity."
+Lithium,ACE inhibitors,Increased risk of lithium toxicity,"ACE inhibitors can increase lithium levels, leading to an elevated risk of lithium toxicity."
+Hydralazine,Beta-blockers,Potential reduction in blood pressure control,Beta-blockers may reduce the effectiveness of Hydralazine in controlling blood pressure.
+Hydralazine,MAO inhibitors,Increased risk of severe hypotension,Combining Hydralazine with MAO inhibitors can lead to a dangerous drop in blood pressure.
+Nitrofurantoin,Magnesium trisilicate antacids,Reduced absorption of Nitrofurantoin,"Antacids containing magnesium trisilicate can reduce the absorption of Nitrofurantoin, making it less effective."
+Nitrofurantoin,Probenecid,Increased risk of Nitrofurantoin toxicity,"Probenecid can reduce the excretion of Nitrofurantoin, leading to increased levels and potential toxicity."
+Gabapentin,Opioids,Increased risk of respiratory depression,"Combining Gabapentin with opioids can significantly increase the risk of respiratory depression, sedation, and overdose."
+Gabapentin,Alcohol,Increased risk of CNS depression,"Both Gabapentin and alcohol are central nervous system depressants, and their combined use can increase the risk of drowsiness, dizziness, and impaired coordination."
+Ciprofloxacin,Tizanidine,Increased risk of severe hypotension and sedation,"Ciprofloxacin can increase the levels of Tizanidine, leading to a dangerous drop in blood pressure and excessive sedation."
+Ciprofloxacin,Warfarin,Increased risk of bleeding,"Ciprofloxacin can enhance the effects of Warfarin, increasing the risk of bleeding."
+Atorvastatin,Grapefruit juice,Increased risk of muscle toxicity,"Grapefruit juice can increase the levels of Atorvastatin, heightening the risk of muscle toxicity and rhabdomyolysis."
+Atorvastatin,Gemfibrozil,Increased risk of muscle toxicity,Combining Atorvastatin with Gemfibrozil can significantly increase the risk of muscle toxicity.
+Adalimumab,Live vaccines,Increased risk of infection,"Adalimumab can weaken the immune system, making it unsafe to receive live vaccines."
+Carbamazepine,Oral contraceptives,Reduced effectiveness of contraceptives,"Carbamazepine can increase the metabolism of oral contraceptives, reducing their effectiveness and increasing the risk of unintended pregnancy."
+Carbamazepine,Warfarin,Reduced anticoagulant effect,"Carbamazepine can decrease the effectiveness of Warfarin, reducing its anticoagulant effect."
+Acetaminophen,Warfarin,Increased risk of bleeding,"Acetaminophen can enhance the anticoagulant effect of Warfarin, increasing the risk of bleeding."
+Acetaminophen,Alcohol,Increased risk of liver damage,"Both acetaminophen and alcohol can cause liver damage, and their combined use can significantly increase this risk."
+Risedronate,Calcium supplements,Reduced absorption of Risedronate,"Calcium supplements can interfere with the absorption of Risedronate, reducing its effectiveness."
+Risedronate,Antacids,Reduced absorption of Risedronate,"Antacids can interfere with the absorption of Risedronate, making it less effective in treating osteoporosis."
+Eszopiclone,Alcohol,Increased risk of CNS depression,"Eszopiclone and alcohol both depress the central nervous system, increasing the risk of severe drowsiness, dizziness, and impaired coordination."
+Eszopiclone,CYP3A4 inhibitors,Increased risk of Eszopiclone side effects,"CYP3A4 inhibitors can increase Eszopiclone levels in the blood, leading to a higher risk of side effects."
+Valproate,Lamotrigine,Increased risk of serious skin reactions,"Valproate can increase the levels of Lamotrigine, leading to a higher risk of serious skin reactions, including Stevens-Johnson syndrome."
+Valproate,Phenytoin,Altered drug levels and efficacy,"Valproate can increase Phenytoin levels, while Phenytoin can decrease Valproate levels, leading to altered efficacy and potential side effects."
+Alendronate,Calcium supplements,Reduced absorption of Alendronate,"Calcium supplements can interfere with the absorption of Alendronate, reducing its effectiveness."
+Alendronate,Antacids,Reduced absorption of Alendronate,"Antacids can interfere with the absorption of Alendronate, making it less effective in treating osteoporosis."
+Diazepam,Alcohol,Increased risk of CNS depression,"Both Diazepam and alcohol are central nervous system depressants, and their combined use can increase the risk of severe drowsiness, dizziness, and impaired coordination."
+Diazepam,Opioids,Increased risk of respiratory depression,"Combining Diazepam with opioids can significantly increase the risk of respiratory depression, sedation, and potentially fatal overdose."
+Cetirizine,Alcohol,Increased risk of CNS depression,"Cetirizine is a sedating antihistamine, and combining it with alcohol can enhance CNS depressant effects, leading to increased drowsiness and dizziness."
+Cetirizine,Theophylline,Increased risk of Cetirizine side effects,"Theophylline can increase the levels of Cetirizine, leading to a higher risk of side effects."
+Hydrocortisone cream,Other topical corticosteroids,Increased risk of skin thinning and irritation,"Using multiple topical corticosteroids can increase the risk of skin thinning, irritation, and other side effects."
+Hydrocortisone cream,Topical antibiotics,Increased risk of skin irritation,Combining Hydrocortisone cream with topical antibiotics can increase the risk of skin irritation.
+Indomethacin,Warfarin,Increased risk of bleeding,"Indomethacin and Warfarin both affect blood clotting, and their combination can significantly increase the risk of bleeding."
+Indomethacin,Lithium,Increased risk of lithium toxicity,"Indomethacin can increase lithium levels in the blood, leading to a higher risk of lithium toxicity."
+Ferrous sulfate,Calcium supplements,Reduced absorption of Ferrous sulfate,"Calcium supplements can interfere with the absorption of Ferrous sulfate, reducing its effectiveness."
+Ferrous sulfate,Antacids,Reduced absorption of Ferrous sulfate,"Antacids can interfere with the absorption of Ferrous sulfate, making it less effective in treating iron deficiency."
+Cyanocobalamin,Metformin,Reduced absorption of Cyanocobalamin,"Long-term use of Metformin can reduce the absorption of Cyanocobalamin (vitamin B12), potentially leading to deficiency."
+Cyanocobalamin,Chloramphenicol,Reduced effectiveness of Cyanocobalamin,Chloramphenicol can interfere with the absorption and effectiveness of Cyanocobalamin.
+Hydroxyzine,Alcohol,Increased risk of CNS depression,"Hydroxyzine is a sedating antihistamine, and combining it with alcohol can enhance CNS depressant effects, leading to increased drowsiness and dizziness."
+Hydroxyzine,MAO inhibitors,Increased risk of hypertensive crisis,Combining Hydroxyzine with MAO inhibitors can lead to a hypertensive crisis due to increased blood pressure.
+Metformin,Insulin,Increased risk of hypoglycemia,"Both drugs lower blood glucose levels, increasing the risk of hypoglycemia (low blood sugar)."
+Metformin,Cimetidine,Increased risk of metformin side effects,"Cimetidine can increase the levels of Metformin in the blood, increasing the risk of side effects like lactic acidosis."
+Clonidine,Beta-blockers,Increased risk of severe hypotension and bradycardia,Combining Clonidine with beta-blockers can significantly increase the risk of low blood pressure and a slow heart rate.
+Clonidine,Tricyclic antidepressants,Reduced effectiveness of Clonidine,Tricyclic antidepressants can reduce the antihypertensive effects of Clonidine.
+Metoprolol,Calcium channel blockers,Increased risk of severe bradycardia and hypotension,Combining Metoprolol with calcium channel blockers can lead to a dangerously slow heart rate and low blood pressure.
+Metoprolol,NSAIDs,Reduced effectiveness of Metoprolol,"NSAIDs can decrease the antihypertensive effects of Metoprolol, making blood pressure control less effective."
+Atomoxetine,MAO inhibitors,Increased risk of hypertensive crisis,"Combining Atomoxetine with MAO inhibitors can lead to a dangerous increase in blood pressure, known as a hypertensive crisis."
+Atomoxetine,Albuterol,Increased risk of cardiovascular side effects,Combining Atomoxetine with Albuterol can increase the risk of high blood pressure and other cardiovascular side effects.
+Lansoprazole,Clopidogrel,Reduced effectiveness of Clopidogrel,"Lansoprazole can reduce the effectiveness of Clopidogrel, potentially increasing the risk of blood clots."
+Lansoprazole,Ketoconazole,Reduced absorption of Ketoconazole,"Lansoprazole can decrease the absorption of Ketoconazole, making the antifungal medication less effective."
+Duloxetine,SSRIs,Increased risk of serotonin syndrome,"Combining Duloxetine with other SSRIs can lead to serotonin syndrome, a potentially life-threatening condition."
+Duloxetine,NSAIDs,Increased risk of gastrointestinal bleeding,Duloxetine can increase the risk of gastrointestinal bleeding when taken with NSAIDs.
+Pseudoephedrine,MAO inhibitors,Increased risk of hypertensive crisis,"Combining Pseudoephedrine with MAO inhibitors can lead to a dangerous increase in blood pressure, known as a hypertensive crisis."
+Pseudoephedrine,Beta-blockers,Reduced effectiveness of Beta-blockers,Pseudoephedrine can reduce the effectiveness of beta-blockers in controlling blood pressure.
+Fenofibrate,Statins,Increased risk of muscle toxicity,Combining Fenofibrate with statins can significantly increase the risk of muscle toxicity and rhabdomyolysis.
+Fenofibrate,Warfarin,Increased risk of bleeding,"Fenofibrate can enhance the anticoagulant effects of Warfarin, increasing the risk of bleeding."
+Montelukast,Prednisone,Increased risk of corticosteroid side effects,Combining Montelukast with Prednisone can increase the risk of corticosteroid-related side effects.
+Montelukast,Phenytoin,Reduced effectiveness of Montelukast,"Phenytoin can increase the metabolism of Montelukast, reducing its effectiveness."
+Pimecrolimus,Live vaccines,Increased risk of infection,"Pimecrolimus can weaken the immune system, making it unsafe to receive live vaccines."
+Pimecrolimus,Immunosuppressants,Increased risk of immunosuppression,Combining Pimecrolimus with other immunosuppressants can increase the risk of excessive immunosuppression and related side effects.
+Tramadol,SSRIs,Increased risk of serotonin syndrome,"Tramadol can increase serotonin levels, and when combined with SSRIs, this can lead to serotonin syndrome, a serious condition."
+Tramadol,MAO inhibitors,Increased risk of severe side effects,"Combining Tramadol with MAO inhibitors can lead to severe and potentially dangerous side effects, including serotonin syndrome."
+Peramivir,Live vaccines,Reduced vaccine effectiveness,"Peramivir, an antiviral, may interfere with the effectiveness of live vaccines such as the nasal flu vaccine."
+Escitalopram,MAO inhibitors,Increased risk of serotonin syndrome,"Combining Escitalopram with MAO inhibitors can lead to serotonin syndrome, a potentially life-threatening condition."
+Escitalopram,NSAIDs,Increased risk of bleeding,Escitalopram can increase the risk of gastrointestinal bleeding when taken with NSAIDs.
+Bupropion,MAO inhibitors,Increased risk of hypertensive crisis,"Combining Bupropion with MAO inhibitors can lead to a dangerous increase in blood pressure, known as a hypertensive crisis."
+Bupropion,Alcohol,Increased risk of seizures,"Combining Bupropion with alcohol can lower the seizure threshold, increasing the risk of seizures."
+Trazodone,MAO inhibitors,Increased risk of serotonin syndrome,"Combining Trazodone with MAO inhibitors can lead to serotonin syndrome, a potentially life-threatening condition."
+Trazodone,Alcohol,Increased risk of CNS depression,"Both Trazodone and alcohol depress the central nervous system, increasing the risk of drowsiness, dizziness, and impaired motor skills."
+Glipizide,Alcohol,Increased risk of hypoglycemia,"Alcohol can enhance the blood sugar-lowering effect of Glipizide, increasing the risk of hypoglycemia."
+Glipizide,Beta-blockers,Masked symptoms of hypoglycemia,"Beta-blockers can mask the symptoms of hypoglycemia, making it harder to recognize when blood sugar is dangerously low."
+Rosuvastatin,Gemfibrozil,Increased risk of muscle toxicity,Combining Rosuvastatin with Gemfibrozil can significantly increase the risk of muscle toxicity.
+Rosuvastatin,Warfarin,Increased risk of bleeding,"Rosuvastatin can enhance the effects of Warfarin, increasing the risk of bleeding."
+Fluticasone,Ritonavir,Increased risk of Cushing's syndrome,"Ritonavir can increase Fluticasone levels, leading to an increased risk of Cushing's syndrome, a condition caused by excess cortisol."
+Fluticasone,Ketoconazole,Increased risk of Fluticasone side effects,"Ketoconazole can increase Fluticasone levels in the blood, leading to a higher risk of side effects."
+Trimethoprim,Methotrexate,Increased risk of bone marrow suppression,"Trimethoprim can enhance the effects of Methotrexate, increasing the risk of bone marrow suppression and other toxic effects."
+Trimethoprim,Warfarin,Increased risk of bleeding,Trimethoprim can increase Warfarin levels

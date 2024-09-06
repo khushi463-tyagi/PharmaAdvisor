@@ -1,0 +1,2501 @@
+Medicine,Side Effect,Alternatives,% Reduction in Side Effects
+Acetaminophen,Nausea,"Ibuprofen, Naproxen, Aspirin",30-40
+Acetaminophen,Rash,"Celecoxib, Meloxicam, Diclofenac",20-30
+Acetaminophen,Liver damage,"Acetylcysteine, Gabapentin, Fentanyl",50-60
+Acetaminophen,Stomach pain,"Paracetamol (lower dose), Gabapentin, Fentanyl",40-50
+Acetaminophen,Headache,"Ibuprofen, Aspirin, Celecoxib",20-30
+Acetaminophen,Dizziness,"Naproxen, Diclofenac, Celecoxib",30-40
+Acetaminophen,Allergic reactions,"Meloxicam, Diclofenac, Gabapentin",25-35
+Acetaminophen,Sweating,"Acetylcysteine, Codeine, Fentanyl",30-40
+Acetaminophen,Fatigue,"Ibuprofen, Aspirin, Gabapentin",20-30
+Acetaminophen,Skin reactions,"Meloxicam, Diclofenac, Celecoxib",25-35
+Acetylcysteine,Nausea,"Guaifenesin, Carbocisteine, Ambroxol",20-30
+Acetylcysteine,Vomiting,"Guaifenesin, Carbocisteine, Ambroxol",25-35
+Acetylcysteine,Diarrhea,"Guaifenesin, Carbocisteine, Ambroxol",20-30
+Acetylcysteine,Rash,"Guaifenesin, Carbocisteine, Ambroxol",15-25
+Acetylcysteine,Dizziness,"Guaifenesin, Carbocisteine, Ambroxol",15-25
+Acetylcysteine,Heartburn,"Guaifenesin, Carbocisteine, Ambroxol",20-30
+Acetylcysteine,Abdominal pain,"Guaifenesin, Carbocisteine, Ambroxol",15-25
+Acetylcysteine,Cough,"Guaifenesin, Carbocisteine, Ambroxol",20-30
+Acetylcysteine,Fatigue,"Guaifenesin, Carbocisteine, Ambroxol",15-25
+Acetylcysteine,Shortness of breath,"Guaifenesin, Carbocisteine, Ambroxol",20-30
+Acyclovir,Nausea,"Valacyclovir, Famciclovir, Ganciclovir",20-30
+Acyclovir,Diarrhea,"Valacyclovir, Famciclovir, Ganciclovir",20-30
+Acyclovir,Headache,"Valacyclovir, Famciclovir, Ganciclovir",15-25
+Acyclovir,Vomiting,"Valacyclovir, Famciclovir, Ganciclovir",25-35
+Acyclovir,Fatigue,"Valacyclovir, Famciclovir, Ganciclovir",15-25
+Acyclovir,Rash,"Valacyclovir, Famciclovir, Ganciclovir",15-25
+Acyclovir,Dizziness,"Valacyclovir, Famciclovir, Ganciclovir",20-30
+Acyclovir,Abdominal pain,"Valacyclovir, Famciclovir, Ganciclovir",20-30
+Acyclovir,Joint pain,"Valacyclovir, Famciclovir, Ganciclovir",15-25
+Acyclovir,Swelling (edema),"Valacyclovir, Famciclovir, Ganciclovir",15-25
+Adalimumab,Injection site reactions,"Etanercept, Infliximab, Abatacept",30-40
+Adalimumab,Upper respiratory infections,"Methotrexate, Sulfasalazine, Hydroxychloroquine",30-50
+Adalimumab,Headache,"Leflunomide, Tocilizumab, Rituximab",20-30
+Adalimumab,Rash,"Tofacitinib, Anakinra, Apremilast",25-35
+Adalimumab,Nausea,"Ustekinumab, Certolizumab, Secukinumab",30-40
+Adalimumab,Sinusitis,"Golimumab, Vedolizumab, Ixekizumab",25-35
+Adalimumab,Abdominal pain,"Sarilumab, Canakinumab, Tocilizumab",20-30
+Adalimumab,Injection site erythema,"Tocilizumab, Abatacept, Methotrexate",30-50
+Adalimumab,Hypertension,"Secukinumab, Apremilast, Abatacept",20-30
+Adalimumab,Dizziness,"Rituximab, Vedolizumab, Anakinra",20-30
+Adderall,Insomnia,"Lisdexamfetamine, Atomoxetine, Guanfacine",20-30
+Adderall,Loss of appetite,"Atomoxetine, Lisdexamfetamine, Guanfacine",25-35
+Adderall,Dry mouth,"Guanfacine, Atomoxetine, Lisdexamfetamine",20-30
+Adderall,Weight loss,"Atomoxetine, Guanfacine, Lisdexamfetamine",25-35
+Adderall,Anxiety,"Guanfacine, Lisdexamfetamine, Atomoxetine",20-30
+Adderall,Dizziness,"Lisdexamfetamine, Guanfacine, Atomoxetine",25-35
+Adderall,Tachycardia,"Atomoxetine, Lisdexamfetamine, Guanfacine",20-30
+Adderall,Elevated blood pressure,"Guanfacine, Atomoxetine, Lisdexamfetamine",25-35
+Adderall,Headache,"Lisdexamfetamine, Guanfacine, Atomoxetine",20-30
+Adderall,Nausea,"Atomoxetine, Guanfacine, Lisdexamfetamine",25-35
+Albuterol,Tremors,"Ipratropium, Tiotropium, Levalbuterol",40-50
+Albuterol,Nervousness,"Salmeterol, Formoterol, Montelukast",30-40
+Albuterol,Increased heart rate,"Budesonide, Fluticasone, Cromolyn",35-45
+Albuterol,Headache,"Beclometasone, Tiotropium, Montelukast",25-35
+Albuterol,Dizziness,"Levalbuterol, Tiotropium, Salmeterol",30-40
+Albuterol,Dry mouth,"Budesonide, Beclometasone, Fluticasone",25-35
+Albuterol,Throat irritation,"Montelukast, Cromolyn, Ipratropium",35-45
+Albuterol,Muscle cramps,"Formoterol, Salmeterol, Tiotropium",25-35
+Albuterol,Cough,"Levalbuterol, Budesonide, Beclometasone",30-40
+Albuterol,Insomnia,"Cromolyn, Montelukast, Ipratropium",35-45
+Alendronate,Abdominal pain,"Risedronate, Ibandronate, Zoledronic acid",25-35
+Alendronate,Esophageal irritation,"Calcium + Vitamin D, Teriparatide, Denosumab",30-40
+Alendronate,Muscle pain,"Calcitonin, Strontium ranelate, Estrogen therapy",25-35
+Alendronate,Constipation,"Raloxifene, Teriparatide, Calcium + Vitamin D",20-30
+Alendronate,Diarrhea,"Zoledronic acid, Ibandronate, Strontium ranelate",30-40
+Alendronate,Nausea,"Calcitonin, Denosumab, Estrogen therapy",25-35
+Alendronate,Headache,"Raloxifene, Teriparatide, Strontium ranelate",20-30
+Alendronate,Dizziness,"Risedronate, Ibandronate, Denosumab",25-35
+Alendronate,Joint pain,"Strontium ranelate, Zoledronic acid, Calcitonin",20-30
+Alendronate,Allergic reactions,"Teriparatide, Estrogen therapy, Denosumab",25-35
+Allopurinol,Rash,"Febuxostat, Probenecid, Colchicine",30-40
+Allopurinol,Diarrhea,"Sulfinpyrazone, Pegloticase, Rasburicase",30-40
+Allopurinol,Drowsiness,"Febuxostat, Probenecid, Benzbromarone",25-35
+Allopurinol,Nausea,"Colchicine, Pegloticase, Sulfinpyrazone",20-30
+Allopurinol,Headache,"Benzbromarone, Rasburicase, Pegloticase",20-30
+Allopurinol,Abdominal pain,"Probenecid, Colchicine, Febuxostat",20-30
+Allopurinol,Increased liver enzymes,"Rasburicase, Benzbromarone, Colchicine",20-30
+Allopurinol,Kidney stones,"Pegloticase, Febuxostat, Probenecid",25-35
+Allopurinol,Vomiting,"Sulfinpyrazone, Benzbromarone, Febuxostat",20-30
+Allopurinol,Fever,"Colchicine, Rasburicase, Probenecid",20-30
+Alprazolam,Drowsiness,"Buspirone, Hydroxyzine, Sertraline",40-50
+Alprazolam,Dizziness,"Escitalopram, Clonazepam, Gabapentin",30-40
+Alprazolam,Fatigue,"Venlafaxine, Mirtazapine, Paroxetine",30-40
+Alprazolam,Memory impairment,"Buspirone, Hydroxyzine, Duloxetine",40-50
+Alprazolam,Headache,"Escitalopram, Fluoxetine, Bupropion",20-30
+Alprazolam,Irritability,"Sertraline, Escitalopram, Venlafaxine",25-35
+Alprazolam,Dry mouth,"Buspirone, Clonazepam, Sertraline",30-40
+Alprazolam,Constipation,"Mirtazapine, Duloxetine, Bupropion",25-35
+Alprazolam,Increased appetite,"Fluoxetine, Sertraline, Venlafaxine",30-40
+Alprazolam,Blurred vision,"Buspirone, Hydroxyzine, Paroxetine",35-45
+Amitriptyline,Drowsiness,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Dry mouth,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Weight gain,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Constipation,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Dizziness,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Blurred vision,"Nortriptyline, Escitalopram, Sertraline",15-25
+Amitriptyline,Increased heart rate,"Nortriptyline, Sertraline, Escitalopram",15-25
+Amitriptyline,Confusion,"Nortriptyline, Escitalopram, Sertraline",20-30
+Amitriptyline,Insomnia,"Nortriptyline, Sertraline, Escitalopram",20-30
+Amitriptyline,Nausea,"Nortriptyline, Sertraline, Escitalopram",15-25
+Amlodipine,Swelling (Edema),"Losartan, Lisinopril, Hydrochlorothiazide",40-50
+Amlodipine,Dizziness,"Atenolol, Metoprolol, Valsartan",30-40
+Amlodipine,Flushing,"Enalapril, Losartan, Bisoprolol",25-35
+Amlodipine,Fatigue,"Telmisartan, Candesartan, Carvedilol",30-40
+Amlodipine,Nausea,"Perindopril, Ramipril, Irbesartan",30-40
+Amlodipine,Palpitations,"Lisinopril, Valsartan, Atenolol",20-30
+Amlodipine,Abdominal pain,"Hydrochlorothiazide, Losartan, Enalapril",30-40
+Amlodipine,Headache,"Metoprolol, Bisoprolol, Irbesartan",20-30
+Amlodipine,Constipation,"Lisinopril, Valsartan, Atenolol",25-35
+Amlodipine,Sleepiness,"Telmisartan, Carvedilol, Perindopril",30-40
+Amoxicillin,Nausea,"Cephalexin, Azithromycin, Clindamycin",30-40
+Amoxicillin,Diarrhea,"Clarithromycin, Doxycycline, Levofloxacin",25-35
+Amoxicillin,Rash,"Cefuroxime, Erythromycin, Metronidazole",20-30
+Amoxicillin,Vomiting,"Cefdinir, Azithromycin, Clarithromycin",25-35
+Amoxicillin,Abdominal pain,"Doxycycline, Levofloxacin, Clarithromycin",20-30
+Amoxicillin,Headache,"Cephalexin, Metronidazole, Erythromycin",20-30
+Amoxicillin,Yeast infection,"Azithromycin, Cefuroxime, Metronidazole",30-40
+Amoxicillin,Allergic reactions,"Clarithromycin, Doxycycline, Levofloxacin",30-40
+Amoxicillin,Dizziness,"Erythromycin, Cephalexin, Metronidazole",20-30
+Amoxicillin,Fatigue,"Doxycycline, Levofloxacin, Clarithromycin",20-30
+Amphetamine,Insomnia,"Methylphenidate, Guanfacine, Clonidine",30-40
+Amphetamine,Decreased appetite,"Atomoxetine, Guanfacine, Modafinil",40-50
+Amphetamine,Dry mouth,"Bupropion, Clonidine, Guanfacine",30-40
+Amphetamine,Anxiety,"Methylphenidate, Atomoxetine, Clonidine",25-35
+Amphetamine,Headache,"Modafinil, Bupropion, Methylphenidate",25-35
+Amphetamine,Dizziness,"Guanfacine, Modafinil, Clonidine",20-30
+Amphetamine,Increased heart rate,"Clonidine, Guanfacine, Atomoxetine",35-45
+Amphetamine,High blood pressure,"Clonidine, Guanfacine, Bupropion",30-40
+Amphetamine,Sweating,"Methylphenidate, Atomoxetine, Modafinil",30-40
+Amphetamine,Abdominal pain,"Guanfacine, Clonidine, Bupropion",20-30
+Aspirin,Stomach ulcers,"Ibuprofen, Acetaminophen, Celecoxib",20-30
+Aspirin,Gastrointestinal bleeding,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Aspirin,Nausea,"Celecoxib, Acetaminophen, Ibuprofen",20-30
+Aspirin,Heartburn,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Aspirin,Tinnitus,"Ibuprofen, Celecoxib, Acetaminophen",20-30
+Aspirin,Rashes,"Celecoxib, Ibuprofen, Acetaminophen",25-35
+Aspirin,Bruising,"Acetaminophen, Celecoxib, Ibuprofen",20-30
+Aspirin,Abdominal pain,"Celecoxib, Acetaminophen, Ibuprofen",25-35
+Aspirin,Allergic reactions,"Acetaminophen, Celecoxib, Ibuprofen",20-30
+Aspirin,Dizziness,"Celecoxib, Acetaminophen, Ibuprofen",25-35
+Atenolol,Fatigue,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Dizziness,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Cold extremities,"Metoprolol, Bisoprolol, Carvedilol",15-25
+Atenolol,Bradycardia,"Metoprolol, Bisoprolol, Carvedilol",15-25
+Atenolol,Shortness of breath,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Depression,"Metoprolol, Bisoprolol, Carvedilol",15-25
+Atenolol,Sleep disturbances,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Gastrointestinal disturbances,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Impotence,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Atenolol,Weight gain,"Metoprolol, Bisoprolol, Carvedilol",15-25
+Atenolol,Fatigue,"Metoprolol, Bisoprolol, Nebivolol",20-30
+Atenolol,Dizziness,"Bisoprolol, Nebivolol, Metoprolol",25-35
+Atenolol,Cold extremities,"Nebivolol, Metoprolol, Bisoprolol",20-30
+Atenolol,Bradycardia,"Bisoprolol, Nebivolol, Metoprolol",25-35
+Atenolol,Depression,"Nebivolol, Metoprolol, Bisoprolol",20-30
+Atenolol,Shortness of breath,"Metoprolol, Bisoprolol, Nebivolol",25-35
+Atenolol,Nausea,"Bisoprolol, Nebivolol, Metoprolol",20-30
+Atenolol,Headache,"Nebivolol, Metoprolol, Bisoprolol",25-35
+Atenolol,Sleep disturbances,"Bisoprolol, Nebivolol, Metoprolol",20-30
+Atenolol,Sexual dysfunction,"Nebivolol, Metoprolol, Bisoprolol",25-35
+Atomoxetine,Insomnia,"Guanfacine, Clonidine, Bupropion",30-40
+Atomoxetine,Nausea,"Modafinil, Methylphenidate, Guanfacine",30-40
+Atomoxetine,Dry mouth,"Clonidine, Guanfacine, Bupropion",30-40
+Atomoxetine,Fatigue,"Methylphenidate, Modafinil, Clonidine",25-35
+Atomoxetine,Decreased appetite,"Modafinil, Methylphenidate, Bupropion",40-50
+Atomoxetine,Dizziness,"Clonidine, Guanfacine, Modafinil",20-30
+Atomoxetine,Irritability,"Methylphenidate, Modafinil, Bupropion",25-35
+Atomoxetine,Increased heart rate,"Clonidine, Guanfacine, Modafinil",30-40
+Atomoxetine,Sweating,"Guanfacine, Clonidine, Methylphenidate",30-40
+Atomoxetine,Abdominal pain,"Modafinil, Bupropion, Clonidine",20-30
+Atorvastatin,Muscle pain,"Rosuvastatin, Pravastatin, Fluvastatin",30-40
+Atorvastatin,Nausea,"Pitavastatin, Ezetimibe, Lovastatin",20-30
+Atorvastatin,Diarrhea,"Simvastatin, Rosuvastatin, Pravastatin",20-30
+Atorvastatin,Headache,"Pitavastatin, Ezetimibe, Lovastatin",20-30
+Atorvastatin,Weakness,"Pravastatin, Fluvastatin, Pitavastatin",25-35
+Atorvastatin,Insomnia,"Simvastatin, Lovastatin, Pravastatin",30-40
+Atorvastatin,Constipation,"Rosuvastatin, Ezetimibe, Pitavastatin",25-35
+Atorvastatin,Joint pain,"Pravastatin, Fluvastatin, Simvastatin",20-30
+Atorvastatin,Dizziness,"Lovastatin, Rosuvastatin, Ezetimibe",20-30
+Atorvastatin,Rash,"Fluvastatin, Pitavastatin, Pravastatin",30-40
+Azathioprine,Nausea,"Mycophenolate, Methotrexate, Cyclosporine",20-30
+Azathioprine,Vomiting,"Methotrexate, Cyclosporine, Mycophenolate",25-35
+Azathioprine,Diarrhea,"Mycophenolate, Methotrexate, Cyclosporine",20-30
+Azathioprine,Abdominal pain,"Cyclosporine, Mycophenolate, Methotrexate",25-35
+Azathioprine,Liver enzyme elevation,"Mycophenolate, Methotrexate, Cyclosporine",20-30
+Azathioprine,Bone marrow suppression,"Cyclosporine, Mycophenolate, Methotrexate",25-35
+Azathioprine,Infections,"Methotrexate, Cyclosporine, Mycophenolate",20-30
+Azathioprine,Rash,"Cyclosporine, Mycophenolate, Methotrexate",25-35
+Azathioprine,Fatigue,"Mycophenolate, Methotrexate, Cyclosporine",20-30
+Azathioprine,Dizziness,"Cyclosporine, Mycophenolate, Methotrexate",25-35
+Azithromycin,Diarrhea,"Doxycycline, Clarithromycin, Levofloxacin",20-30
+Azithromycin,Nausea,"Doxycycline, Clarithromycin, Levofloxacin",25-35
+Azithromycin,Stomach pain,"Clarithromycin, Doxycycline, Levofloxacin",20-30
+Azithromycin,Vomiting,"Levofloxacin, Clarithromycin, Doxycycline",25-35
+Azithromycin,Headache,"Doxycycline, Levofloxacin, Clarithromycin",20-30
+Azithromycin,Dizziness,"Clarithromycin, Doxycycline, Levofloxacin",25-35
+Azithromycin,Rash,"Doxycycline, Levofloxacin, Clarithromycin",20-30
+Azithromycin,Fatigue,"Levofloxacin, Clarithromycin, Doxycycline",25-35
+Azithromycin,Allergic reaction,"Doxycycline, Levofloxacin, Clarithromycin",20-30
+Azithromycin,Abnormal liver function,"Clarithromycin, Doxycycline, Levofloxacin",25-35
+Baclofen,Drowsiness,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Dizziness,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Weakness,"Tizanidine, Cyclobenzaprine, Diazepam",15-25
+Baclofen,Nausea,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Headache,"Tizanidine, Cyclobenzaprine, Diazepam",15-25
+Baclofen,Fatigue,"Tizanidine, Cyclobenzaprine, Diazepam",15-25
+Baclofen,Constipation,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Confusion,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Trouble sleeping,"Tizanidine, Cyclobenzaprine, Diazepam",20-30
+Baclofen,Sweating,"Tizanidine, Cyclobenzaprine, Diazepam",15-25
+Baclofen,Drowsiness,"Tizanidine, Cyclobenzaprine, Methocarbamol",20-30
+Baclofen,Weakness,"Cyclobenzaprine, Tizanidine, Methocarbamol",25-35
+Baclofen,Dizziness,"Methocarbamol, Cyclobenzaprine, Tizanidine",20-30
+Baclofen,Nausea,"Cyclobenzaprine, Methocarbamol, Tizanidine",25-35
+Baclofen,Headache,"Tizanidine, Cyclobenzaprine, Methocarbamol",20-30
+Baclofen,Insomnia,"Methocarbamol, Tizanidine, Cyclobenzaprine",25-35
+Baclofen,Dry mouth,"Cyclobenzaprine, Tizanidine, Methocarbamol",20-30
+Baclofen,Constipation,"Tizanidine, Methocarbamol, Cyclobenzaprine",25-35
+Baclofen,Confusion,"Cyclobenzaprine, Methocarbamol, Tizanidine",20-30
+Baclofen,Urinary retention,"Tizanidine, Methocarbamol, Cyclobenzaprine",25-35
+Baloxavir,Diarrhea,"Oseltamivir, Zanamivir, Peramivir",20-30
+Baloxavir,Nausea,"Oseltamivir, Zanamivir, Peramivir",25-35
+Baloxavir,Headache,"Oseltamivir, Zanamivir, Rimantadine",20-30
+Baloxavir,Dizziness,"Peramivir, Rimantadine, Amantadine",20-30
+Baloxavir,Runny nose,"Oseltamivir, Rimantadine, Peramivir",20-30
+Baloxavir,Cough,"Zanamivir, Peramivir, Rimantadine",20-30
+Baloxavir,Sore throat,"Amantadine, Oseltamivir, Rimantadine",25-35
+Baloxavir,Abdominal pain,"Zanamivir, Peramivir, Amantadine",25-35
+Baloxavir,Vomiting,"Oseltamivir, Rimantadine, Zanamivir",30-40
+Baloxavir,Skin rash,"Peramivir, Amantadine, Rimantadine",20-30
+Benzonatate,Dizziness,"Dextromethorphan, Guaifenesin, Honey",20-30
+Benzonatate,Nausea,"Dextromethorphan, Guaifenesin, Honey",20-30
+Benzonatate,Constipation,"Dextromethorphan, Guaifenesin, Honey",20-30
+Benzonatate,Sedation,"Dextromethorphan, Guaifenesin, Honey",25-35
+Benzonatate,Rash,"Dextromethorphan, Guaifenesin, Honey",15-25
+Benzonatate,Headache,"Dextromethorphan, Guaifenesin, Honey",15-25
+Benzonatate,Mental confusion,"Dextromethorphan, Guaifenesin, Honey",20-30
+Benzonatate,Upset stomach,"Dextromethorphan, Guaifenesin, Honey",15-25
+Benzonatate,Fatigue,"Dextromethorphan, Guaifenesin, Honey",15-25
+Benzonatate,Chest numbness,"Dextromethorphan, Guaifenesin, Honey",20-30
+Bicalutamide,Hot flashes,"Degarelix, Leuprolide, Goserelin",20-30
+Bicalutamide,Breast tenderness,"Degarelix, Leuprolide, Goserelin",20-30
+Bicalutamide,Fatigue,"Degarelix, Leuprolide, Goserelin",15-25
+Bicalutamide,Nausea,"Degarelix, Leuprolide, Goserelin",15-25
+Bicalutamide,Diarrhea,"Degarelix, Leuprolide, Goserelin",20-30
+Bicalutamide,Anemia,"Degarelix, Leuprolide, Goserelin",15-25
+Bicalutamide,Bone pain,"Degarelix, Leuprolide, Goserelin",15-25
+Bicalutamide,Loss of appetite,"Degarelix, Leuprolide, Goserelin",20-30
+Bicalutamide,Constipation,"Degarelix, Leuprolide, Goserelin",20-30
+Bicalutamide,Insomnia,"Degarelix, Leuprolide, Goserelin",15-25
+Bisoprolol,Fatigue,"Metoprolol, Atenolol, Carvedilol",20-30
+Bisoprolol,Dizziness,"Metoprolol, Atenolol, Carvedilol",20-30
+Bisoprolol,Bradycardia,"Metoprolol, Atenolol, Carvedilol",15-25
+Bisoprolol,Cold extremities,"Metoprolol, Atenolol, Carvedilol",15-25
+Bisoprolol,Shortness of breath,"Metoprolol, Atenolol, Carvedilol",20-30
+Bisoprolol,Sleep disturbances,"Metoprolol, Atenolol, Carvedilol",15-25
+Bisoprolol,Depression,"Metoprolol, Atenolol, Carvedilol",15-25
+Bisoprolol,Impotence,"Metoprolol, Atenolol, Carvedilol",20-30
+Bisoprolol,Weight gain,"Metoprolol, Atenolol, Carvedilol",15-25
+Bisoprolol,Gastrointestinal disturbances,"Metoprolol, Atenolol, Carvedilol",20-30
+Bisoprolol,Fatigue,"Metoprolol, Atenolol, Nebivolol",20-30
+Bisoprolol,Dizziness,"Atenolol, Nebivolol, Metoprolol",25-35
+Bisoprolol,Cold extremities,"Nebivolol, Metoprolol, Atenolol",20-30
+Bisoprolol,Bradycardia,"Atenolol, Nebivolol, Metoprolol",25-35
+Bisoprolol,Depression,"Nebivolol, Metoprolol, Atenolol",20-30
+Bisoprolol,Shortness of breath,"Metoprolol, Atenolol, Nebivolol",25-35
+Bisoprolol,Nausea,"Atenolol, Nebivolol, Metoprolol",20-30
+Bisoprolol,Headache,"Nebivolol, Metoprolol, Atenolol",25-35
+Bisoprolol,Sleep disturbances,"Atenolol, Nebivolol, Metoprolol",20-30
+Bisoprolol,Sexual dysfunction,"Nebivolol, Metoprolol, Atenolol",25-35
+Budesonide,Throat irritation,"Fluticasone, Mometasone, Beclomethasone",30-40
+Budesonide,Cough,"Fluticasone, Mometasone, Ciclesonide",25-35
+Budesonide,Oral thrush,"Beclomethasone, Ciclesonide, Fluticasone",30-40
+Budesonide,Hoarseness,"Mometasone, Ciclesonide, Beclomethasone",25-35
+Budesonide,Nausea,"Fluticasone, Mometasone, Ciclesonide",20-30
+Budesonide,Headache,"Beclomethasone, Mometasone, Fluticasone",20-30
+Budesonide,Dizziness,"Ciclesonide, Mometasone, Beclomethasone",20-30
+Budesonide,Nasal irritation,"Fluticasone, Mometasone, Beclomethasone",25-35
+Budesonide,Nosebleed,"Ciclesonide, Fluticasone, Mometasone",20-30
+Budesonide,Back pain,"Mometasone, Beclomethasone, Fluticasone",20-30
+Bupropion,Insomnia,"Sertraline, Escitalopram, Mirtazapine",30-40
+Bupropion,Dry mouth,"Venlafaxine, Duloxetine, Escitalopram",20-30
+Bupropion,Headache,"Mirtazapine, Paroxetine, Venlafaxine",20-30
+Bupropion,Nausea,"Sertraline, Escitalopram, Paroxetine",20-30
+Bupropion,Dizziness,"Duloxetine, Sertraline, Escitalopram",20-30
+Bupropion,Weight loss,"Mirtazapine, Paroxetine, Venlafaxine",30-40
+Bupropion,Increased sweating,"Paroxetine, Escitalopram, Sertraline",25-35
+Bupropion,Constipation,"Duloxetine, Mirtazapine, Paroxetine",25-35
+Bupropion,Tremor,"Sertraline, Venlafaxine, Escitalopram",20-30
+Bupropion,Blurred vision,"Mirtazapine, Paroxetine, Sertraline",20-30
+Buspirone,Dizziness,"Escitalopram, Sertraline, Venlafaxine",20-30
+Buspirone,Nausea,"Mirtazapine, Paroxetine, Duloxetine",20-30
+Buspirone,Headache,"Sertraline, Escitalopram, Venlafaxine",20-30
+Buspirone,Nervousness,"Mirtazapine, Paroxetine, Duloxetine",20-30
+Buspirone,Lightheadedness,"Escitalopram, Sertraline, Venlafaxine",20-30
+Buspirone,Drowsiness,"Duloxetine, Mirtazapine, Paroxetine",20-30
+Buspirone,Blurred vision,"Escitalopram, Sertraline, Venlafaxine",20-30
+Buspirone,Trouble sleeping,"Mirtazapine, Paroxetine, Duloxetine",30-40
+Buspirone,Muscle pain,"Sertraline, Venlafaxine, Escitalopram",25-35
+Buspirone,Dry mouth,"Mirtazapine, Paroxetine, Duloxetine",20-30
+Calcitonin,Nausea,"Alendronate, Raloxifene, Zoledronic acid",20-30
+Calcitonin,Vomiting,"Risedronate, Ibandronate, Teriparatide",25-35
+Calcitonin,Flushing,"Alendronate, Raloxifene, Denosumab",30-40
+Calcitonin,Injection site reactions,"Zoledronic acid, Denosumab, Teriparatide",25-35
+Calcitonin,Dizziness,"Raloxifene, Ibandronate, Zoledronic acid",20-30
+Calcitonin,Back pain,"Denosumab, Teriparatide, Raloxifene",20-30
+Calcitonin,Headache,"Alendronate, Zoledronic acid, Denosumab",20-30
+Calcitonin,Abdominal pain,"Risedronate, Ibandronate, Teriparatide",20-30
+Calcitonin,Diarrhea,"Alendronate, Raloxifene, Zoledronic acid",20-30
+Calcitonin,Skin rash,"Teriparatide, Denosumab, Ibandronate",25-35
+Calcium Acetate,Nausea,"Sevelamer, Lanthanum carbonate, Sucroferric oxyhydroxide",25-35
+Calcium Acetate,Vomiting,"Ferric citrate, Lanthanum carbonate, Sevelamer",20-30
+Calcium Acetate,Hypercalcemia,"Sevelamer, Lanthanum carbonate, Ferric citrate",30-40
+Calcium Acetate,Constipation,"Sucroferric oxyhydroxide, Sevelamer, Lanthanum carbonate",20-30
+Calcium Acetate,Diarrhea,"Ferric citrate, Sevelamer, Sucroferric oxyhydroxide",25-35
+Calcium Acetate,Abdominal pain,"Lanthanum carbonate, Ferric citrate, Sevelamer",20-30
+Calcium Acetate,Loss of appetite,"Sucroferric oxyhydroxide, Lanthanum carbonate, Ferric citrate",25-35
+Calcium Acetate,Dizziness,"Sevelamer, Lanthanum carbonate, Ferric citrate",20-30
+Calcium Acetate,Dry mouth,"Sucroferric oxyhydroxide, Sevelamer, Lanthanum carbonate",20-30
+Calcium Acetate,Weakness ,"Lanthanum carbonate, Sevelamer, Sucroferric oxyhydroxide ",25-35 
+Canagliflozin,Urinary tract infection,"Empagliflozin, Dapagliflozin, Metformin",25-35
+Canagliflozin,Genital yeast infection,"Empagliflozin, Dapagliflozin, Metformin",30-40
+Canagliflozin,Increased urination,"Empagliflozin, Dapagliflozin, Glipizide",20-30
+Canagliflozin,Thirst,"Metformin, Glimepiride, Sitagliptin",20-30
+Canagliflozin,Low blood pressure,"Empagliflozin, Dapagliflozin, Glimepiride",25-35
+Canagliflozin,Dizziness,"Metformin, Sitagliptin, Glipizide",20-30
+Canagliflozin,Constipation,"Empagliflozin, Dapagliflozin, Metformin",25-35
+Canagliflozin,Nausea,"Sitagliptin, Metformin, Glipizide",20-30
+Canagliflozin,Fatigue,"Empagliflozin, Dapagliflozin, Sitagliptin",20-30
+Canagliflozin,Abdominal pain,"Metformin, Glipizide, Sitagliptin",25-35
+Carbamazepine,Dizziness,"Lamotrigine, Levetiracetam, Oxcarbazepine",25-35
+Carbamazepine,Drowsiness,"Lamotrigine, Levetiracetam, Topiramate",20-30
+Carbamazepine,Nausea,"Oxcarbazepine, Lamotrigine, Topiramate",25-35
+Carbamazepine,Vomiting,"Levetiracetam, Oxcarbazepine, Lamotrigine",20-30
+Carbamazepine,Headache,"Lamotrigine, Levetiracetam, Topiramate",20-30
+Carbamazepine,Blurred vision,"Oxcarbazepine, Lamotrigine, Levetiracetam",25-35
+Carbamazepine,Rash,"Lamotrigine, Topiramate, Levetiracetam",30-40
+Carbamazepine,Fatigue,"Levetiracetam, Oxcarbazepine, Topiramate",25-35
+Carbamazepine,Constipation,"Oxcarbazepine, Lamotrigine, Levetiracetam",20-30
+Carbamazepine,Confusion,"Levetiracetam, Topiramate, Lamotrigine",25-35
+Carvedilol,Dizziness,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Fatigue,"Metoprolol, Bisoprolol, Atenolol",15-25
+Carvedilol,Bradycardia,"Metoprolol, Bisoprolol, Atenolol",15-25
+Carvedilol,Hypotension,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Weight gain,"Metoprolol, Bisoprolol, Atenolol",15-25
+Carvedilol,Weakness,"Metoprolol, Bisoprolol, Atenolol",15-25
+Carvedilol,Shortness of breath,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Diarrhea,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Depression,"Metoprolol, Bisoprolol, Atenolol",15-25
+Carvedilol,Sleep disturbances,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Dizziness,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Fatigue,"Bisoprolol, Atenolol, Metoprolol",25-35
+Carvedilol,Hypotension,"Atenolol, Metoprolol, Bisoprolol",20-30
+Carvedilol,Bradycardia,"Bisoprolol, Atenolol, Metoprolol",25-35
+Carvedilol,Diarrhea,"Metoprolol, Bisoprolol, Atenolol",20-30
+Carvedilol,Weight gain,"Atenolol, Metoprolol, Bisoprolol",25-35
+Carvedilol,Weakness,"Bisoprolol, Metoprolol, Atenolol",20-30
+Carvedilol,Hyperglycemia,"Metoprolol, Atenolol, Bisoprolol",25-35
+Carvedilol,Vision disturbances,"Atenolol, Bisoprolol, Metoprolol",20-30
+Carvedilol,Cold extremities,"Bisoprolol, Metoprolol, Atenolol",25-35
+Celecoxib,Nausea,"Ibuprofen, Naproxen, Meloxicam",20-30
+Celecoxib,Diarrhea,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Headache,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Dizziness,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Abdominal pain,"Ibuprofen, Naproxen, Meloxicam",20-30
+Celecoxib,Gas,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Indigestion,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Rash,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Heartburn,"Ibuprofen, Naproxen, Meloxicam",15-25
+Celecoxib,Vomiting,"Ibuprofen, Naproxen, Meloxicam",20-30
+Cephalexin,Nausea,"Amoxicillin, Clindamycin, Doxycycline",20-30
+Cephalexin,Diarrhea,"Amoxicillin, Clindamycin, Doxycycline",20-30
+Cephalexin,Rash,"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cephalexin,Dizziness,"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cephalexin,Headache,"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cephalexin,Fatigue,"Amoxicillin, Clindamycin, Doxycycline",20-30
+Cephalexin,Abdominal pain,"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cephalexin,Vaginal itching or discharge,"Amoxicillin, Clindamycin, Doxycycline",20-30
+Cephalexin,Swelling (edema),"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cephalexin,Joint pain,"Amoxicillin, Clindamycin, Doxycycline",15-25
+Cetirizine,Drowsiness,"Loratadine, Fexofenadine, Desloratadine",30-40
+Cetirizine,Dry mouth,"Loratadine, Fexofenadine, Desloratadine",25-35
+Cetirizine,Fatigue,"Loratadine, Fexofenadine, Levocetirizine",20-30
+Cetirizine,Dizziness,"Desloratadine, Loratadine, Fexofenadine",20-30
+Cetirizine,Nausea,"Fexofenadine, Desloratadine, Loratadine",20-30
+Cetirizine,Sore throat,"Levocetirizine, Loratadine, Fexofenadine",25-35
+Cetirizine,Cough,"Desloratadine, Loratadine, Fexofenadine",20-30
+Cetirizine,Abdominal pain,"Levocetirizine, Desloratadine, Fexofenadine",20-30
+Cetirizine,Constipation,"Fexofenadine, Desloratadine, Levocetirizine",20-30
+Cetirizine,Headache,"Loratadine, Fexofenadine, Levocetirizine",25-35
+Chlorpheniramine,Drowsiness,"Loratadine, Fexofenadine, Cetirizine",30-40
+Chlorpheniramine,Dry mouth,"Loratadine, Fexofenadine, Desloratadine",25-35
+Chlorpheniramine,Dizziness,"Fexofenadine, Cetirizine, Desloratadine",20-30
+Chlorpheniramine,Constipation,"Loratadine, Desloratadine, Levocetirizine",20-30
+Chlorpheniramine,Blurred vision,"Fexofenadine, Cetirizine, Desloratadine",25-35
+Chlorpheniramine,Dry eyes,"Loratadine, Fexofenadine, Desloratadine",20-30
+Chlorpheniramine,Headache,"Fexofenadine, Desloratadine, Levocetirizine",20-30
+Chlorpheniramine,Nausea,"Loratadine, Cetirizine, Desloratadine",25-35
+Chlorpheniramine,Nervousness,"Fexofenadine, Cetirizine, Levocetirizine",20-30
+Chlorpheniramine,Fatigue,"Loratadine, Fexofenadine, Levocetirizine",20-30
+Ciprofloxacin,Nausea,"Levofloxacin, Moxifloxacin, Doxycycline",20-30
+Ciprofloxacin,Diarrhea,"Levofloxacin, Moxifloxacin, Azithromycin",25-35
+Ciprofloxacin,Dizziness,"Doxycycline, Moxifloxacin, Azithromycin",20-30
+Ciprofloxacin,Headache,"Levofloxacin, Doxycycline, Azithromycin",20-30
+Ciprofloxacin,Rash,"Moxifloxacin, Azithromycin, Levofloxacin",25-35
+Ciprofloxacin,Abdominal pain,"Doxycycline, Azithromycin, Moxifloxacin",20-30
+Ciprofloxacin,Insomnia,"Azithromycin, Levofloxacin, Doxycycline",20-30
+Ciprofloxacin,Anxiety,"Moxifloxacin, Azithromycin, Levofloxacin",25-35
+Ciprofloxacin,Tendon rupture,"Azithromycin, Levofloxacin, Doxycycline",30-40
+Ciprofloxacin,Photosensitivity,"Moxifloxacin, Doxycycline, Levofloxacin",25-35
+Citalopram,Nausea,"Sertraline, Escitalopram, Fluoxetine",20-30
+Citalopram,Dry mouth,"Escitalopram, Sertraline, Bupropion",25-35
+Citalopram,Drowsiness,"Fluoxetine, Escitalopram, Sertraline",20-30
+Citalopram,Insomnia,"Sertraline, Bupropion, Escitalopram",20-30
+Citalopram,Sweating,"Fluoxetine, Escitalopram, Bupropion",25-35
+Citalopram,Fatigue,"Sertraline, Fluoxetine, Escitalopram",20-30
+Citalopram,Diarrhea,"Escitalopram, Fluoxetine, Sertraline",20-30
+Citalopram,Tremor,"Bupropion, Escitalopram, Sertraline",25-35
+Citalopram,Weight gain,"Fluoxetine, Bupropion, Escitalopram",20-30
+Citalopram,Sexual dysfunction,"Bupropion, Sertraline, Fluoxetine",30-40
+Clarithromycin,Nausea,"Azithromycin, Erythromycin, Doxycycline",20-30
+Clarithromycin,Diarrhea,"Azithromycin, Erythromycin, Doxycycline",20-30
+Clarithromycin,Headache,"Azithromycin, Erythromycin, Doxycycline",15-25
+Clarithromycin,Taste changes,"Azithromycin, Erythromycin, Doxycycline",20-30
+Clarithromycin,Abdominal pain,"Azithromycin, Erythromycin, Doxycycline",15-25
+Clarithromycin,Rash,"Azithromycin, Erythromycin, Doxycycline",15-25
+Clarithromycin,Vomiting,"Azithromycin, Erythromycin, Doxycycline",20-30
+Clarithromycin,Dizziness,"Azithromycin, Erythromycin, Doxycycline",15-25
+Clarithromycin,Fatigue,"Azithromycin, Erythromycin, Doxycycline",20-30
+Clarithromycin,Insomnia,"Azithromycin, Erythromycin, Doxycycline",15-25
+Clindamycin,Diarrhea,"Doxycycline, Azithromycin, Amoxicillin",20-30
+Clindamycin,Nausea,"Amoxicillin, Doxycycline, Azithromycin",25-35
+Clindamycin,Vomiting,"Doxycycline, Azithromycin, Amoxicillin",20-30
+Clindamycin,Abdominal pain,"Azithromycin, Amoxicillin, Doxycycline",25-35
+Clindamycin,Rash,"Amoxicillin, Doxycycline, Azithromycin",20-30
+Clindamycin,Vaginal itching,"Azithromycin, Amoxicillin, Doxycycline",25-35
+Clindamycin,Heartburn,"Doxycycline, Amoxicillin, Azithromycin",20-30
+Clindamycin,Metallic taste,"Azithromycin, Doxycycline, Amoxicillin",25-35
+Clindamycin,Jaundice,"Amoxicillin, Azithromycin, Doxycycline",20-30
+Clindamycin,Liver enzyme elevation,"Doxycycline, Amoxicillin, Azithromycin",25-35
+Clonazepam,Drowsiness,"Diazepam, Lorazepam, Buspirone",20-30
+Clonazepam,Dizziness,"Lorazepam, Diazepam, Buspirone",25-35
+Clonazepam,Fatigue,"Buspirone, Diazepam, Lorazepam",20-30
+Clonazepam,Coordination problems,"Diazepam, Buspirone, Lorazepam",25-35
+Clonazepam,Memory problems,"Buspirone, Lorazepam, Diazepam",20-30
+Clonazepam,Depression,"Lorazepam, Buspirone, Diazepam",25-35
+Clonazepam,Headache,"Diazepam, Lorazepam, Buspirone",20-30
+Clonazepam,Blurred vision,"Buspirone, Diazepam, Lorazepam",25-35
+Clonazepam,Dry mouth,"Lorazepam, Buspirone, Diazepam",20-30
+Clonazepam,Increased salivation,"Buspirone, Diazepam, Lorazepam",25-35
+Clonidine,Drowsiness,"Atenolol, Lisinopril, Metoprolol",25-35
+Clonidine,Dry mouth,"Atenolol, Lisinopril, Metoprolol",20-30
+Clonidine,Fatigue,"Lisinopril, Atenolol, Metoprolol",25-35
+Clonidine,Dizziness,"Metoprolol, Atenolol, Lisinopril",20-30
+Clonidine,Constipation,"Lisinopril, Atenolol, Metoprolol",20-30
+Clonidine,Low blood pressure,"Atenolol, Lisinopril, Metoprolol",20-30
+Clonidine,Headache,"Lisinopril, Metoprolol, Atenolol",25-35
+Clonidine,Nausea,"Atenolol, Metoprolol, Lisinopril",20-30
+Clonidine,Weight gain,"Metoprolol, Atenolol, Lisinopril",25-35
+Clonidine,Rash,"Lisinopril, Atenolol, Metoprolol",20-30
+Clopidogrel,Bleeding,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Bruising,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Diarrhea,"Prasugrel, Ticagrelor, Aspirin",20-30
+Clopidogrel,Rash,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Stomach pain,"Prasugrel, Ticagrelor, Aspirin",20-30
+Clopidogrel,Indigestion,"Prasugrel, Ticagrelor, Aspirin",20-30
+Clopidogrel,Fatigue,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Dizziness,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Itching,"Prasugrel, Ticagrelor, Aspirin",15-25
+Clopidogrel,Shortness of breath,"Prasugrel, Ticagrelor, Aspirin",15-25
+Codeine,Nausea,"Hydrocodone, Acetaminophen, Tramadol",25-35
+Codeine,Drowsiness,"Acetaminophen, Tramadol, Hydrocodone",20-30
+Codeine,Dizziness,"Tramadol, Hydrocodone, Acetaminophen",25-35
+Codeine,Vomiting,"Hydrocodone, Acetaminophen, Tramadol",20-30
+Codeine,Respiratory depression,"Acetaminophen, Tramadol, Hydrocodone",25-35
+Codeine,Headache,"Tramadol, Acetaminophen, Hydrocodone",20-30
+Codeine,Dry mouth,"Hydrocodone, Tramadol, Acetaminophen",25-35
+Codeine,Itching,"Tramadol, Acetaminophen, Hydrocodone",20-30
+Codeine,Confusion,"Acetaminophen, Hydrocodone, Tramadol",25-35
+Colchicine,Diarrhea,"Allopurinol, Febuxostat, Probenecid",25-35
+Colchicine,Nausea,"Allopurinol, Febuxostat, Probenecid",20-30
+Colchicine,Vomiting,"Febuxostat, Probenecid, Allopurinol",20-30
+Colchicine,Abdominal pain,"Allopurinol, Febuxostat, Probenecid",20-30
+Colchicine,Fatigue,"Probenecid, Allopurinol, Febuxostat",25-35
+Colchicine,Muscle weakness,"Febuxostat, Allopurinol, Probenecid",20-30
+Colchicine,Headache,"Allopurinol, Febuxostat, Probenecid",20-30
+Colchicine,Rash,"Febuxostat, Probenecid, Allopurinol",20-30
+Colchicine,Decreased appetite,"Allopurinol, Probenecid, Febuxostat",20-30
+Colchicine,Low blood cell count,"Febuxostat, Probenecid, Allopurinol",25-35
+Crocin,Nausea,"Ibuprofen, Aspirin, Naproxen",20-30
+Crocin,Rash,"Ibuprofen, Naproxen, Aspirin",25-35
+Crocin,Liver damage,"Ibuprofen, Naproxen, Aspirin",40-50
+Crocin,Allergic reactions,"Ibuprofen, Naproxen, Aspirin",30-40
+Crocin,Dizziness,"Naproxen, Ibuprofen, Aspirin",25-35
+Crocin,Shortness of breath,"Aspirin, Ibuprofen, Naproxen",20-30
+Crocin,Stomach pain,"Ibuprofen, Aspirin, Naproxen",25-35
+Crocin,Anemia,"Naproxen, Ibuprofen, Aspirin",30-40
+Crocin,Low blood sugar (rare),"Aspirin, Ibuprofen, Naproxen",20-30
+Crocin,Kidney damage (long-term),"Ibuprofen, Naproxen, Aspirin",35-45
+Cromolyn Sodium,Cough,"Montelukast, Zafirlukast, Fluticasone",25-35
+Cromolyn Sodium,Wheezing,"Montelukast, Budesonide, Fluticasone",20-30
+Cromolyn Sodium,Throat irritation,"Fluticasone, Budesonide, Beclomethasone",20-30
+Cromolyn Sodium,Unpleasant taste,"Montelukast, Zafirlukast, Budesonide",20-30
+Cromolyn Sodium,Sneezing,"Fluticasone, Beclomethasone, Budesonide",25-35
+Cromolyn Sodium,Nosebleed,"Budesonide, Montelukast, Fluticasone",25-35
+Cromolyn Sodium,Headache,"Montelukast, Zafirlukast, Beclomethasone",20-30
+Cromolyn Sodium,Dizziness,"Budesonide, Montelukast, Fluticasone",20-30
+Cromolyn Sodium,Nausea,"Zafirlukast, Budesonide, Montelukast",20-30
+Cromolyn Sodium,Irritation in mouth,"Fluticasone, Beclomethasone, Budesonide",25-35
+Cyanocobalamin,Injection site pain,"Hydroxocobalamin, Oral B12 supplements, Methylcobalamin",30-40
+Cyanocobalamin,Diarrhea,"Hydroxocobalamin, Oral B12 supplements, Methylcobalamin",25-35
+Cyanocobalamin,Nausea,"Methylcobalamin, Hydroxocobalamin, Oral B12 supplements",20-30
+Cyanocobalamin,Headache,"Oral B12 supplements, Methylcobalamin, Hydroxocobalamin",20-30
+Cyanocobalamin,Dizziness,"Methylcobalamin, Oral B12 supplements, Hydroxocobalamin",20-30
+Cyanocobalamin,Weakness,"Hydroxocobalamin, Oral B12 supplements, Methylcobalamin",25-35
+Cyanocobalamin,Anxiety,"Oral B12 supplements, Methylcobalamin, Hydroxocobalamin",20-30
+Cyanocobalamin,Swelling,"Methylcobalamin, Hydroxocobalamin, Oral B12 supplements",20-30
+Cyanocobalamin,Itching,"Hydroxocobalamin, Methylcobalamin, Oral B12 supplements",25-35
+Cyanocobalamin,Rash,"Oral B12 supplements, Methylcobalamin, Hydroxocobalamin",20-30
+Cyclobenzaprine,Drowsiness,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Dry mouth,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Dizziness,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Constipation,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Fatigue,"Tizanidine, Baclofen, Methocarbamol",15-25
+Cyclobenzaprine,Headache,"Tizanidine, Baclofen, Methocarbamol",15-25
+Cyclobenzaprine,Blurred vision,"Tizanidine, Baclofen, Methocarbamol",15-25
+Cyclobenzaprine,Nausea,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Confusion,"Tizanidine, Baclofen, Methocarbamol",20-30
+Cyclobenzaprine,Sweating,"Tizanidine, Baclofen, Methocarbamol",15-25
+Dapagliflozin,Urinary tract infection,"Metformin, Pioglitazone, Linagliptin",20-30
+Dapagliflozin,Increased urination,"Pioglitazone, Linagliptin, Metformin",25-35
+Dapagliflozin,Thirst,"Linagliptin, Metformin, Pioglitazone",20-30
+Dapagliflozin,Nausea,"Metformin, Pioglitazone, Linagliptin",25-35
+Dapagliflozin,Hypoglycemia,"Pioglitazone, Linagliptin, Metformin",20-30
+Dapagliflozin,Dizziness,"Linagliptin, Metformin, Pioglitazone",25-35
+Dapagliflozin,Fatigue,"Metformin, Pioglitazone, Linagliptin",20-30
+Dapagliflozin,Back pain,"Pioglitazone, Linagliptin, Metformin",25-35
+Dapagliflozin,Increased cholesterol,"Linagliptin, Metformin, Pioglitazone",20-30
+Dapagliflozin,Genital infections,"Metformin, Pioglitazone, Linagliptin",25-35
+Desloratadine,Drowsiness,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Dry mouth,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Headache,"Fexofenadine, Loratadine, Cetirizine",15-25
+Desloratadine,Fatigue,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Nausea,"Fexofenadine, Loratadine, Cetirizine",15-25
+Desloratadine,Muscle pain,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Sore throat,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Dry eyes,"Fexofenadine, Loratadine, Cetirizine",15-25
+Desloratadine,Dizziness,"Fexofenadine, Loratadine, Cetirizine",20-30
+Desloratadine,Indigestion,"Fexofenadine, Loratadine, Cetirizine",15-25
+Desloratadine,Drowsiness,"Loratadine, Fexofenadine, Cetirizine",20-30
+Desloratadine,Dry mouth,"Fexofenadine, Cetirizine, Loratadine",25-35
+Desloratadine,Fatigue,"Cetirizine, Loratadine, Fexofenadine",20-30
+Desloratadine,Headache,"Loratadine, Fexofenadine, Cetirizine",25-35
+Desloratadine,Dizziness,"Fexofenadine, Cetirizine, Loratadine",20-30
+Desloratadine,Sore throat,"Cetirizine, Loratadine, Fexofenadine",25-35
+Desloratadine,Muscle pain,"Loratadine, Fexofenadine, Cetirizine",20-30
+Desloratadine,Nausea,"Fexofenadine, Cetirizine, Loratadine",25-35
+Desloratadine,Insomnia,"Cetirizine, Loratadine, Fexofenadine",20-30
+Desloratadine,Indigestion,"Loratadine, Fexofenadine, Cetirizine",25-35
+Dexlansoprazole,Diarrhea,"Omeprazole, Esomeprazole, Pantoprazole",20-30
+Dexlansoprazole,Nausea,"Esomeprazole, Pantoprazole, Omeprazole",25-35
+Dexlansoprazole,Abdominal pain,"Pantoprazole, Omeprazole, Esomeprazole",20-30
+Dexlansoprazole,Flatulence,"Omeprazole, Esomeprazole, Pantoprazole",25-35
+Dexlansoprazole,Vomiting,"Esomeprazole, Pantoprazole, Omeprazole",20-30
+Dexlansoprazole,Constipation,"Pantoprazole, Omeprazole, Esomeprazole",25-35
+Dexlansoprazole,Headache,"Omeprazole, Esomeprazole, Pantoprazole",20-30
+Dexlansoprazole,Dizziness,"Esomeprazole, Pantoprazole, Omeprazole",25-35
+Dexlansoprazole,Rash,"Pantoprazole, Omeprazole, Esomeprazole",20-30
+Dexlansoprazole,Fatigue,"Omeprazole, Esomeprazole, Pantoprazole",25-35
+Dextromethorphan,Drowsiness,"Guaifenesin, Benzonatate, Acetaminophen",20-30
+Dextromethorphan,Dizziness,"Benzonatate, Acetaminophen, Guaifenesin",25-35
+Dextromethorphan,Nausea,"Acetaminophen, Guaifenesin, Benzonatate",20-30
+Dextromethorphan,Vomiting,"Guaifenesin, Acetaminophen, Benzonatate",25-35
+Dextromethorphan,Confusion,"Benzonatate, Guaifenesin, Acetaminophen",20-30
+Dextromethorphan,Constipation,"Acetaminophen, Benzonatate, Guaifenesin",25-35
+Dextromethorphan,Nervousness,"Guaifenesin, Acetaminophen, Benzonatate",20-30
+Dextromethorphan,Rash,"Acetaminophen, Benzonatate, Guaifenesin",25-35
+Dextromethorphan,Restlessness,"Benzonatate, Guaifenesin, Acetaminophen",20-30
+Dextromethorphan,Insomnia,"Guaifenesin, Acetaminophen, Benzonatate",25-35
+Diazepam,Drowsiness,"Lorazepam, Clonazepam, Buspirone",25-35
+Diazepam,Fatigue,"Clonazepam, Buspirone, Lorazepam",20-30
+Diazepam,Muscle weakness,"Buspirone, Lorazepam, Clonazepam",20-30
+Diazepam,Dizziness,"Lorazepam, Buspirone, Clonazepam",20-30
+Diazepam,Confusion,"Clonazepam, Buspirone, Lorazepam",25-35
+Diazepam,Nausea,"Buspirone, Lorazepam, Clonazepam",20-30
+Diazepam,Blurred vision,"Lorazepam, Clonazepam, Buspirone",20-30
+Diazepam,Constipation,"Clonazepam, Buspirone, Lorazepam",20-30
+Diazepam,Memory issues,"Buspirone, Clonazepam, Lorazepam",30-40
+Diazepam,Tremors,"Clonazepam, Buspirone, Lorazepam",25-35
+Diclofenac,Stomach pain,"Ibuprofen, Naproxen, Celecoxib",20-30
+Diclofenac,Heartburn,"Ibuprofen, Naproxen, Celecoxib",20-30
+Diclofenac,Nausea,"Ibuprofen, Naproxen, Celecoxib",15-25
+Diclofenac,Dizziness,"Ibuprofen, Naproxen, Celecoxib",15-25
+Diclofenac,Headache,"Ibuprofen, Naproxen, Celecoxib",15-25
+Diclofenac,Diarrhea,"Ibuprofen, Naproxen, Celecoxib",20-30
+Diclofenac,Indigestion,"Ibuprofen, Naproxen, Celecoxib",20-30
+Diclofenac,Rash,"Ibuprofen, Naproxen, Celecoxib",15-25
+Diclofenac,Constipation,"Ibuprofen, Naproxen, Celecoxib",20-30
+Diclofenac,Gas,"Ibuprofen, Naproxen, Celecoxib",15-25
+Digoxin,Nausea,"Amiodarone, Diltiazem, Metoprolol",20-30
+Digoxin,Vomiting,"Diltiazem, Metoprolol, Amiodarone",25-35
+Digoxin,Dizziness,"Metoprolol, Amiodarone, Diltiazem",20-30
+Digoxin,Fatigue,"Amiodarone, Diltiazem, Metoprolol",25-35
+Digoxin,Vision changes,"Diltiazem, Metoprolol, Amiodarone",20-30
+Digoxin,Headache,"Metoprolol, Amiodarone, Diltiazem",25-35
+Digoxin,Irregular heartbeat,"Amiodarone, Diltiazem, Metoprolol",20-30
+Digoxin,Confusion,"Diltiazem, Metoprolol, Amiodarone",25-35
+Digoxin,Diarrhea,"Metoprolol, Amiodarone, Diltiazem",20-30
+Digoxin,Rash,"Amiodarone, Diltiazem, Metoprolol",25-35
+Diltiazem,Dizziness,"Amlodipine, Verapamil, Nifedipine",20-30
+Diltiazem,Headache,"Amlodipine, Verapamil, Nifedipine",15-25
+Diltiazem,Fatigue,"Amlodipine, Verapamil, Nifedipine",20-30
+Diltiazem,Nausea,"Amlodipine, Verapamil, Nifedipine",15-25
+Diltiazem,Constipation,"Amlodipine, Verapamil, Nifedipine",20-30
+Diltiazem,Edema (Swelling),"Amlodipine, Verapamil, Nifedipine",20-30
+Diltiazem,Rash,"Amlodipine, Verapamil, Nifedipine",15-25
+Diltiazem,Shortness of breath,"Amlodipine, Verapamil, Nifedipine",20-30
+Diltiazem,Flushing,"Amlodipine, Verapamil, Nifedipine",15-25
+Diltiazem,Weakness,"Amlodipine, Verapamil, Nifedipine",15-25
+Diphenhydramine,Drowsiness,"Loratadine, Cetirizine, Fexofenadine",30-40
+Diphenhydramine,Dry mouth,"Cetirizine, Fexofenadine, Loratadine",25-35
+Diphenhydramine,Dizziness,"Fexofenadine, Cetirizine, Loratadine",20-30
+Diphenhydramine,Constipation,"Loratadine, Fexofenadine, Cetirizine",20-30
+Diphenhydramine,Blurred vision,"Cetirizine, Fexofenadine, Loratadine",25-35
+Diphenhydramine,Dry eyes,"Fexofenadine, Cetirizine, Loratadine",20-30
+Diphenhydramine,Urinary retention,"Loratadine, Cetirizine, Fexofenadine",20-30
+Diphenhydramine,Headache,"Cetirizine, Loratadine, Fexofenadine",20-30
+Diphenhydramine,Confusion,"Fexofenadine, Loratadine, Cetirizine",30-40
+Diphenhydramine,Nervousness,"Loratadine, Cetirizine, Fexofenadine",20-30
+Domperidone,Dry mouth,"Metoclopramide, Ondansetron, Prochlorperazine",20-30
+Domperidone,Headache,"Ondansetron, Prochlorperazine, Metoclopramide",25-35
+Domperidone,Dizziness,"Prochlorperazine, Metoclopramide, Ondansetron",20-30
+Domperidone,Abdominal cramps,"Metoclopramide, Ondansetron, Prochlorperazine",25-35
+Domperidone,Diarrhea,"Ondansetron, Prochlorperazine, Metoclopramide",20-30
+Domperidone,Rash,"Prochlorperazine, Metoclopramide, Ondansetron",25-35
+Domperidone,Fatigue,"Metoclopramide, Ondansetron, Prochlorperazine",20-30
+Domperidone,Insomnia,"Ondansetron, Prochlorperazine, Metoclopramide",25-35
+Domperidone,Restlessness,"Prochlorperazine, Metoclopramide, Ondansetron",20-30
+Domperidone,Irregular heartbeat,"Metoclopramide, Ondansetron, Prochlorperazine",25-35
+Doxycycline,Nausea,"Azithromycin, Clindamycin, Amoxicillin",25-35
+Doxycycline,Diarrhea,"Clindamycin, Amoxicillin, Azithromycin",20-30
+Doxycycline,Sun sensitivity,"Amoxicillin, Azithromycin, Clindamycin",30-40
+Doxycycline,Upset stomach,"Azithromycin, Clindamycin, Amoxicillin",20-30
+Doxycycline,Headache,"Clindamycin, Azithromycin, Amoxicillin",20-30
+Doxycycline,Rash,"Amoxicillin, Azithromycin, Clindamycin",25-35
+Doxycycline,Difficulty swallowing,"Clindamycin, Amoxicillin, Azithromycin",25-35
+Doxycycline,Yeast infections,"Azithromycin, Amoxicillin, Clindamycin",20-30
+Doxycycline,Fatigue,"Amoxicillin, Clindamycin, Azithromycin",20-30
+Doxycycline,Joint pain,"Azithromycin, Clindamycin, Amoxicillin",25-35
+Duloxetine,Nausea,"Venlafaxine, Bupropion, Sertraline",20-30
+Duloxetine,Dry mouth,"Escitalopram, Fluoxetine, Sertraline",25-35
+Duloxetine,Fatigue,"Bupropion, Venlafaxine, Sertraline",25-35
+Duloxetine,Constipation,"Escitalopram, Sertraline, Fluoxetine",20-30
+Duloxetine,Insomnia,"Venlafaxine, Bupropion, Sertraline",20-30
+Duloxetine,Dizziness,"Escitalopram, Fluoxetine, Sertraline",25-35
+Duloxetine,Sweating,"Bupropion, Venlafaxine, Sertraline",25-35
+Duloxetine,Decreased appetite,"Escitalopram, Sertraline, Fluoxetine",20-30
+Duloxetine,Headache,"Venlafaxine, Bupropion, Sertraline",20-30
+Duloxetine,Blurred vision,"Fluoxetine, Escitalopram, Sertraline",25-35
+Emtricitabine,Nausea,"Tenofovir, Lamivudine, Abacavir",20-30
+Emtricitabine,Diarrhea,"Lamivudine, Abacavir, Tenofovir",25-35
+Emtricitabine,Headache,"Abacavir, Tenofovir, Lamivudine",20-30
+Emtricitabine,Dizziness,"Tenofovir, Lamivudine, Abacavir",25-35
+Emtricitabine,Fatigue,"Lamivudine, Abacavir, Tenofovir",20-30
+Emtricitabine,Rash,"Abacavir, Tenofovir, Lamivudine",25-35
+Emtricitabine,Increased liver enzymes,"Tenofovir, Lamivudine, Abacavir",20-30
+Emtricitabine,Hyperpigmentation,"Lamivudine, Abacavir, Tenofovir",25-35
+Emtricitabine,Sleep disturbances,"Abacavir, Tenofovir, Lamivudine",20-30
+Emtricitabine,Abdominal pain,"Tenofovir, Lamivudine, Abacavir",25-35
+Enalapril,Cough,"Losartan, Valsartan, Telmisartan",25-35
+Enalapril,Dizziness,"Losartan, Valsartan, Telmisartan",20-30
+Enalapril,Fatigue,"Losartan, Valsartan, Telmisartan",20-30
+Enalapril,Headache,"Losartan, Valsartan, Telmisartan",15-25
+Enalapril,Nausea,"Losartan, Valsartan, Telmisartan",15-25
+Enalapril,Rash,"Losartan, Valsartan, Telmisartan",15-25
+Enalapril,Low blood pressure,"Losartan, Valsartan, Telmisartan",20-30
+Enalapril,Diarrhea,"Losartan, Valsartan, Telmisartan",20-30
+Enalapril,Elevated potassium levels,"Losartan, Valsartan, Telmisartan",15-25
+Enalapril,Chest pain,"Losartan, Valsartan, Telmisartan",15-25
+Enalapril,Cough,"Losartan, Valsartan, Amlodipine",20-30
+Enalapril,Dizziness,"Valsartan, Amlodipine, Losartan",25-35
+Enalapril,Fatigue,"Amlodipine, Losartan, Valsartan",20-30
+Enalapril,Headache,"Losartan, Valsartan, Amlodipine",25-35
+Enalapril,Nausea,"Valsartan, Amlodipine, Losartan",20-30
+Enalapril,Rash,"Amlodipine, Losartan, Valsartan",25-35
+Enalapril,Elevated potassium,"Losartan, Valsartan, Amlodipine",20-30
+Enalapril,Low blood pressure,"Valsartan, Amlodipine, Losartan",25-35
+Enalapril,Muscle cramps,"Amlodipine, Losartan, Valsartan",20-30
+Enalapril,Increased creatinine,"Losartan, Valsartan, Amlodipine",25-35
+Enoxaparin,Bleeding,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Bruising,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Rash,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Nausea,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Diarrhea,"Dabigatran, Apixaban, Rivaroxaban",20-30
+Enoxaparin,Anemia,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Pain at injection site,"Dabigatran, Apixaban, Rivaroxaban",20-30
+Enoxaparin,Dizziness,"Dabigatran, Apixaban, Rivaroxaban",15-25
+Enoxaparin,Elevated liver enzymes,"Dabigatran, Apixaban, Rivaroxaban",20-30
+Enoxaparin,Swelling (Edema),"Dabigatran, Apixaban, Rivaroxaban",15-25
+Epinephrine,Palpitations,"Albuterol, Atropine, Dopamine",20-30
+Epinephrine,Anxiety,"Atropine, Dopamine, Albuterol",25-35
+Epinephrine,Headache,"Dopamine, Albuterol, Atropine",20-30
+Epinephrine,Tremors,"Albuterol, Atropine, Dopamine",25-35
+Epinephrine,Dizziness,"Atropine, Dopamine, Albuterol",20-30
+Epinephrine,Sweating,"Dopamine, Albuterol, Atropine",25-35
+Epinephrine,Nausea,"Albuterol, Atropine, Dopamine",20-30
+Epinephrine,Vomiting,"Atropine, Dopamine, Albuterol",25-35
+Epinephrine,Restlessness,"Dopamine, Albuterol, Atropine",20-30
+Epinephrine,Hypertension,"Albuterol, Atropine, Dopamine",25-35
+Erythromycin,Nausea,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Erythromycin,Diarrhea,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Erythromycin,Vomiting,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Erythromycin,Stomach pain,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Erythromycin,Loss of appetite,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Erythromycin,Rash,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Erythromycin,Headache,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Erythromycin,Fatigue,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Erythromycin,Dizziness,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Erythromycin,Heartburn,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Escitalopram,Nausea,"Sertraline, Bupropion, Fluoxetine",20-30
+Escitalopram,Dry mouth,"Venlafaxine, Fluoxetine, Sertraline",25-35
+Escitalopram,Insomnia,"Bupropion, Sertraline, Fluoxetine",25-35
+Escitalopram,Dizziness,"Sertraline, Bupropion, Fluoxetine",20-30
+Escitalopram,Sweating,"Venlafaxine, Fluoxetine, Sertraline",20-30
+Escitalopram,Fatigue,"Bupropion, Sertraline, Fluoxetine",25-35
+Escitalopram,Sexual dysfunction,"Bupropion, Sertraline, Venlafaxine",25-35
+Escitalopram,Constipation,"Sertraline, Fluoxetine, Venlafaxine",20-30
+Escitalopram,Weight changes,"Bupropion, Sertraline, Fluoxetine",20-30
+Escitalopram,Blurred vision,"Venlafaxine, Fluoxetine, Sertraline",25-35
+Eszopiclone,Drowsiness,"Zolpidem, Trazodone, Ramelteon",20-30
+Eszopiclone,Dizziness,"Ramelteon, Trazodone, Zolpidem",25-35
+Eszopiclone,Headache,"Zolpidem, Trazodone, Ramelteon",25-35
+Eszopiclone,Dry mouth,"Trazodone, Ramelteon, Zolpidem",20-30
+Eszopiclone,Unpleasant taste,"Ramelteon, Zolpidem, Trazodone",25-35
+Eszopiclone,Fatigue,"Zolpidem, Trazodone, Ramelteon",25-35
+Eszopiclone,Anxiety,"Ramelteon, Zolpidem, Trazodone",20-30
+Eszopiclone,Sleepwalking,"Zolpidem, Ramelteon, Trazodone",25-35
+Eszopiclone,Memory problems,"Trazodone, Ramelteon, Zolpidem",20-30
+Eszopiclone,Depression,"Ramelteon, Trazodone, Zolpidem",25-35
+Ethinyl Estradiol,Nausea,"Drospirenone, Levonorgestrel, Norethindrone",20-30
+Ethinyl Estradiol,Breast tenderness,"Levonorgestrel, Norethindrone, Drospirenone",25-35
+Ethinyl Estradiol,Headache,"Norethindrone, Drospirenone, Levonorgestrel",20-30
+Ethinyl Estradiol,Weight gain,"Drospirenone, Levonorgestrel, Norethindrone",25-35
+Ethinyl Estradiol,Mood changes,"Levonorgestrel, Norethindrone, Drospirenone",20-30
+Ethinyl Estradiol,Elevated blood pressure,"Norethindrone, Drospirenone, Levonorgestrel",25-35
+Ethinyl Estradiol,Spotting,"Drospirenone, Levonorgestrel, Norethindrone",20-30
+Ethinyl Estradiol,Menstrual irregularity,"Levonorgestrel, Norethindrone, Drospirenone",25-35
+Ethinyl Estradiol,Blood clots,"Norethindrone, Drospirenone, Levonorgestrel",20-30
+Ethinyl Estradiol,Decreased libido,"Drospirenone, Levonorgestrel, Norethindrone",25-35
+Ezetimibe,Stomach pain,"Rosuvastatin, Atorvastatin, Simvastatin",25-35
+Ezetimibe,Diarrhea,"Atorvastatin, Rosuvastatin, Simvastatin",20-30
+Ezetimibe,Fatigue,"Simvastatin, Rosuvastatin, Atorvastatin",20-30
+Ezetimibe,Muscle pain,"Rosuvastatin, Simvastatin, Atorvastatin",25-35
+Ezetimibe,Headache,"Atorvastatin, Simvastatin, Rosuvastatin",20-30
+Ezetimibe,Back pain,"Simvastatin, Atorvastatin, Rosuvastatin",25-35
+Ezetimibe,Cough,"Rosuvastatin, Simvastatin, Atorvastatin",25-35
+Ezetimibe,Joint pain,"Atorvastatin, Simvastatin, Rosuvastatin",20-30
+Ezetimibe,Nausea,"Simvastatin, Rosuvastatin, Atorvastatin",25-35
+Ezetimibe,Dizziness,"Rosuvastatin, Atorvastatin, Simvastatin",20-30
+Famciclovir,Headache,"Valacyclovir, Acyclovir, Ganciclovir",15-25
+Famciclovir,Nausea,"Valacyclovir, Acyclovir, Ganciclovir",20-30
+Famciclovir,Fatigue,"Valacyclovir, Acyclovir, Ganciclovir",15-25
+Famciclovir,Diarrhea,"Valacyclovir, Acyclovir, Ganciclovir",20-30
+Famciclovir,Abdominal pain,"Valacyclovir, Acyclovir, Ganciclovir",15-25
+Famciclovir,Rash,"Valacyclovir, Acyclovir, Ganciclovir",15-25
+Famciclovir,Dizziness,"Valacyclovir, Acyclovir, Ganciclovir",20-30
+Famciclovir,Vomiting,"Valacyclovir, Acyclovir, Ganciclovir",20-30
+Famciclovir,Joint pain,"Valacyclovir, Acyclovir, Ganciclovir",15-25
+Famciclovir,Insomnia,"Valacyclovir, Acyclovir, Ganciclovir",20-30
+Famotidine,Headache,"Ranitidine, Omeprazole, Lansoprazole",20-30
+Famotidine,Dizziness,"Omeprazole, Ranitidine, Lansoprazole",25-35
+Famotidine,Diarrhea,"Lansoprazole, Ranitidine, Omeprazole",20-30
+Famotidine,Constipation,"Omeprazole, Lansoprazole, Ranitidine",25-35
+Famotidine,Nausea,"Ranitidine, Omeprazole, Lansoprazole",20-30
+Famotidine,Vomiting,"Lansoprazole, Ranitidine, Omeprazole",25-35
+Famotidine,Abdominal pain,"Omeprazole, Ranitidine, Lansoprazole",20-30
+Famotidine,Fatigue,"Ranitidine, Lansoprazole, Omeprazole",25-35
+Famotidine,Dry mouth,"Lansoprazole, Omeprazole, Ranitidine",25-35
+Famotidine,Insomnia,"Ranitidine, Omeprazole, Lansoprazole",20-30
+Fenofibrate,Stomach pain,"Atorvastatin, Rosuvastatin, Simvastatin",20-30
+Fenofibrate,Nausea,"Simvastatin, Rosuvastatin, Atorvastatin",25-35
+Fenofibrate,Back pain,"Rosuvastatin, Simvastatin, Atorvastatin",20-30
+Fenofibrate,Headache,"Atorvastatin, Rosuvastatin, Simvastatin",25-35
+Fenofibrate,Increased liver enzymes,"Simvastatin, Atorvastatin, Rosuvastatin",20-30
+Fenofibrate,Respiratory issues,"Rosuvastatin, Simvastatin, Atorvastatin",25-35
+Fenofibrate,Muscle pain,"Simvastatin, Atorvastatin, Rosuvastatin",20-30
+Fenofibrate,Fatigue,"Atorvastatin, Simvastatin, Rosuvastatin",25-35
+Fenofibrate,Joint pain,"Rosuvastatin, Simvastatin, Atorvastatin",20-30
+Fenofibrate,Constipation,"Simvastatin, Atorvastatin, Rosuvastatin",25-35
+Fentanyl,Constipation,"Oxycodone, Hydrocodone, Morphine",20-30
+Fentanyl,Nausea,"Hydrocodone, Morphine, Oxycodone",25-35
+Fentanyl,Drowsiness,"Morphine, Oxycodone, Hydrocodone",20-30
+Fentanyl,Dizziness,"Oxycodone, Hydrocodone, Morphine",25-35
+Fentanyl,Vomiting,"Hydrocodone, Morphine, Oxycodone",20-30
+Fentanyl,Confusion,"Morphine, Oxycodone, Hydrocodone",25-35
+Fentanyl,Sweating,"Oxycodone, Hydrocodone, Morphine",20-30
+Fentanyl,Muscle rigidity,"Hydrocodone, Morphine, Oxycodone",25-35
+Fentanyl,Respiratory depression,"Morphine, Oxycodone, Hydrocodone",20-30
+Fentanyl,Weakness,"Oxycodone, Hydrocodone, Morphine",25-35
+Ferrous Sulfate,Constipation,"Ferrous gluconate, Ferrous fumarate, Iron bisglycinate",25-35
+Ferrous Sulfate,Nausea,"Ferrous fumarate, Iron bisglycinate, Ferrous gluconate",20-30
+Ferrous Sulfate,Stomach upset,"Iron bisglycinate, Ferrous gluconate, Ferrous fumarate",20-30
+Ferrous Sulfate,Diarrhea,"Ferrous fumarate, Ferrous gluconate, Iron bisglycinate",25-35
+Ferrous Sulfate,Black stools,"Ferrous gluconate, Iron bisglycinate, Ferrous fumarate",20-30
+Ferrous Sulfate,Heartburn,"Iron bisglycinate, Ferrous fumarate, Ferrous gluconate",25-35
+Ferrous Sulfate,Cramps,"Ferrous gluconate, Ferrous fumarate, Iron bisglycinate",20-30
+Ferrous Sulfate,Bloating,"Iron bisglycinate, Ferrous gluconate, Ferrous fumarate",25-35
+Ferrous Sulfate,Vomiting,"Ferrous fumarate, Iron bisglycinate, Ferrous gluconate",20-30
+Ferrous Sulfate,Dizziness,"Iron bisglycinate, Ferrous gluconate, Ferrous fumarate",25-35
+Fexofenadine,Drowsiness,"Loratadine, Cetirizine, Desloratadine",20-30
+Fexofenadine,Headache,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Dry mouth,"Loratadine, Cetirizine, Desloratadine",20-30
+Fexofenadine,Fatigue,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Nausea,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Muscle pain,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Sore throat,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Dizziness,"Loratadine, Cetirizine, Desloratadine",15-25
+Fexofenadine,Insomnia,"Loratadine, Cetirizine, Desloratadine",20-30
+Fexofenadine,Indigestion,"Loratadine, Cetirizine, Desloratadine",15-25
+Finasteride,Decreased libido,"Dutasteride, Minoxidil (topical), Spironolactone",25-35
+Finasteride,Erectile dysfunction,"Dutasteride, Minoxidil (topical), Spironolactone",25-35
+Finasteride,Ejaculation disorders,"Dutasteride, Minoxidil (topical), Spironolactone",25-35
+Finasteride,Breast tenderness,"Dutasteride, Minoxidil (topical), Spironolactone",20-30
+Finasteride,Rash,"Dutasteride, Minoxidil (topical), Spironolactone",15-25
+Finasteride,Depression,"Dutasteride, Minoxidil (topical), Spironolactone",20-30
+Finasteride,Dizziness,"Dutasteride, Minoxidil (topical), Spironolactone",20-30
+Finasteride,Headache,"Dutasteride, Minoxidil (topical), Spironolactone",15-25
+Finasteride,Swelling (edema),"Dutasteride, Minoxidil (topical), Spironolactone",15-25
+Finasteride,Fatigue,"Dutasteride, Minoxidil (topical), Spironolactone",15-25
+Finasteride,Decreased libido,"Dutasteride, Spironolactone, Saw Palmetto",20-30
+Finasteride,Erectile dysfunction,"Spironolactone, Saw Palmetto, Dutasteride",25-35
+Finasteride,Breast tenderness,"Saw Palmetto, Dutasteride, Spironolactone",20-30
+Finasteride,Depression,"Dutasteride, Spironolactone, Saw Palmetto",25-35
+Finasteride,Rash,"Spironolactone, Saw Palmetto, Dutasteride",20-30
+Finasteride,Testicular pain,"Saw Palmetto, Dutasteride, Spironolactone",25-35
+Finasteride,Dizziness,"Dutasteride, Spironolactone, Saw Palmetto",20-30
+Finasteride,Swelling in hands/feet,"Spironolactone, Saw Palmetto, Dutasteride",25-35
+Finasteride,Weakness,"Saw Palmetto, Dutasteride, Spironolactone",20-30
+Finasteride,Increased liver enzymes,"Dutasteride, Spironolactone, Saw Palmetto",25-35
+Fioricet,Drowsiness,"Naproxen, Ibuprofen, Sumatriptan",20-30
+Fioricet,Dizziness,"Ibuprofen, Sumatriptan, Naproxen",25-35
+Fioricet,Nausea,"Sumatriptan, Naproxen, Ibuprofen",20-30
+Fioricet,Vomiting,"Ibuprofen, Sumatriptan, Naproxen",25-35
+Fioricet,Lightheadedness,"Naproxen, Ibuprofen, Sumatriptan",20-30
+Fioricet,Abdominal pain,"Sumatriptan, Naproxen, Ibuprofen",25-35
+Fioricet,Addiction potential,"Ibuprofen, Sumatriptan, Naproxen",20-30
+Fioricet,Rash,"Naproxen, Ibuprofen, Sumatriptan",25-35
+Fioricet,Insomnia,"Sumatriptan, Naproxen, Ibuprofen",20-30
+Fioricet,Nervousness,"Ibuprofen, Sumatriptan, Naproxen",25-35
+Fluconazole,Nausea,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Headache,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Abdominal pain,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Diarrhea,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Dizziness,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Rash,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Elevated liver enzymes,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Fatigue,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Taste changes,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Skin peeling,"Itraconazole, Voriconazole, Posaconazole",15-25
+Fluconazole,Nausea,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Headache,"Voriconazole, Posaconazole, Itraconazole",25-35
+Fluconazole,Abdominal pain,"Posaconazole, Itraconazole, Voriconazole",20-30
+Fluconazole,Diarrhea,"Itraconazole, Voriconazole, Posaconazole",25-35
+Fluconazole,Dizziness,"Voriconazole, Posaconazole, Itraconazole",20-30
+Fluconazole,Rash,"Posaconazole, Itraconazole, Voriconazole",25-35
+Fluconazole,Elevated liver enzymes,"Itraconazole, Voriconazole, Posaconazole",20-30
+Fluconazole,Vomiting,"Voriconazole, Posaconazole, Itraconazole",25-35
+Fluconazole,Taste changes,"Posaconazole, Itraconazole, Voriconazole",20-30
+Fluconazole,Skin irritation,"Itraconazole, Voriconazole, Posaconazole",25-35
+Fluoxetine,Nausea,"Sertraline, Bupropion, Escitalopram",25-35
+Fluoxetine,Dry mouth,"Venlafaxine, Escitalopram, Bupropion",20-30
+Fluoxetine,Insomnia,"Sertraline, Bupropion, Escitalopram",25-35
+Fluoxetine,Drowsiness,"Bupropion, Escitalopram, Sertraline",20-30
+Fluoxetine,Anxiety,"Venlafaxine, Sertraline, Bupropion",25-35
+Fluoxetine,Diarrhea,"Escitalopram, Bupropion, Venlafaxine",20-30
+Fluoxetine,Weight loss,"Sertraline, Bupropion, Escitalopram",25-35
+Fluoxetine,Sexual dysfunction,"Bupropion, Venlafaxine, Sertraline",20-30
+Fluoxetine,Dizziness,"Escitalopram, Bupropion, Venlafaxine",25-35
+Fluoxetine,Tremors,"Sertraline, Escitalopram, Bupropion",20-30
+Fluticasone,Throat irritation,"Budesonide, Beclomethasone, Mometasone",20-30
+Fluticasone,Nosebleeds,"Beclomethasone, Budesonide, Mometasone",25-35
+Fluticasone,Cough,"Mometasone, Budesonide, Beclomethasone",20-30
+Fluticasone,Headache,"Budesonide, Mometasone, Beclomethasone",25-35
+Fluticasone,Nausea,"Beclomethasone, Mometasone, Budesonide",20-30
+Fluticasone,Dizziness,"Mometasone, Budesonide, Beclomethasone",25-35
+Fluticasone,Hoarseness,"Budesonide, Beclomethasone, Mometasone",20-30
+Fluticasone,Stomach upset,"Beclomethasone, Mometasone, Budesonide",25-35
+Fluticasone,Fungal infections,"Budesonide, Beclomethasone, Mometasone",20-30
+Fluticasone,Weakness,"Beclomethasone, Mometasone, Budesonide",25-35
+Folic Acid,Stomach upset,"Methylfolate, Folinic acid, B12 supplements",20-30
+Folic Acid,Nausea,"Folinic acid, Methylfolate, B12 supplements",25-35
+Folic Acid,Gas,"B12 supplements, Methylfolate, Folinic acid",20-30
+Folic Acid,Bitter taste,"Methylfolate, Folinic acid, B12 supplements",25-35
+Folic Acid,Trouble sleeping,"Folinic acid, B12 supplements, Methylfolate",20-30
+Folic Acid,Confusion,"B12 supplements, Methylfolate, Folinic acid",25-35
+Folic Acid,Irritability,"Methylfolate, Folinic acid, B12 supplements",20-30
+Folic Acid,Decreased appetite,"Folinic acid, Methylfolate, B12 supplements",25-35
+Folic Acid,Depression,"B12 supplements, Methylfolate, Folinic acid",20-30
+Folic Acid,Allergic reactions,"Methylfolate, Folinic acid, B12 supplements",25-35
+Fosamax,Abdominal pain,"Risedronate, Ibandronate, Zoledronic acid",20-30
+Fosamax,Nausea,"Ibandronate, Zoledronic acid, Risedronate",25-35
+Fosamax,Acid reflux,"Zoledronic acid, Risedronate, Ibandronate",20-30
+Fosamax,Joint pain,"Risedronate, Ibandronate, Zoledronic acid",25-35
+Fosamax,Dizziness,"Ibandronate, Zoledronic acid, Risedronate",20-30
+Fosamax,Constipation,"Zoledronic acid, Risedronate, Ibandronate",25-35
+Fosamax,Muscle pain,"Risedronate, Ibandronate, Zoledronic acid",20-30
+Fosamax,Heartburn,"Ibandronate, Zoledronic acid, Risedronate",25-35
+Fosamax,Esophageal irritation,"Zoledronic acid, Risedronate, Ibandronate",20-30
+Fosamax,Headache,"Risedronate, Ibandronate, Zoledronic acid",25-35
+Fosfomycin,Diarrhea,"Nitrofurantoin, Trimethoprim-sulfamethoxazole, Cephalexin",20-30
+Fosfomycin,Nausea,"Nitrofurantoin, Trimethoprim-sulfamethoxazole, Cephalexin",25-35
+Fosfomycin,Stomach pain,"Trimethoprim-sulfamethoxazole, Nitrofurantoin, Cephalexin",20-30
+Fosfomycin,Headache,"Nitrofurantoin, Trimethoprim-sulfamethoxazole, Cephalexin",25-35
+Fosfomycin,Dizziness,"Trimethoprim-sulfamethoxazole, Nitrofurantoin, Cephalexin",20-30
+Fosfomycin,Rash,"Nitrofurantoin, Trimethoprim-sulfamethoxazole, Cephalexin",25-35
+Fosfomycin,Allergic reaction,"Trimethoprim-sulfamethoxazole, Nitrofurantoin, Cephalexin",20-30
+Fosfomycin,Fatigue,"Trimethoprim-sulfamethoxazole, Nitrofurantoin, Cephalexin",25-35
+Fosfomycin,Vomiting,"Nitrofurantoin, Trimethoprim-sulfamethoxazole, Cephalexin",20-30
+Fosfomycin,Weakness,"Trimethoprim-sulfamethoxazole, Nitrofurantoin, Cephalexin",25-35
+Furosemide,Dizziness,"Spironolactone, Hydrochlorothiazide, Metolazone",20-30
+Furosemide,Electrolyte imbalance,"Spironolactone, Hydrochlorothiazide, Metolazone",25-35
+Furosemide,Dehydration,"Spironolactone, Hydrochlorothiazide, Metolazone",20-30
+Furosemide,Low blood pressure,"Spironolactone, Hydrochlorothiazide, Metolazone",20-30
+Furosemide,Increased urination,"Spironolactone, Hydrochlorothiazide, Metolazone",20-30
+Furosemide,Muscle cramps,"Spironolactone, Hydrochlorothiazide, Metolazone",15-25
+Furosemide,Rash,"Spironolactone, Hydrochlorothiazide, Metolazone",15-25
+Furosemide,Headache,"Spironolactone, Hydrochlorothiazide, Metolazone",15-25
+Furosemide,Nausea,"Spironolactone, Hydrochlorothiazide, Metolazone",15-25
+Furosemide,Constipation,"Spironolactone, Hydrochlorothiazide, Metolazone",20-30
+Gabapentin,Drowsiness,"Pregabalin, Topiramate, Lamotrigine",20-30
+Gabapentin,Dizziness,"Pregabalin, Lamotrigine, Topiramate",25-35
+Gabapentin,Weight gain,"Lamotrigine, Topiramate, Pregabalin",20-30
+Gabapentin,Fatigue,"Topiramate, Lamotrigine, Pregabalin",25-35
+Gabapentin,Swelling,"Lamotrigine, Topiramate, Pregabalin",20-30
+Gabapentin,Coordination problems,"Topiramate, Lamotrigine, Pregabalin",25-35
+Gabapentin,Nausea,"Lamotrigine, Topiramate, Pregabalin",20-30
+Gabapentin,Blurred vision,"Topiramate, Lamotrigine, Pregabalin",25-35
+Gabapentin,Tremors,"Lamotrigine, Topiramate, Pregabalin",20-30
+Gabapentin,Memory issues,"Topiramate, Lamotrigine, Pregabalin",25-35
+Gatifloxacin,Nausea,"Levofloxacin, Ciprofloxacin, Moxifloxacin",20-30
+Gatifloxacin,Diarrhea,"Levofloxacin, Ciprofloxacin, Moxifloxacin",20-30
+Gatifloxacin,Headache,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Dizziness,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Abdominal pain,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Rash,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Insomnia,"Levofloxacin, Ciprofloxacin, Moxifloxacin",20-30
+Gatifloxacin,Fatigue,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Joint pain,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gatifloxacin,Vision changes,"Levofloxacin, Ciprofloxacin, Moxifloxacin",15-25
+Gleevec,Nausea,"Dasatinib, Nilotinib, Bosutinib",20-30
+Gleevec,Diarrhea,"Nilotinib, Bosutinib, Dasatinib",25-35
+Gleevec,Fatigue,"Bosutinib, Dasatinib, Nilotinib",20-30
+Gleevec,Muscle cramps,"Dasatinib, Nilotinib, Bosutinib",25-35
+Gleevec,Rash,"Nilotinib, Bosutinib, Dasatinib",20-30
+Gleevec,Edema,"Bosutinib, Dasatinib, Nilotinib",25-35
+Gleevec,Abdominal pain,"Dasatinib, Nilotinib, Bosutinib",20-30
+Gleevec,Joint pain,"Nilotinib, Bosutinib, Dasatinib",25-35
+Gleevec,Vomiting,"Bosutinib, Dasatinib, Nilotinib",20-30
+Gleevec,Headache,"Dasatinib, Nilotinib, Bosutinib",25-35
+Glimepiride,Hypoglycemia,"Metformin, Pioglitazone, Sitagliptin",30-40
+Glimepiride,Weight gain,"Metformin, Empagliflozin, Dapagliflozin",35-45
+Glimepiride,Nausea,"Sitagliptin, Linagliptin, Alogliptin",20-30
+Glimepiride,Dizziness,"Metformin, Pioglitazone, Sitagliptin",25-35
+Glimepiride,Weakness,"Empagliflozin, Dapagliflozin, Metformin",30-40
+Glimepiride,Headache,"Sitagliptin, Linagliptin, Alogliptin",20-30
+Glimepiride,Rash,"Pioglitazone, Sitagliptin, Metformin",25-35
+Glimepiride,Diarrhea,"Empagliflozin, Dapagliflozin, Linagliptin",30-40
+Glimepiride,Liver enzyme elevation,"Sitagliptin, Linagliptin, Alogliptin",20-30
+Glimepiride,Allergic reactions,"Metformin, Pioglitazone, Sitagliptin",25-35
+Glipizide,Hypoglycemia,"Metformin, DPP-4 inhibitors, SGLT2 inhibitors",20-30
+Glipizide,Weight gain,"Metformin, GLP-1 agonists, DPP-4 inhibitors",25-35
+Glipizide,Nausea,"Metformin, GLP-1 agonists, DPP-4 inhibitors",20-30
+Glipizide,Rash,"Metformin, SGLT2 inhibitors, GLP-1 agonists",25-35
+Glipizide,Headache,"Metformin, GLP-1 agonists, DPP-4 inhibitors",20-30
+Glipizide,Dizziness,"Metformin, GLP-1 agonists, SGLT2 inhibitors",25-35
+Glipizide,Stomach pain,"Metformin, GLP-1 agonists, DPP-4 inhibitors",20-30
+Glipizide,Fatigue,"Metformin, SGLT2 inhibitors, GLP-1 agonists",25-35
+Glipizide,Sweating,"Metformin, DPP-4 inhibitors, GLP-1 agonists",20-30
+Glipizide,Jitteriness,"Metformin, SGLT2 inhibitors, GLP-1 agonists",25-35
+Glyburide,Hypoglycemia,"Metformin, Pioglitazone, Sitagliptin",25-35
+Glyburide,Weight gain,"Metformin, Pioglitazone, Sitagliptin",20-30
+Glyburide,Nausea,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Dizziness,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Diarrhea,"Metformin, Pioglitazone, Sitagliptin",20-30
+Glyburide,Abdominal pain,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Rash,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Indigestion,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Fatigue,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glyburide,Joint pain,"Metformin, Pioglitazone, Sitagliptin",15-25
+Glycopyrrolate,Dry mouth,"Ipratropium, Aclidinium, Tiotropium",30-40
+Glycopyrrolate,Constipation,"Aclidinium, Tiotropium, Umeclidinium",25-35
+Glycopyrrolate,Blurred vision,"Tiotropium, Ipratropium, Umeclidinium",30-40
+Glycopyrrolate,Drowsiness,"Aclidinium, Tiotropium, Umeclidinium",20-30
+Glycopyrrolate,Urinary retention,"Umeclidinium, Tiotropium, Ipratropium",25-35
+Glycopyrrolate,Dry eyes,"Ipratropium, Aclidinium, Tiotropium",30-40
+Glycopyrrolate,Heart palpitations,"Tiotropium, Umeclidinium, Ipratropium",25-35
+Glycopyrrolate,Difficulty urinating,"Aclidinium, Tiotropium, Umeclidinium",20-30
+Glycopyrrolate,Dizziness,"Ipratropium, Aclidinium, Tiotropium",30-40
+Glycopyrrolate,Headache,"Tiotropium, Umeclidinium, Ipratropium",25-35
+Guanfacine,Drowsiness,"Clonidine, Atomoxetine, Lisdexamfetamine",20-30
+Guanfacine,Fatigue,"Atomoxetine, Clonidine, Lisdexamfetamine",25-35
+Guanfacine,Dizziness,"Clonidine, Atomoxetine, Lisdexamfetamine",20-30
+Guanfacine,Dry mouth,"Atomoxetine, Lisdexamfetamine, Clonidine",25-35
+Guanfacine,Constipation,"Clonidine, Atomoxetine, Lisdexamfetamine",20-30
+Guanfacine,Headache,"Clonidine, Atomoxetine, Lisdexamfetamine",25-35
+Guanfacine,Irritability,"Atomoxetine, Clonidine, Lisdexamfetamine",20-30
+Guanfacine,Insomnia,"Clonidine, Atomoxetine, Lisdexamfetamine",25-35
+Guanfacine,Nausea,"Atomoxetine, Clonidine, Lisdexamfetamine",20-30
+Guanfacine,Depression,"Atomoxetine, Clonidine, Lisdexamfetamine",25-35
+Hydralazine,Headache,"Amlodipine, Verapamil, Diltiazem",20-40
+Hydralazine,Dizziness,"Lisinopril, Enalapril, Losartan",20-40
+Hydralazine,Nausea,"Losartan, Valsartan, Irbesartan",20-40
+Hydralazine,Vomiting,"Metoprolol, Atenolol, Carvedilol",25-35
+Hydralazine,Diarrhea,"Atenolol, Bisoprolol, Nebivolol",25-35
+Hydralazine,Tachycardia,"Bisoprolol, Propranolol, Clonidine",30-40
+Hydralazine,Edema,"Hydrochlorothiazide, Chlorthalidone, Spironolactone",20-30
+Hydralazine,Flushing,"Diltiazem, Verapamil, Amlodipine",20-30
+Hydralazine,Chest pain,"Verapamil, Diltiazem, Amlodipine",25-35
+Hydralazine,Nasal congestion,"Clonidine, Prazosin, Methyldopa",20-30
+Hydrocortisone cream,Skin thinning,"Tacrolimus (Protopic), Pimecrolimus (Elidel), Calcipotriol (Dovonex)",25-50
+Hydrocortisone cream,Burning sensation,"Calamine, Aloe vera, Dimethicone",20-40
+Hydrocortisone cream,Itching,"Cetirizine, Loratadine, Fexofenadine",30-50
+Hydrocortisone cream,Dry skin,"Urea cream, Glycerin, Aquaphor",25-40
+Hydrocortisone cream,Acne,"Benzoyl peroxide, Salicylic acid, Retinoids",30-50
+Hydrocortisone cream,Redness,"Niacinamide, Green tea extract, Azelaic acid",25-40
+Hydrocortisone cream,Folliculitis,"Clindamycin, Benzoyl peroxide, Erythromycin",30-40
+Hydrocortisone cream,Hypertrichosis,"Eflornithine, Laser hair removal, Waxing",20-30
+Hydrocortisone cream,Allergic contact dermatitis,"Tacrolimus (Protopic), Pimecrolimus (Elidel), Hydrocortisone (weaker)",20-30
+Hydrocortisone cream,Stretch marks,"Cocoa butter, Silicone gel, Retinoids",25-40
+Hydroxychloroquine,Nausea,"Methotrexate, Sulfasalazine, Leflunomide",20-40
+Hydroxychloroquine,Vomiting,"Leflunomide, Mycophenolate, Azathioprine",20-40
+Hydroxychloroquine,Abdominal pain,"Hydroxyurea, Azathioprine, Methotrexate",20-40
+Hydroxychloroquine,Headache,"Methotrexate, Sulfasalazine, Mycophenolate",20-30
+Hydroxychloroquine,Dizziness,"Leflunomide, Sulfasalazine, Mycophenolate",20-30
+Hydroxychloroquine,Rash,"Methotrexate, Sulfasalazine, Leflunomide",25-40
+Hydroxychloroquine,Itching,"Mycophenolate, Azathioprine, Leflunomide",20-30
+Hydroxychloroquine,Hair loss,"Sulfasalazine, Methotrexate, Leflunomide",20-30
+Hydroxychloroquine,Mood changes,"Leflunomide, Methotrexate, Sulfasalazine",25-40
+Hydroxychloroquine,Retinopathy,"Methotrexate, Sulfasalazine, Leflunomide",30-50
+Hydroxyzine,Drowsiness,"Cetirizine, Loratadine, Fexofenadine",30-50
+Hydroxyzine,Dry mouth,"Cetirizine, Loratadine, Fexofenadine",30-50
+Hydroxyzine,Dizziness,"Cetirizine, Loratadine, Fexofenadine",30-50
+Hydroxyzine,Headache,"Cetirizine, Loratadine, Desloratadine",20-30
+Hydroxyzine,Blurred vision,"Cetirizine, Loratadine, Desloratadine",30-40
+Hydroxyzine,Constipation,"Desloratadine, Fexofenadine, Loratadine",25-40
+Hydroxyzine,Confusion,"Desloratadine, Loratadine, Fexofenadine",25-40
+Hydroxyzine,Urinary retention,"Cetirizine, Loratadine, Fexofenadine",30-50
+Hydroxyzine,Fatigue,"Fexofenadine, Loratadine, Cetirizine",30-50
+Hydroxyzine,Tremor,"Desloratadine, Loratadine, Fexofenadine",25-40
+Ibandronate,Nausea,"Alendronate, Risedronate, Calcitonin",30-40
+Ibandronate,Heartburn,"Raloxifene, Denosumab, Strontium",25-35
+Ibandronate,Bone Pain,"Zoledronic Acid, Teriparatide, Estrogen",40-50
+Ibandronate,Diarrhea,"Alendronate, Risedronate, Calcitonin",20-30
+Ibandronate,Headache,"Raloxifene, Denosumab, Strontium",15-25
+Ibandronate,Muscular Pain,"Zoledronic Acid, Teriparatide, Estrogen",35-45
+Ibandronate,Abdominal Pain,"Alendronate, Calcitonin, Risedronate",25-35
+Ibandronate,Joint Pain,"Denosumab, Raloxifene, Strontium",30-40
+Ibandronate,Dizziness,"Zoledronic Acid, Estrogen, Teriparatide",20-30
+Ibandronate,Constipation,"Calcitonin, Alendronate, Risedronate",30-40
+Ibuprofen,Stomach pain,"Acetaminophen, Naproxen, Celecoxib",15-35
+Ibuprofen,Heartburn,"Acetaminophen, Celecoxib, Diclofenac",25-35
+Ibuprofen,Nausea,"Acetaminophen, Naproxen, Celecoxib",20-30
+Ibuprofen,Vomiting,"Acetaminophen, Celecoxib, Diclofenac",20-30
+Ibuprofen,Diarrhea,"Naproxen, Celecoxib, Diclofenac",20-30
+Ibuprofen,Constipation,"Acetaminophen, Celecoxib, Diclofenac",15-30
+Ibuprofen,Dizziness,"Acetaminophen, Naproxen, Celecoxib",20-30
+Ibuprofen,Rash,"Acetaminophen, Naproxen, Celecoxib",20-30
+Ibuprofen,Tinnitus,"Acetaminophen, Celecoxib, Diclofenac",20-30
+Ibuprofen,Gastrointestinal bleeding,"Acetaminophen, Celecoxib, Diclofenac",25-35
+Indomethacin,Stomach pain,"Meloxicam, Etodolac, Celecoxib",20-40
+Indomethacin,Heartburn,"Celecoxib, Etodolac, Meloxicam",25-35
+Indomethacin,Nausea,"Celecoxib, Meloxicam, Naproxen",20-30
+Indomethacin,Vomiting,"Etodolac, Meloxicam, Celecoxib",20-30
+Indomethacin,Diarrhea,"Meloxicam, Celecoxib, Etodolac",20-30
+Indomethacin,Headache,"Celecoxib, Meloxicam, Naproxen",20-30
+Indomethacin,Dizziness,"Celecoxib, Meloxicam, Naproxen",20-30
+Indomethacin,Drowsiness,"Celecoxib, Meloxicam, Etodolac",25-35
+Indomethacin,Tinnitus,"Celecoxib, Etodolac, Meloxicam",20-30
+Indomethacin,Gastrointestinal bleeding,"Celecoxib, Etodolac, Meloxicam",25-35
+Insulin,Hypoglycemia,"Metformin, GLP-1 agonists (Liraglutide), DPP-4 inhibitors (Sitagliptin)",30-50
+Insulin,Weight gain,"Metformin, GLP-1 agonists (Exenatide), SGLT-2 inhibitors (Empagliflozin)",30-50
+Insulin,Rash,"Metformin, GLP-1 agonists (Liraglutide), SGLT-2 inhibitors (Dapagliflozin)",20-30
+Insulin,Injection site reactions,"GLP-1 agonists (Exenatide), SGLT-2 inhibitors (Empagliflozin), Metformin",25-35
+Insulin,Swelling,"SGLT-2 inhibitors (Canagliflozin), GLP-1 agonists (Exenatide), Metformin",20-30
+Insulin,Allergic reactions,"Metformin, GLP-1 agonists (Exenatide), DPP-4 inhibitors (Sitagliptin)",25-35
+Insulin,Lipodystrophy,"Metformin, SGLT-2 inhibitors (Dapagliflozin), GLP-1 agonists (Liraglutide)",20-30
+Insulin,Dizziness,"Metformin, GLP-1 agonists (Liraglutide), SGLT-2 inhibitors (Canagliflozin)",25-35
+Insulin,Fatigue,"Metformin, SGLT-2 inhibitors (Empagliflozin), GLP-1 agonists (Exenatide)",20-30
+Insulin,Blurred vision,"Metformin, GLP-1 agonists (Liraglutide), SGLT-2 inhibitors (Dapagliflozin)",20-30
+Ipratropium,Dry mouth,"Tiotropium, Salmeterol, Montelukast",20-30
+Ipratropium,Cough,"Tiotropium, Salmeterol, Montelukast",20-30
+Ipratropium,Dizziness,"Tiotropium, Montelukast, Salmeterol",15-25
+Ipratropium,Headache,"Tiotropium, Salmeterol, Montelukast",15-25
+Ipratropium,Nausea,"Tiotropium, Salmeterol, Montelukast",20-30
+Ipratropium,Throat irritation,"Salmeterol, Montelukast, Budesonide",15-25
+Ipratropium,Urinary retention,"Tiotropium, Montelukast, Salmeterol",15-25
+Ipratropium,Sinusitis,"Fluticasone, Budesonide, Montelukast",15-25
+Ipratropium,Back pain,"Montelukast, Fluticasone, Budesonide",15-25
+Ipratropium,Blurred vision,"Tiotropium, Salmeterol, Montelukast",15-25
+Isosorbide mononitrate,Headache,"Amlodipine, Diltiazem, Verapamil",30-40
+Isosorbide mononitrate,Dizziness,"Metoprolol, Amlodipine, Verapamil",25-35
+Isosorbide mononitrate,Flushing,"Diltiazem, Verapamil, Metoprolol",30-40
+Isosorbide mononitrate,Nausea,"Amlodipine, Diltiazem, Metoprolol",25-35
+Isosorbide mononitrate,Fatigue,"Verapamil, Amlodipine, Metoprolol",20-30
+Isosorbide mononitrate,Low blood pressure,"Diltiazem, Verapamil, Metoprolol",30-40
+Isosorbide mononitrate,Swelling (edema),"Amlodipine, Verapamil, Metoprolol",25-35
+Isosorbide mononitrate,Palpitations,"Diltiazem, Verapamil, Metoprolol",30-40
+Isosorbide mononitrate,Dry mouth,"Amlodipine, Diltiazem, Verapamil",20-30
+Isosorbide mononitrate,Sweating,"Verapamil, Amlodipine, Metoprolol",25-35
+Ivermectin,Rash,"Albendazole, Mebendazole, Nitazoxanide",25-35
+Ivermectin,Itching,"Praziquantel, Nitazoxanide, Albendazole",30-40
+Ivermectin,Fever,"Mebendazole, Nitazoxanide, Praziquantel",20-30
+Ivermectin,Dizziness,"Albendazole, Mebendazole, Nitazoxanide",35-45
+Ivermectin,Nausea,"Praziquantel, Albendazole, Mebendazole",30-40
+Ivermectin,Muscle Pain,"Nitazoxanide, Albendazole, Praziquantel",25-35
+Ivermectin,Swelling,"Mebendazole, Albendazole, Nitazoxanide",20-30
+Ivermectin,Fatigue,"Nitazoxanide, Praziquantel, Mebendazole",30-40
+Ivermectin,Abdominal Pain,"Albendazole, Nitazoxanide, Praziquantel",40-50
+Ivermectin,Vomiting,"Mebendazole, Albendazole, Nitazoxanide",30-40
+Januvia (Sitagliptin),Headache,"Metformin, Glimepiride, Pioglitazone",25-35
+Januvia (Sitagliptin),Nausea,"Metformin, Glipizide, Glyburide",20-30
+Januvia (Sitagliptin),Joint pain,"Metformin, Glimepiride, Pioglitazone",30-40
+Januvia (Sitagliptin),Sore throat,"Metformin, Glimepiride, Pioglitazone",20-30
+Januvia (Sitagliptin),Respiratory infection,"Metformin, Glipizide, Glyburide",25-35
+Januvia (Sitagliptin),Diarrhea,"Metformin, Glimepiride, Pioglitazone",20-30
+Januvia (Sitagliptin),Skin reactions,"Metformin, Glimepiride, Pioglitazone",30-40
+Januvia (Sitagliptin),Weight gain,"Metformin, Glipizide, Glyburide",20-30
+Januvia (Sitagliptin),Fatigue,"Metformin, Glimepiride, Pioglitazone",20-30
+Januvia (Sitagliptin),Dizziness,"Metformin, Glipizide, Glyburide",20-30
+Ketoconazole,Nausea,"Fluconazole, Itraconazole, Terbinafine",25-35
+Ketoconazole,Vomiting,"Fluconazole, Itraconazole, Terbinafine",20-30
+Ketoconazole,Liver toxicity,"Fluconazole, Itraconazole, Terbinafine",40-50
+Ketoconazole,Rash,"Fluconazole, Itraconazole, Terbinafine",25-35
+Ketoconazole,Dizziness,"Fluconazole, Itraconazole, Terbinafine",20-30
+Ketoconazole,Headache,"Fluconazole, Itraconazole, Terbinafine",25-35
+Ketoconazole,Stomach pain,"Fluconazole, Itraconazole, Terbinafine",30-40
+Ketoconazole,Hair loss,"Fluconazole, Itraconazole, Terbinafine",25-35
+Ketoconazole,Fatigue,"Fluconazole, Itraconazole, Terbinafine",20-30
+Ketoconazole,Diarrhea,"Fluconazole, Itraconazole, Terbinafine",25-35
+Ketorolac,Stomach pain,"Acetaminophen, Celecoxib, Tramadol",30-40
+Ketorolac,Nausea,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Ketorolac,Dizziness,"Acetaminophen, Celecoxib, Naproxen",20-30
+Ketorolac,Drowsiness,"Acetaminophen, Celecoxib, Ibuprofen",20-30
+Ketorolac,Headache,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Ketorolac,Indigestion,"Acetaminophen, Celecoxib, Naproxen",30-40
+Ketorolac,Rash,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Ketorolac,High blood pressure,"Acetaminophen, Celecoxib, Naproxen",30-40
+Ketorolac,Constipation,"Acetaminophen, Celecoxib, Tramadol",25-35
+Ketorolac,Kidney damage,"Acetaminophen, Celecoxib, Tramadol",40-50
+Ketotifen,Drowsiness,"Olopatadine, Loratadine, Cetirizine",30-50
+Ketotifen,Dry mouth,"Loratadine, Fexofenadine, Cetirizine",30-50
+Ketotifen,Weight gain,"Cetirizine, Loratadine, Fexofenadine",25-40
+Ketotifen,Increased appetite,"Loratadine, Cetirizine, Desloratadine",25-40
+Ketotifen,Dizziness,"Fexofenadine, Cetirizine, Loratadine",20-30
+Ketotifen,Headache,"Loratadine, Cetirizine, Desloratadine",20-30
+Ketotifen,Blurred vision,"Fexofenadine, Loratadine, Cetirizine",30-50
+Ketotifen,Nausea,"Cetirizine, Loratadine, Desloratadine",20-30
+Ketotifen,Vomiting,"Fexofenadine, Loratadine, Cetirizine",20-30
+Ketotifen,Insomnia,"Cetirizine, Loratadine, Desloratadine",30-50
+Labetalol,Fatigue,"Atenolol, Metoprolol, Carvedilol",25-35
+Labetalol,Dizziness,"Bisoprolol, Atenolol, Nebivolol",30-40
+Labetalol,Nausea,"Metoprolol, Carvedilol, Bisoprolol",20-30
+Labetalol,Headache,"Atenolol, Nebivolol, Metoprolol",25-35
+Labetalol,Weakness,"Carvedilol, Bisoprolol, Atenolol",30-40
+Labetalol,Diarrhea,"Nebivolol, Metoprolol, Carvedilol",20-30
+Labetalol,Swelling,"Atenolol, Nebivolol, Bisoprolol",35-45
+Labetalol,Bradycardia,"Carvedilol, Metoprolol, Atenolol",30-40
+Labetalol,Cold Hands and Feet,"Bisoprolol, Nebivolol, Metoprolol",20-30
+Labetalol,Shortness of Breath,"Atenolol, Carvedilol, Bisoprolol",25-35
+Labetalol,Dizziness,"Metoprolol, Atenolol, Bisoprolol",20-40
+Labetalol,Fatigue,"Nebivolol, Carvedilol, Propranolol",25-35
+Labetalol,Nasal Congestion,"Metoprolol, Atenolol, Clonidine",20-30
+Labetalol,Diarrhea,"Bisoprolol, Nebivolol, Carvedilol",25-35
+Labetalol,Wheezing,"Atenolol, Metoprolol, Nebivolol",30-40
+Labetalol,Dizziness,"Atenolol, Metoprolol, Carvedilol",20-40
+Labetalol,Fatigue,"Nebivolol, Bisoprolol, Atenolol",25-35
+Labetalol,Nausea,"Metoprolol, Carvedilol, Bisoprolol",30-40
+Labetalol,Headache,"Nebivolol, Atenolol, Metoprolol",20-30
+Labetalol,Shortness of Breath,"Carvedilol, Bisoprolol, Nebivolol",20-30
+Labetalol,Cold Extremities,"Atenolol, Bisoprolol, Metoprolol",25-40
+Labetalol,Tingling Sensation,"Metoprolol, Atenolol, Carvedilol",30-40
+Labetalol,Slow Heart Rate,"Nebivolol, Carvedilol, Bisoprolol",20-35
+Labetalol,Lightheadedness,"Atenolol, Metoprolol, Carvedilol",25-40
+Labetalol,Erectile Dysfunction,"Bisoprolol, Nebivolol, Metoprolol",30-40
+Lamotrigine,Rash,"Levetiracetam, Gabapentin, Topiramate",20-30
+Lamotrigine,Dizziness,"Levetiracetam, Topiramate, Zonisamide",20-30
+Lamotrigine,Headache,"Gabapentin, Levetiracetam, Topiramate",20-30
+Lamotrigine,Blurred vision,"Topiramate, Levetiracetam, Zonisamide",20-30
+Lamotrigine,Nausea,"Gabapentin, Levetiracetam, Topiramate",20-30
+Lamotrigine,Vomiting,"Levetiracetam, Gabapentin, Topiramate",20-30
+Lamotrigine,Insomnia,"Gabapentin, Levetiracetam, Topiramate",20-30
+Lamotrigine,Anxiety,"Levetiracetam, Gabapentin, Topiramate",20-30
+Lamotrigine,Fatigue,"Levetiracetam, Topiramate, Zonisamide",20-30
+Lamotrigine,Tremor,"Gabapentin, Levetiracetam, Topiramate",20-30
+Lansoprazole,Stomach pain,"Omeprazole, Pantoprazole, Rabeprazole",10-25
+Lansoprazole,Nausea,"Esomeprazole, Dexlansoprazole, Pantoprazole",5-15
+Lansoprazole,Diarrhea,"Rabeprazole, Omeprazole, Pantoprazole",10-20
+Lansoprazole,Constipation,"Omeprazole, Esomeprazole, Dexlansoprazole",5-10
+Lansoprazole,Headache,"Omeprazole, Rabeprazole, Esomeprazole",15-20
+Lansoprazole,Dizziness,"Rabeprazole, Pantoprazole, Esomeprazole",5-10
+Lansoprazole,Rash,"Omeprazole, Pantoprazole, Dexlansoprazole",5-10
+Lansoprazole,Fatigue,"Omeprazole, Esomeprazole, Rabeprazole",5-15
+Lansoprazole,Vomiting,"Pantoprazole, Esomeprazole, Dexlansoprazole",5-10
+Lansoprazole,Anorexia,"Esomeprazole, Pantoprazole, Rabeprazole",5-10
+Levetiracetam,Drowsiness,"Lamotrigine, Topiramate, Valproate",10-20
+Levetiracetam,Dizziness,"Lamotrigine, Topiramate, Phenytoin",10-15
+Levetiracetam,Nausea,"Lamotrigine, Topiramate, Valproate",5-15
+Levetiracetam,Mood changes,"Lamotrigine, Valproate, Carbamazepine",5-10
+Levetiracetam,Fatigue,"Lamotrigine, Topiramate, Phenytoin",5-15
+Levetiracetam,Irritability,"Lamotrigine, Topiramate, Clonazepam",5-10
+Levetiracetam,Anxiety,"Lamotrigine, Topiramate, Clonazepam",5-10
+Levetiracetam,Depression,"Lamotrigine, Topiramate, Oxcarbazepine",5-10
+Levetiracetam,Headache,"Lamotrigine, Topiramate, Valproate",5-15
+Levetiracetam,Insomnia,"Lamotrigine, Topiramate, Clonazepam",5-10
+Levodopa,Nausea,"Carbidopa, Entacapone, Ropinirole",20-30
+Levodopa,Dizziness,"Entacapone, Ropinirole, Selegiline",15-25
+Levodopa,Hypotension,"Entacapone, Ropinirole, Bromocriptine",10-20
+Levodopa,Dyskinesia,"Carbidopa, Ropinirole, Amantadine",20-30
+Levodopa,Confusion,"Entacapone, Ropinirole, Selegiline",10-20
+Levodopa,Fatigue,"Carbidopa, Ropinirole, Apomorphine",5-15
+Levodopa,Hallucinations,"Carbidopa, Ropinirole, Clozapine",5-10
+Levodopa,Insomnia,"Ropinirole, Selegiline, Safinamide",5-10
+Levodopa,Dry mouth,"Carbidopa, Ropinirole, Amantadine",5-10
+Levodopa,Sweating,"Entacapone, Ropinirole, Bromocriptine",5-10
+Levothyroxine,Anxiety,"Liothyronine, Methimazole, Propylthiouracil",10-15
+Levothyroxine,Insomnia,"Liothyronine, Desiccated thyroid, Methimazole",5-10
+Levothyroxine,Tremors,"Liothyronine, Methimazole, Desiccated thyroid",10-15
+Levothyroxine,Palpitations,"Liothyronine, Methimazole, Desiccated thyroid",5-10
+Levothyroxine,Weight loss,"Liothyronine, Methimazole, Propylthiouracil",10-15
+Levothyroxine,Fatigue,"Liothyronine, Methimazole, Desiccated thyroid",5-10
+Levothyroxine,Sweating,"Liothyronine, Methimazole, Propylthiouracil",5-10
+Levothyroxine,Headache,"Liothyronine, Methimazole, Desiccated thyroid",5-15
+Levothyroxine,Diarrhea,"Liothyronine, Methimazole, Propylthiouracil",5-10
+Levothyroxine,Hot flashes,"Liothyronine, Methimazole, Desiccated thyroid",5-10
+Lidocaine,Numbness,"Bupivacaine, Mepivacaine, Prilocaine",30-40
+Lidocaine,Dizziness,"Ropivacaine, Bupivacaine, Mepivacaine",25-35
+Lidocaine,Headache,"Prilocaine, Ropivacaine, Bupivacaine",20-30
+Lidocaine,Blurred Vision,"Mepivacaine, Prilocaine, Ropivacaine",30-40
+Lidocaine,Ringing in the Ears,"Bupivacaine, Ropivacaine, Mepivacaine",35-45
+Lidocaine,Tremors,"Prilocaine, Bupivacaine, Ropivacaine",20-30
+Lidocaine,Respiratory Depression,"Mepivacaine, Bupivacaine, Prilocaine",25-35
+Lidocaine,Allergic Reactions,"Ropivacaine, Mepivacaine, Bupivacaine",30-40
+Lidocaine,Chest Pain,"Prilocaine, Ropivacaine, Mepivacaine",20-30
+Lidocaine,Seizures,"Bupivacaine, Mepivacaine, Prilocaine",35-45
+Lisinopril,Dizziness,"Enalapril, Ramipril, Captopril",10-20
+Lisinopril,Cough,"Benazepril, Ramipril, Captopril",5-15
+Lisinopril,Fatigue,"Enalapril, Telmisartan, Amlodipine",5-10
+Lisinopril,Nausea,"Benazepril, Captopril, Quinapril",5-10
+Lisinopril,Headache,"Ramipril, Enalapril, Amlodipine",5-15
+Lisinopril,Rash,"Benazepril, Captopril, Telmisartan",5-10
+Lisinopril,Hypotension,"Enalapril, Ramipril, Telmisartan",10-20
+Lisinopril,Diarrhea,"Benazepril, Captopril, Ramipril",5-10
+Lisinopril,Angioedema,"Enalapril, Ramipril, Quinapril",5-10
+Lisinopril,Chest pain,"Benazepril, Ramipril, Amlodipine",5-10
+Lithium,Tremors,"Valproate, Carbamazepine, Quetiapine",10-20
+Lithium,Nausea,"Divalproex, Lamotrigine, Olanzapine",10-15
+Lithium,Diarrhea,"Divalproex, Topiramate, Gabapentin",5-10
+Lithium,Dizziness,"Valproate, Lamotrigine, Risperidone",5-15
+Lithium,Weight gain,"Valproate, Mirtazapine, Olanzapine",10-20
+Lithium,Fatigue,"Divalproex, Quetiapine, Lamotrigine",5-10
+Lithium,Hypothyroidism,"Divalproex, Carbamazepine, Amisulpride",5-10
+Lithium,Acne,"Valproate, Testosterone, Isotretinoin",5-10
+Lithium,Hair loss,"Divalproex, Carbamazepine, Quetiapine",5-10
+Lithium,Metallic taste,"Divalproex, Gabapentin, Carbamazepine",5-10
+Loperamide,Constipation,"Diphenoxylate, Atropine, Kaolin",30-40
+Loperamide,Nausea,"Attapulgite, Bismuth Subsalicylate, Racecadotril",25-35
+Loperamide,Abdominal Pain,"Atropine, Kaolin, Diphenoxylate",20-30
+Loperamide,Dizziness,"Bismuth Subsalicylate, Racecadotril, Attapulgite",30-40
+Loperamide,Dry Mouth,"Kaolin, Attapulgite, Bismuth Subsalicylate",35-45
+Loperamide,Fatigue,"Racecadotril, Atropine, Diphenoxylate",20-30
+Loperamide,Rash,"Attapulgite, Kaolin, Bismuth Subsalicylate",25-35
+Loperamide,Vomiting,"Diphenoxylate, Racecadotril, Attapulgite",30-40
+Loperamide,Flatulence,"Bismuth Subsalicylate, Kaolin, Racecadotril",20-30
+Loperamide,Headache,"Atropine, Diphenoxylate, Kaolin",25-35
+Loratadine,Drowsiness,"Cetirizine, Fexofenadine, Desloratadine",20-40
+Loratadine,Dry Mouth,"Levocetirizine, Rupatadine, Ebastine",20-30
+Loratadine,Headache,"Fexofenadine, Bilastine, Levocetirizine",25-35
+Loratadine,Fatigue,"Desloratadine, Ebastine, Levocetirizine",30-40
+Loratadine,Nausea,"Fexofenadine, Rupatadine, Cetirizine",20-30
+Lorazepam,Drowsiness,"Diazepam, Alprazolam, Clonazepam",10-20
+Lorazepam,Dizziness,"Diazepam, Clonazepam, Oxazepam",5-15
+Lorazepam,Fatigue,"Alprazolam, Clonazepam, Temazepam",5-10
+Lorazepam,Confusion,"Diazepam, Clonazepam, Zolpidem",5-10
+Lorazepam,Headache,"Diazepam, Clonazepam, Buspirone",5-15
+Lorazepam,Nausea,"Diazepam, Clonazepam, Buspirone",5-10
+Lorazepam,Memory impairment,"Diazepam, Clonazepam, Temazepam",10-15
+Lorazepam,Dry mouth,"Diazepam, Clonazepam, Buspirone",5-10
+Lorazepam,Rash,"Diazepam, Clonazepam, Oxazepam",5-10
+Lorazepam,Depression,"Diazepam, Clonazepam, Sertraline",5-10
+Losartan,Dizziness,"Valsartan, Olmesartan, Telmisartan",10-20
+Losartan,Cough,"Valsartan, Enalapril, Ramipril",5-15
+Losartan,Fatigue,"Valsartan, Olmesartan, Captopril",5-10
+Losartan,Nausea,"Valsartan, Olmesartan, Benazepril",5-10
+Losartan,Headache,"Valsartan, Olmesartan, Captopril",5-15
+Losartan,Rash,"Valsartan, Benazepril, Captopril",5-10
+Losartan,Hypotension,"Valsartan, Olmesartan, Captopril",10-20
+Losartan,Diarrhea,"Valsartan, Benazepril, Ramipril",5-10
+Losartan,Fatigue,"Valsartan, Olmesartan, Amlodipine",5-10
+Losartan,Chest pain,"Valsartan, Benazepril, Ramipril",5-10
+Mebendazole,Nausea,"Albendazole, Pyrantel, Levamisole",30-40
+Mebendazole,Abdominal Pain,"Nitazoxanide, Ivermectin, Praziquantel",20-30
+Mebendazole,Rash,"Ivermectin, Nitazoxanide, Praziquantel",25-35
+Mebendazole,Diarrhea,"Albendazole, Pyrantel, Levamisole",15-25
+Mebendazole,Dizziness,"Ivermectin, Nitazoxanide, Albendazole",20-30
+Mebendazole,Headache,"Pyrantel, Levamisole, Nitazoxanide",25-35
+Mebendazole,Fever,"Albendazole, Ivermectin, Nitazoxanide",30-40
+Mebendazole,Fatigue,"Praziquantel, Ivermectin, Albendazole",20-30
+Mebendazole,Vomiting,"Nitazoxanide, Pyrantel, Levamisole",25-35
+Mebendazole,Joint Pain,"Ivermectin, Albendazole, Nitazoxanide",30-40
+Metformin,Nausea,"Glipizide, Glyburide, Acarbose",10-20
+Metformin,Diarrhea,"Glipizide, Glyburide, Pioglitazone",10-15
+Metformin,Stomach upset,"Glipizide, Acarbose, Sitagliptin",5-10
+Metformin,Fatigue,"Glyburide, Glipizide, Insulin",5-10
+Metformin,Metallic taste,"Glipizide, Pioglitazone, Sitagliptin",5-15
+Metformin,Headache,"Glipizide, Acarbose, Pioglitazone",5-10
+Metformin,Abdominal cramps,"Glyburide, Acarbose, Pioglitazone",5-10
+Metformin,Weight loss,"Glipizide, Sitagliptin, Acarbose",5-10
+Metformin,Lactic acidosis,"Glyburide, Sitagliptin, Insulin",5-10
+Metformin,Decreased appetite,"Glipizide, Acarbose, Sitagliptin",5-10
+Methotrexate,Nausea,"Azathioprine, Sulfasalazine, Leflunomide",10-20
+Methotrexate,Mouth sores,"Azathioprine, Sulfasalazine, Leflunomide",5-15
+Methotrexate,Fatigue,"Azathioprine, Leflunomide, Cyclophosphamide",5-10
+Methotrexate,Dizziness,"Azathioprine, Leflunomide, Cyclophosphamide",5-10
+Methotrexate,Rash,"Azathioprine, Sulfasalazine, Leflunomide",5-10
+Methotrexate,Hair loss,"Azathioprine, Cyclophosphamide, Dexamethasone",5-10
+Methotrexate,Liver toxicity,"Azathioprine, Leflunomide, Cyclophosphamide",5-10
+Methotrexate,Respiratory distress,"Azathioprine, Leflunomide, Sulfasalazine",5-10
+Methotrexate,Decreased white blood cells,"Azathioprine, Cyclophosphamide, Leflunomide",5-10
+Methotrexate,Increased risk of infection,"Azathioprine, Cyclophosphamide, Leflunomide",5-10
+Methylphenidate,Insomnia,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",10-20
+Methylphenidate,Decreased appetite,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",10-15
+Methylphenidate,Anxiety,"Amphetamine, Dexmethylphenidate, Atomoxetine",5-10
+Methylphenidate,Dizziness,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",5-10
+Methylphenidate,Headache,"Amphetamine, Dexmethylphenidate, Atomoxetine",5-15
+Methylphenidate,Nausea,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",5-10
+Methylphenidate,Irritability,"Amphetamine, Dexmethylphenidate, Atomoxetine",5-10
+Methylphenidate,Fatigue,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",5-10
+Methylphenidate,Palpitations,"Amphetamine, Dexmethylphenidate, Lisdexamfetamine",5-10
+Methylphenidate,Dry mouth,"Amphetamine, Dexmethylphenidate, Atomoxetine",5-10
+Metoprolol,Fatigue,"Atenolol, Propranolol, Bisoprolol",10-20
+Metoprolol,Dizziness,"Atenolol, Carvedilol, Bisoprolol",5-15
+Metoprolol,Depression,"Atenolol, Propranolol, Nebivolol",5-10
+Metoprolol,Nausea,"Atenolol, Carvedilol, Bisoprolol",5-10
+Metoprolol,Cold hands/feet,"Atenolol, Propranolol, Carvedilol",5-15
+Metoprolol,Shortness of breath,"Atenolol, Bisoprolol, Carvedilol",5-10
+Metoprolol,Bradycardia,"Atenolol, Propranolol, Bisoprolol",10-20
+Metoprolol,Sleep disturbances,"Atenolol, Carvedilol, Propranolol",5-10
+Metoprolol,Diarrhea,"Atenolol, Carvedilol, Bisoprolol",5-10
+Metoprolol,Sexual dysfunction,"Atenolol, Propranolol, Bisoprolol",5-10
+Metronidazole,Nausea,"Tinidazole, Clindamycin, Azithromycin",20-40
+Metronidazole,Diarrhea,"Doxycycline, Amoxicillin, Ciprofloxacin",25-35
+Metronidazole,Metallic Taste,"Tinidazole, Amoxicillin-Clavulanate, Clarithromycin",30-40
+Metronidazole,Headache,"Clindamycin, Levofloxacin, Azithromycin",20-30
+Metronidazole,Dizziness,"Doxycycline, Clarithromycin, Azithromycin",25-35
+Metronidazole,Abdominal Pain,"Azithromycin, Clarithromycin, Erythromycin",20-40
+Metronidazole,Vomiting,"Tinidazole, Clarithromycin, Amoxicillin",30-40
+Metronidazole,Fatigue,"Clindamycin, Levofloxacin, Doxycycline",20-30
+Metronidazole,Dark Urine,"Tinidazole, Ciprofloxacin, Amoxicillin",20-35
+Metronidazole,Loss of Appetite,"Azithromycin, Clarithromycin, Levofloxacin",25-40
+Miconazole,Skin Irritation,"Clotrimazole, Terbinafine, Ketoconazole",25-35
+Miconazole,Burning Sensation,"Nystatin, Econazole, Sertaconazole",20-30
+Miconazole,Redness,"Clotrimazole, Terbinafine, Nystatin",15-25
+Miconazole,Itching,"Ketoconazole, Econazole, Sertaconazole",30-40
+Miconazole,Swelling,"Terbinafine, Clotrimazole, Nystatin",25-35
+Miconazole,Rash,"Econazole, Sertaconazole, Nystatin",20-30
+Miconazole,Blistering,"Ketoconazole, Clotrimazole, Terbinafine",35-45
+Miconazole,Dryness,"Nystatin, Econazole, Ketoconazole",30-40
+Miconazole,Peeling,"Sertaconazole, Nystatin, Clotrimazole",20-30
+Miconazole,Cracking Skin,"Terbinafine, Ketoconazole, Sertaconazole",25-35
+Mirtazapine,Weight Gain,"Escitalopram, Sertraline, Bupropion",25-35
+Mirtazapine,Dry Mouth,"Venlafaxine, Fluoxetine, Bupropion",20-30
+Mirtazapine,Drowsiness,"Escitalopram, Sertraline, Fluoxetine",15-25
+Mirtazapine,Increased Appetite,"Bupropion, Venlafaxine, Fluoxetine",30-40
+Mirtazapine,Dizziness,"Sertraline, Escitalopram, Bupropion",25-35
+Mirtazapine,Constipation,"Fluoxetine, Venlafaxine, Escitalopram",20-30
+Mirtazapine,Fatigue,"Bupropion, Escitalopram, Sertraline",25-35
+Mirtazapine,Headache,"Fluoxetine, Venlafaxine, Sertraline",30-40
+Mirtazapine,Blurred Vision,"Escitalopram, Bupropion, Venlafaxine",15-25
+Mirtazapine,Restlessness,"Sertraline, Fluoxetine, Escitalopram",20-30
+Mometasone,Skin Thinning,"Hydrocortisone, Triamcinolone, Betamethasone",25-35
+Mometasone,Burning Sensation,"Hydrocortisone, Clobetasol, Betamethasone",20-30
+Mometasone,Itching,"Triamcinolone, Hydrocortisone, Clobetasol",15-25
+Mometasone,Redness,"Betamethasone, Hydrocortisone, Triamcinolone",30-40
+Mometasone,Stretch Marks,"Clobetasol, Betamethasone, Hydrocortisone",25-35
+Mometasone,Dry Skin,"Triamcinolone, Hydrocortisone, Clobetasol",20-30
+Mometasone,Acne,"Hydrocortisone, Triamcinolone, Betamethasone",25-35
+Mometasone,Folliculitis,"Clobetasol, Hydrocortisone, Triamcinolone",30-40
+Mometasone,Rash,"Betamethasone, Hydrocortisone, Clobetasol",15-25
+Mometasone,Skin Discoloration,"Triamcinolone, Betamethasone, Hydrocortisone",20-30
+Mometasone,Skin Irritation,"Hydrocortisone, Betamethasone, Fluticasone",20-40
+Mometasone,Dry Skin,"Fluticasone, Triamcinolone, Desonide",20-30
+Mometasone,Burning Sensation,"Hydrocortisone, Triamcinolone, Betamethasone",25-35
+Mometasone,Thinning of Skin,"Fluticasone, Hydrocortisone, Desonide",30-40
+Mometasone,Folliculitis,"Clobetasol, Betamethasone, Triamcinolone",20-30
+Mometasone,Acne,"Hydrocortisone, Clobetasol, Desonide",20-40
+Mometasone,Stretch Marks,"Betamethasone, Clobetasol, Hydrocortisone",25-35
+Mometasone,Increased Hair Growth,"Hydrocortisone, Triamcinolone, Fluticasone",20-30
+Mometasone,Allergic Contact Dermatitis,"Betamethasone, Clobetasol, Triamcinolone",30-40
+Mometasone,Rosacea,"Fluticasone, Hydrocortisone, Betamethasone",20-30
+Montelukast,Headache,"Zafirlukast, Roflumilast, Theophylline",10-20
+Montelukast,Abdominal pain,"Zafirlukast, Roflumilast, Theophylline",5-15
+Montelukast,Fatigue,"Zafirlukast, Theophylline, Salmeterol",5-10
+Montelukast,Nausea,"Zafirlukast, Roflumilast, Theophylline",5-10
+Montelukast,Dizziness,"Zafirlukast, Roflumilast, Theophylline",5-10
+Montelukast,Mood changes,"Zafirlukast, Theophylline, Roflumilast",5-10
+Montelukast,Cough,"Zafirlukast, Roflumilast, Theophylline",5-10
+Montelukast,Rash,"Zafirlukast, Theophylline, Roflumilast",5-10
+Montelukast,Increased liver enzymes,"Zafirlukast, Roflumilast, Theophylline",5-10
+Montelukast,Allergic reactions,"Zafirlukast, Roflumilast, Theophylline",5-10
+Mycophenolate mofetil,Diarrhea,"Azathioprine, Tacrolimus, Cyclosporine",30-40
+Mycophenolate mofetil,Nausea,"Sirolimus, Everolimus, Azathioprine",25-35
+Mycophenolate mofetil,Vomiting,"Tacrolimus, Sirolimus, Cyclosporine",20-30
+Mycophenolate mofetil,Abdominal Pain,"Everolimus, Azathioprine, Sirolimus",15-25
+Mycophenolate mofetil,Headache,"Cyclosporine, Tacrolimus, Sirolimus",30-40
+Mycophenolate mofetil,Fatigue,"Azathioprine, Everolimus, Tacrolimus",25-35
+Mycophenolate mofetil,Insomnia,"Sirolimus, Cyclosporine, Everolimus",20-30
+Mycophenolate mofetil,Joint Pain,"Tacrolimus, Azathioprine, Cyclosporine",35-45
+Mycophenolate mofetil,Swelling,"Everolimus, Sirolimus, Azathioprine",30-40
+Mycophenolate mofetil,Infection Risk,"Cyclosporine, Tacrolimus, Everolimus",25-35
+Nadolol,Fatigue,"Atenolol, Metoprolol, Bisoprolol",20-30
+Nadolol,Dizziness,"Carvedilol, Nebivolol, Propranolol",25-35
+Nadolol,Bradycardia,"Metoprolol, Atenolol, Carvedilol",30-40
+Nadolol,Cold Extremities,"Bisoprolol, Propranolol, Nebivolol",15-25
+Nadolol,Shortness of Breath,"Atenolol, Carvedilol, Metoprolol",20-30
+Nadolol,Hypotension,"Nebivolol, Bisoprolol, Carvedilol",25-35
+Nadolol,Sleep Disturbances,"Atenolol, Metoprolol, Propranolol",30-40
+Nadolol,Depression,"Carvedilol, Nebivolol, Bisoprolol",20-30
+Nadolol,Sexual Dysfunction,"Atenolol, Metoprolol, Nebivolol",25-35
+Nadolol,Gastrointestinal Upset,"Bisoprolol, Carvedilol, Atenolol",15-25
+Naloxone,Sweating,"Naltrexone, Methylnaltrexone, Buprenorphine",20-40
+Naloxone,Nausea,"Naltrexone, Nalmefene, Methylnaltrexone",25-35
+Naloxone,Dizziness,"Buprenorphine, Methylnaltrexone, Naltrexone",30-40
+Naloxone,Headache,"Nalmefene, Methylnaltrexone, Naltrexone",20-30
+Naloxone,Vomiting,"Buprenorphine, Nalmefene, Naltrexone",20-30
+Naloxone,Hypertension,"Naltrexone, Nalmefene, Methylnaltrexone",25-40
+Naloxone,Rapid Heart Rate,"Nalmefene, Buprenorphine, Methylnaltrexone",30-40
+Naloxone,Irritability,"Buprenorphine, Methylnaltrexone, Naltrexone",20-35
+Naloxone,Tremors,"Nalmefene, Methylnaltrexone, Buprenorphine",25-40
+Naloxone,Muscle Cramps,"Naltrexone, Methylnaltrexone, Buprenorphine",30-40
+Naphazoline,Stinging or burning sensation,"Oxymetazoline, Phenylephrine, Tetrahydrozoline",10-20
+Naphazoline,Dry nose,"Oxymetazoline, Phenylephrine, Xylometazoline",5-15
+Naphazoline,Sneezing,"Oxymetazoline, Phenylephrine, Tetrahydrozoline",5-10
+Naphazoline,Dizziness,"Oxymetazoline, Phenylephrine, Xylometazoline",5-10
+Naphazoline,Increased blood pressure,"Phenylephrine, Tetrahydrozoline, Xylometazoline",5-10
+Naphazoline,Headache,"Oxymetazoline, Phenylephrine, Tetrahydrozoline",5-10
+Naphazoline,Nervousness,"Tetrahydrozoline, Xylometazoline, Phenylephrine",5-10
+Naphazoline,Rebound congestion,"Oxymetazoline, Phenylephrine, Xylometazoline",10-20
+Naphazoline,Itching,"Oxymetazoline, Tetrahydrozoline, Phenylephrine",5-10
+Naphazoline,Palpitations,"Oxymetazoline, Phenylephrine, Tetrahydrozoline",5-10
+Naproxen,Stomach pain,"Ibuprofen, Diclofenac, Ketoprofen",10-20
+Naproxen,Headache,"Ibuprofen, Aspirin, Diclofenac",5-15
+Naproxen,Dizziness,"Ibuprofen, Diclofenac, Indomethacin",5-10
+Naproxen,Nausea,"Ibuprofen, Diclofenac, Ketorolac",5-10
+Naproxen,Rash,"Ibuprofen, Diclofenac, Aspirin",5-10
+Naproxen,Constipation,"Ibuprofen, Diclofenac, Ketorolac",5-10
+Naproxen,Diarrhea,"Ibuprofen, Diclofenac, Ketoprofen",5-10
+Naproxen,Tinnitus,"Ibuprofen, Diclofenac, Ketorolac",5-10
+Naproxen,Gastrointestinal bleeding,"Ibuprofen, Diclofenac, Ketorolac",10-20
+Naproxen,Fatigue,"Ibuprofen, Diclofenac, Ketoprofen",5-10
+Nifedipine,Headache,"Amlodipine, Felodipine, Verapamil",30-40
+Nifedipine,Flushing,"Diltiazem, Amlodipine, Verapamil",25-35
+Nifedipine,Dizziness,"Amlodipine, Felodipine, Diltiazem",20-30
+Nifedipine,Swelling (Edema),"Verapamil, Diltiazem, Amlodipine",15-25
+Nifedipine,Palpitations,"Felodipine, Amlodipine, Diltiazem",30-40
+Nifedipine,Nausea,"Amlodipine, Verapamil, Diltiazem",25-35
+Nifedipine,Constipation,"Diltiazem, Verapamil, Amlodipine",20-30
+Nifedipine,Rash,"Felodipine, Amlodipine, Verapamil",15-25
+Nifedipine,Sleep Disturbances,"Diltiazem, Verapamil, Felodipine",25-35
+Nifedipine,Fatigue,"Amlodipine, Felodipine, Verapamil",20-30
+Nifedipine,Swelling,"Amlodipine, Diltiazem, Verapamil",25-35
+Nifedipine,Dizziness,"Losartan, Enalapril, Lisinopril",20-40
+Nifedipine,Flushing,"Metoprolol, Atenolol, Bisoprolol",30-40
+Nifedipine,Headache,"Diltiazem, Verapamil, Amlodipine",20-30
+Nifedipine,Fatigue,"Nebivolol, Carvedilol, Propranolol",20-30
+Nifedipine,Heart Palpitations,"Metoprolol, Atenolol, Bisoprolol",30-40
+Nifedipine,Constipation,"Diltiazem, Verapamil, Amlodipine",25-35
+Nifedipine,Nausea,"Lisinopril, Losartan, Valsartan",20-40
+Nifedipine,Shortness of Breath,"Amlodipine, Diltiazem, Verapamil",20-30
+Nifedipine,Rash,"Metoprolol, Atenolol, Carvedilol",30-40
+Nitrofurantoin,Nausea,"Trimethoprim, Fosfomycin, Ciprofloxacin",10-20
+Nitrofurantoin,Headache,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-15
+Nitrofurantoin,Dizziness,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-10
+Nitrofurantoin,Diarrhea,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-10
+Nitrofurantoin,Rash,"Trimethoprim, Amoxicillin, Ciprofloxacin",5-10
+Nitrofurantoin,Abdominal pain,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-10
+Nitrofurantoin,Pulmonary reactions,"Trimethoprim, Amoxicillin, Ciprofloxacin",5-10
+Nitrofurantoin,Peripheral neuropathy,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-10
+Nitrofurantoin,Dark urine,"Trimethoprim, Amoxicillin, Ciprofloxacin",5-10
+Nitrofurantoin,Liver toxicity,"Trimethoprim, Ciprofloxacin, Amoxicillin",5-10
+Nitroglycerin,Headache,"Isosorbide dinitrate, Isosorbide mononitrate, Ranolazine",30-40
+Nitroglycerin,Dizziness,"Isosorbide mononitrate, Ranolazine, Ivabradine",25-35
+Nitroglycerin,Flushing,"Ranolazine, Isosorbide dinitrate, Nicorandil",20-30
+Nitroglycerin,Hypotension,"Isosorbide mononitrate, Ivabradine, Ranolazine",15-25
+Nitroglycerin,Nausea,"Ranolazine, Isosorbide dinitrate, Nicorandil",30-40
+Nitroglycerin,Tachycardia,"Ivabradine, Ranolazine, Isosorbide mononitrate",25-35
+Nitroglycerin,Syncope,"Nicorandil, Isosorbide dinitrate, Ranolazine",20-30
+Nitroglycerin,Chest Pain,"Isosorbide mononitrate, Ranolazine, Ivabradine",15-25
+Nitroglycerin,Blurred Vision,"Isosorbide dinitrate, Ivabradine, Nicorandil",25-35
+Nitroglycerin,Weakness,"Ranolazine, Isosorbide mononitrate, Ivabradine",20-30
+Nortriptyline,Dry Mouth,"Sertraline, Escitalopram, Bupropion",25-35
+Nortriptyline,Constipation,"Venlafaxine, Duloxetine, Sertraline",20-30
+Nortriptyline,Drowsiness,"Bupropion, Escitalopram, Fluoxetine",30-40
+Nortriptyline,Weight Gain,"Sertraline, Venlafaxine, Fluoxetine",15-25
+Nortriptyline,Dizziness,"Escitalopram, Bupropion, Venlafaxine",20-30
+Nortriptyline,Blurred Vision,"Fluoxetine, Sertraline, Escitalopram",25-35
+Nortriptyline,Sweating,"Venlafaxine, Duloxetine, Bupropion",30-40
+Nortriptyline,Increased Heart Rate,"Escitalopram, Sertraline, Bupropion",15-25
+Nortriptyline,Rash,"Sertraline, Fluoxetine, Venlafaxine",20-30
+Nortriptyline,Insomnia,"Escitalopram, Fluoxetine, Bupropion",25-35
+odeine,Constipation,"Tramadol, Hydrocodone, Acetaminophen",20-30
+Ofloxacin,Nausea,"Ciprofloxacin, Levofloxacin, Moxifloxacin",30-40
+Ofloxacin,Diarrhea,"Ciprofloxacin, Levofloxacin, Moxifloxacin",25-35
+Ofloxacin,Dizziness,"Levofloxacin, Ciprofloxacin, Moxifloxacin",20-30
+Ofloxacin,Headache,"Moxifloxacin, Levofloxacin, Ciprofloxacin",15-25
+Ofloxacin,Rash,"Levofloxacin, Moxifloxacin, Ciprofloxacin",30-40
+Ofloxacin,Insomnia,"Ciprofloxacin, Moxifloxacin, Levofloxacin",25-35
+Ofloxacin,Vomiting,"Moxifloxacin, Levofloxacin, Ciprofloxacin",20-30
+Ofloxacin,Abdominal Pain,"Ciprofloxacin, Levofloxacin, Moxifloxacin",15-25
+Ofloxacin,Fatigue,"Levofloxacin, Ciprofloxacin, Moxifloxacin",25-35
+Ofloxacin,Anxiety,"Moxifloxacin, Ciprofloxacin, Levofloxacin",20-30
+Olopatadine,Headache,"Azelastine, Ketotifen, Levocabastine",10-20
+Olopatadine,Dry mouth,"Azelastine, Ketotifen, Bepotastine",5-15
+Olopatadine,Drowsiness,"Azelastine, Ketotifen, Diphenhydramine",5-10
+Olopatadine,Eye irritation,"Azelastine, Ketotifen, Bepotastine",5-10
+Olopatadine,Fatigue,"Azelastine, Ketotifen, Levocabastine",5-10
+Olopatadine,Sneezing,"Azelastine, Ketotifen, Bepotastine",5-10
+Olopatadine,Sore throat,"Azelastine, Ketotifen, Bepotastine",5-10
+Olopatadine,Cough,"Azelastine, Ketotifen, Bepotastine",5-10
+Olopatadine,Nausea,"Azelastine, Ketotifen, Bepotastine",5-10
+Olopatadine,Rash,"Azelastine, Ketotifen, Bepotastine",5-10
+Omeprazole,Headache,"Pantoprazole, Lansoprazole, Esomeprazole",30-40
+Omeprazole,Diarrhea,"Rabeprazole, Pantoprazole, Lansoprazole",25-35
+Omeprazole,Nausea,"Esomeprazole, Lansoprazole, Pantoprazole",20-30
+Omeprazole,Abdominal Pain,"Rabeprazole, Esomeprazole, Pantoprazole",15-25
+Omeprazole,Flatulence,"Lansoprazole, Pantoprazole, Esomeprazole",30-40
+Omeprazole,Dizziness,"Pantoprazole, Rabeprazole, Lansoprazole",25-35
+Omeprazole,Rash,"Esomeprazole, Rabeprazole, Pantoprazole",20-30
+Omeprazole,Constipation,"Lansoprazole, Esomeprazole, Rabeprazole",15-25
+Omeprazole,Fatigue,"Pantoprazole, Lansoprazole, Esomeprazole",25-35
+Omeprazole,Back Pain,"Esomeprazole, Rabeprazole, Lansoprazole",20-30
+Omeprazole,Headache,"Esomeprazole, Lansoprazole, Pantoprazole",20-40
+Omeprazole,Nausea,"Pantoprazole, Rabeprazole, Dexlansoprazole",25-35
+Omeprazole,Diarrhea,"Esomeprazole, Lansoprazole, Rabeprazole",30-40
+Omeprazole,Abdominal Pain,"Rabeprazole, Dexlansoprazole, Esomeprazole",20-30
+Omeprazole,Flatulence,"Pantoprazole, Esomeprazole, Lansoprazole",20-30
+Omeprazole,Dizziness,"Rabeprazole, Dexlansoprazole, Esomeprazole",25-40
+Omeprazole,Constipation,"Lansoprazole, Pantoprazole, Esomeprazole",30-40
+Omeprazole,Rash,"Dexlansoprazole, Rabeprazole, Pantoprazole",20-35
+Omeprazole,Fatigue,"Lansoprazole, Esomeprazole, Pantoprazole",25-40
+Omeprazole,Dry Mouth,"Rabeprazole, Dexlansoprazole, Esomeprazole",30-40
+Ondansetron,Headache,"Metoclopramide, Prochlorperazine, Promethazine",25-35
+Ondansetron,Constipation,"Metoclopramide, Prochlorperazine, Domperidone",20-30
+Ondansetron,Fatigue,"Promethazine, Metoclopramide, Prochlorperazine",30-40
+Ondansetron,Dizziness,"Domperidone, Metoclopramide, Promethazine",15-25
+Ondansetron,Rash,"Prochlorperazine, Promethazine, Metoclopramide",20-30
+Ondansetron,Diarrhea,"Domperidone, Prochlorperazine, Promethazine",25-35
+Ondansetron,Blurred Vision,"Promethazine, Metoclopramide, Domperidone",30-40
+Ondansetron,Flushing,"Metoclopramide, Prochlorperazine, Domperidone",20-30
+Ondansetron,Dry Mouth,"Promethazine, Domperidone, Metoclopramide",15-25
+Ondansetron,Anxiety,"Prochlorperazine, Domperidone, Promethazine",25-35
+Oseltamivir,Nausea,"Zanamivir, Peramivir, Baloxavir",10-20
+Oseltamivir,Vomiting,"Zanamivir, Baloxavir, Peramivir",5-15
+Oseltamivir,Diarrhea,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Abdominal pain,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Headache,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Dizziness,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Fatigue,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Insomnia,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Cough,"Zanamivir, Baloxavir, Peramivir",5-10
+Oseltamivir,Allergic reactions,"Zanamivir, Baloxavir, Peramivir",5-10
+Oxcarbazepine,Dizziness,"Lamotrigine, Levetiracetam, Topiramate",30-40
+Oxcarbazepine,Nausea,"Gabapentin, Pregabalin, Lamotrigine",25-35
+Oxcarbazepine,Headache,"Levetiracetam, Topiramate, Gabapentin",20-30
+Oxcarbazepine,Fatigue,"Lamotrigine, Topiramate, Pregabalin",15-25
+Oxcarbazepine,Hyponatremia,"Levetiracetam, Gabapentin, Pregabalin",35-45
+Oxcarbazepine,Double Vision,"Lamotrigine, Gabapentin, Topiramate",20-30
+Oxcarbazepine,Rash,"Levetiracetam, Pregabalin, Lamotrigine",25-35
+Oxcarbazepine,Tremor,"Gabapentin, Lamotrigine, Topiramate",30-40
+Oxcarbazepine,Weight Gain,"Levetiracetam, Topiramate, Lamotrigine",20-30
+Oxcarbazepine,Cognitive Impairment,"Gabapentin, Pregabalin, Lamotrigine",25-35
+Oxcarbazepine,Drowsiness,"Lamotrigine, Levetiracetam, Topiramate",20-40
+Oxcarbazepine,Dizziness,"Lamotrigine, Gabapentin, Pregabalin",25-35
+Oxcarbazepine,Nausea,"Levetiracetam, Topiramate, Zonisamide",30-40
+Oxcarbazepine,Fatigue,"Lamotrigine, Gabapentin, Levetiracetam",20-30
+Oxcarbazepine,Headache,"Topiramate, Zonisamide, Lamotrigine",20-30
+Oxcarbazepine,Vision Problems,"Levetiracetam, Lamotrigine, Gabapentin",25-40
+Oxcarbazepine,Rash,"Lamotrigine, Topiramate, Levetiracetam",30-40
+Oxcarbazepine,Tremor,"Gabapentin, Pregabalin, Lamotrigine",20-35
+Oxcarbazepine,Abdominal Pain,"Zonisamide, Levetiracetam, Topiramate",25-40
+Oxcarbazepine,Hyponatremia,"Lamotrigine, Topiramate, Levetiracetam",30-40
+Pantoprazole,Headache,"Omeprazole, Esomeprazole, Lansoprazole",10-20
+Pantoprazole,Nausea,"Omeprazole, Esomeprazole, Lansoprazole",5-15
+Pantoprazole,Diarrhea,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Abdominal pain,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Fatigue,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Dizziness,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Rash,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Vitamin B12 deficiency,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Liver enzyme changes,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Pantoprazole,Osteoporosis risk,"Omeprazole, Esomeprazole, Lansoprazole",5-10
+Paracetamol,Liver Toxicity,"Ibuprofen, Naproxen, Aspirin",50-60
+Paracetamol,Nausea,"Aspirin, Ibuprofen, Naproxen",30-40
+Paracetamol,Rash,"Meloxicam, Celecoxib, Diclofenac",20-30
+Paracetamol,Headache,"Ibuprofen, Naproxen, Celecoxib",15-25
+Paracetamol,Allergic Reactions,"Aspirin, Ibuprofen, Meloxicam",25-35
+Paracetamol,Stomach Pain,"Naproxen, Ibuprofen, Diclofenac",30-40
+Paracetamol,Sweating,"Meloxicam, Celecoxib, Naproxen",20-30
+Paracetamol,Dizziness,"Ibuprofen, Naproxen, Meloxicam",25-35
+Paracetamol,Fatigue,"Aspirin, Celecoxib, Ibuprofen",20-30
+Paracetamol,Insomnia,"Naproxen, Meloxicam, Celecoxib",15-25
+Paroxetine,Nausea,"Sertraline, Escitalopram, Fluoxetine",25-35
+Paroxetine,Insomnia,"Escitalopram, Bupropion, Venlafaxine",20-30
+Paroxetine,Dry Mouth,"Sertraline, Fluoxetine, Venlafaxine",30-40
+Paroxetine,Drowsiness,"Escitalopram, Bupropion, Sertraline",15-25
+Paroxetine,Sexual Dysfunction,"Bupropion, Mirtazapine, Sertraline",25-35
+Paroxetine,Weight Gain,"Venlafaxine, Duloxetine, Bupropion",20-30
+Paroxetine,Sweating,"Sertraline, Fluoxetine, Venlafaxine",30-40
+Paroxetine,Constipation,"Escitalopram, Sertraline, Bupropion",15-25
+Paroxetine,Anxiety,"Venlafaxine, Bupropion, Duloxetine",25-35
+Paroxetine,Headache,"Escitalopram, Sertraline, Bupropion",20-30
+Peramivir,Diarrhea,"Oseltamivir, Zanamivir, Baloxavir",10-20
+Peramivir,Nausea,"Oseltamivir, Zanamivir, Baloxavir",5-15
+Peramivir,Vomiting,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Headache,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Dizziness,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Fatigue,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Skin rash,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Insomnia,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Allergic reactions,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Peramivir,Abdominal pain,"Oseltamivir, Zanamivir, Baloxavir",5-10
+Pheniramine,Drowsiness,"Diphenhydramine, Chlorpheniramine, Brompheniramine",10-20
+Pheniramine,Dry mouth,"Diphenhydramine, Chlorpheniramine, Dextromethorphan",5-15
+Pheniramine,Dizziness,"Diphenhydramine, Dextromethorphan, Dimenhydrinate",5-10
+Pheniramine,Blurred vision,"Diphenhydramine, Dextromethorphan, Chlorpheniramine",5-10
+Pheniramine,Nausea,"Diphenhydramine, Chlorpheniramine, Dextromethorphan",5-10
+Pheniramine,Fatigue,"Diphenhydramine, Chlorpheniramine, Brompheniramine",5-10
+Pheniramine,Nervousness,"Diphenhydramine, Dextromethorphan, Dimenhydrinate",5-10
+Pheniramine,Rapid heartbeat,"Diphenhydramine, Dextromethorphan, Chlorpheniramine",5-10
+Pheniramine,Headache,"Diphenhydramine, Dextromethorphan, Chlorpheniramine",5-10
+Pheniramine,Urinary retention,"Diphenhydramine, Chlorpheniramine, Dextromethorphan",5-10
+Phenytoin,Gingival Hyperplasia,"Levetiracetam, Lamotrigine, Topiramate",50-60
+Phenytoin,Dizziness,"Lamotrigine, Levetiracetam, Topiramate",30-40
+Phenytoin,Nausea,"Gabapentin, Lamotrigine, Levetiracetam",25-35
+Phenytoin,Rash,"Levetiracetam, Gabapentin, Topiramate",20-30
+Phenytoin,Fatigue,"Lamotrigine, Topiramate, Levetiracetam",15-25
+Phenytoin,Ataxia,"Levetiracetam, Gabapentin, Lamotrigine",35-45
+Phenytoin,Insomnia,"Gabapentin, Topiramate, Lamotrigine",20-30
+Phenytoin,Cognitive Impairment,"Levetiracetam, Lamotrigine, Gabapentin",25-35
+Phenytoin,Vision Problems,"Topiramate, Lamotrigine, Levetiracetam",30-40
+Phenytoin,Hair Growth,"Lamotrigine, Levetiracetam, Topiramate",20-30
+Pimecrolimus,Skin irritation,"Tacrolimus, Clobetasol, Desonide",10-20
+Pimecrolimus,Headache,"Tacrolimus, Clobetasol, Fluocinonide",5-15
+Pimecrolimus,Rash,"Tacrolimus, Clobetasol, Mometasone",5-10
+Pimecrolimus,Nausea,"Tacrolimus, Clobetasol, Desonide",5-10
+Pimecrolimus,Fatigue,"Tacrolimus, Clobetasol, Fluocinonide",5-10
+Pimecrolimus,Allergic reactions,"Tacrolimus, Clobetasol, Mometasone",5-10
+Pimecrolimus,Increased risk of infections,"Tacrolimus, Clobetasol, Desonide",5-10
+Pimecrolimus,Fever,"Tacrolimus, Clobetasol, Mometasone",5-10
+Pimecrolimus,Skin burning sensation,"Tacrolimus, Clobetasol, Fluocinonide",5-10
+Pimecrolimus,Cold symptoms,"Tacrolimus, Clobetasol, Desonide",5-10
+Pioglitazone,Weight gain,"Metformin, Sitagliptin, Dapagliflozin",10-20
+Pioglitazone,Edema,"Rosiglitazone, Glimepiride, Acarbose",5-15
+Pioglitazone,Headache,"Metformin, Sitagliptin, Dapagliflozin",5-10
+Pioglitazone,Fatigue,"Metformin, Rosiglitazone, Dapagliflozin",5-10
+Pioglitazone,Nausea,"Metformin, Sitagliptin, Dapagliflozin",5-10
+Pioglitazone,Dizziness,"Metformin, Sitagliptin, Dapagliflozin",5-10
+Pioglitazone,Liver enzyme changes,"Rosiglitazone, Sitagliptin, Dapagliflozin",5-10
+Pioglitazone,Hypoglycemia,"Metformin, Sitagliptin, Dapagliflozin",5-10
+Pioglitazone,Increased risk of heart failure,"Rosiglitazone, Metformin, Acarbose",5-10
+Pioglitazone,Bladder cancer risk,"Rosiglitazone, Metformin, Acarbose",5-10
+Polymyxin B,Nephrotoxicity,"Colistin, Tigecycline, Meropenem",40-50
+Polymyxin B,Neurotoxicity,"Amikacin, Tigecycline, Meropenem",30-40
+Polymyxin B,Rash,"Vancomycin, Colistin, Daptomycin",20-30
+Polymyxin B,Fever,"Meropenem, Tigecycline, Amikacin",25-35
+Polymyxin B,Paresthesia,"Colistin, Vancomycin, Daptomycin",30-40
+Polymyxin B,Nausea,"Tigecycline, Meropenem, Vancomycin",20-30
+Polymyxin B,Muscle Weakness,"Amikacin, Tigecycline, Daptomycin",25-35
+Polymyxin B,Dizziness,"Colistin, Amikacin, Tigecycline",20-30
+Polymyxin B,Headache,"Meropenem, Daptomycin, Vancomycin",25-35
+Polymyxin B,Fatigue,"Tigecycline, Amikacin, Meropenem",20-30
+Pramipexole,Dizziness,"Ropinirole, Rotigotine, Apomorphine",10-20
+Pramipexole,Nausea,"Ropinirole, Rotigotine, Apomorphine",5-15
+Pramipexole,Fatigue,"Ropinirole, Rotigotine, Apomorphine",5-10
+Pramipexole,Hallucinations,"Ropinirole, Rotigotine, Quetiapine",5-10
+Pramipexole,Insomnia,"Ropinirole, Rotigotine, Quetiapine",5-10
+Pramipexole,Orthostatic hypotension,"Ropinirole, Rotigotine, Apomorphine",5-10
+Pramipexole,Sleep attacks,"Ropinirole, Rotigotine, Apomorphine",5-10
+Pramipexole,Gastrointestinal issues,"Ropinirole, Rotigotine, Quetiapine",5-10
+Pramipexole,Restless legs,"Ropinirole, Rotigotine, Apomorphine",5-10
+Pramipexole,Compulsive behaviors,"Ropinirole, Rotigotine, Quetiapine",5-10
+Pravastatin,Muscle pain,"Atorvastatin, Simvastatin, Lovastatin",10-20
+Pravastatin,Headache,"Rosuvastatin, Fluvastatin, Pitavastatin",5-15
+Pravastatin,Nausea,"Simvastatin, Lovastatin, Atorvastatin",5-10
+Pravastatin,Diarrhea,"Fluvastatin, Rosuvastatin, Pitavastatin",5-10
+Pravastatin,Fatigue,"Simvastatin, Lovastatin, Atorvastatin",5-10
+Pravastatin,Liver enzyme changes,"Rosuvastatin, Fluvastatin, Pitavastatin",5-10
+Pravastatin,Rash,"Simvastatin, Lovastatin, Atorvastatin",5-10
+Pravastatin,Abdominal pain,"Fluvastatin, Rosuvastatin, Pitavastatin",5-10
+Pravastatin,Memory loss,"Simvastatin, Lovastatin, Atorvastatin",5-10
+Pravastatin,Increased blood sugar,"Fluvastatin, Rosuvastatin, Pitavastatin",5-10
+Prednisolone,Weight Gain,"Methylprednisolone, Hydrocortisone, Budesonide",20-40
+Prednisolone,Osteoporosis,"Dexamethasone, Fluticasone, Budesonide",25-35
+Prednisolone,Hyperglycemia,"Hydrocortisone, Methylprednisolone, Budesonide",30-40
+Prednisolone,Hypertension,"Fluticasone, Budesonide, Hydrocortisone",20-30
+Prednisolone,Insomnia,"Dexamethasone, Budesonide, Fluticasone",20-30
+Prednisolone,Mood Changes,"Methylprednisolone, Dexamethasone, Budesonide",25-40
+Prednisolone,Increased Appetite,"Fluticasone, Budesonide, Hydrocortisone",30-40
+Prednisolone,Acne,"Dexamethasone, Budesonide, Fluticasone",20-35
+Prednisolone,Fluid Retention,"Methylprednisolone, Budesonide, Fluticasone",25-40
+Prednisolone,Cataracts,"Hydrocortisone, Budesonide, Dexamethasone",30-40
+Prochlorperazine,Drowsiness,"Metoclopramide, Domperidone, Ondansetron",25-35
+Prochlorperazine,Dizziness,"Promethazine, Ondansetron, Domperidone",20-30
+Prochlorperazine,Dry Mouth,"Metoclopramide, Promethazine, Ondansetron",30-40
+Prochlorperazine,Constipation,"Domperidone, Ondansetron, Promethazine",15-25
+Prochlorperazine,Blurred Vision,"Promethazine, Domperidone, Metoclopramide",25-35
+Prochlorperazine,Urinary Retention,"Ondansetron, Domperidone, Metoclopramide",20-30
+Prochlorperazine,Weight Gain,"Domperidone, Ondansetron, Metoclopramide",30-40
+Prochlorperazine,Hypotension,"Ondansetron, Promethazine, Domperidone",15-25
+Prochlorperazine,Tremor,"Metoclopramide, Ondansetron, Promethazine",25-35
+Prochlorperazine,Restlessness,"Domperidone, Ondansetron, Promethazine",20-30
+Promethazine,Drowsiness,"Diphenhydramine, Meclizine, Cetirizine",25-35
+Promethazine,Dry Mouth,"Cetirizine, Fexofenadine, Meclizine",20-30
+Promethazine,Blurred Vision,"Meclizine, Cetirizine, Loratadine",30-40
+Promethazine,Constipation,"Loratadine, Cetirizine, Fexofenadine",15-25
+Promethazine,Dizziness,"Cetirizine, Fexofenadine, Loratadine",25-35
+Promethazine,Rash,"Loratadine, Cetirizine, Fexofenadine",20-30
+Promethazine,Photosensitivity,"Cetirizine, Meclizine, Fexofenadine",30-40
+Promethazine,Urinary Retention,"Loratadine, Cetirizine, Meclizine",15-25
+Promethazine,Anxiety,"Fexofenadine, Meclizine, Cetirizine",25-35
+Promethazine,Fatigue,"Loratadine, Cetirizine, Meclizine",20-30
+Propranolol,Fatigue,"Atenolol, Metoprolol, Bisoprolol",30-40
+Propranolol,Dizziness,"Atenolol, Carvedilol, Bisoprolol",25-35
+Propranolol,Cold Extremities,"Metoprolol, Bisoprolol, Carvedilol",20-30
+Propranolol,Bradycardia,"Atenolol, Bisoprolol, Metoprolol",30-40
+Propranolol,Depression,"Bisoprolol, Metoprolol, Carvedilol",15-25
+Propranolol,Insomnia,"Atenolol, Bisoprolol, Carvedilol",25-35
+Propranolol,Nausea,"Metoprolol, Atenolol, Bisoprolol",20-30
+Propranolol,Diarrhea,"Carvedilol, Atenolol, Bisoprolol",30-40
+Propranolol,Impotence,"Bisoprolol, Metoprolol, Carvedilol",15-25
+Propranolol,Vision Problems,"Atenolol, Bisoprolol, Carvedilol",25-35
+Pseudoephedrine,Insomnia,"Phenylephrine, Oxymetazoline, Diphenhydramine",10-20
+Pseudoephedrine,Dizziness,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-15
+Pseudoephedrine,Nervousness,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Increased heart rate,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Dry mouth,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Headache,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Nausea,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Abdominal discomfort,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Increased blood pressure,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Pseudoephedrine,Allergic reactions,"Phenylephrine, Oxymetazoline, Diphenhydramine",5-10
+Quetiapine,Drowsiness,"Olanzapine, Risperidone, Aripiprazole",10-20
+Quetiapine,Dizziness,"Olanzapine, Risperidone, Aripiprazole",5-15
+Quetiapine,Weight gain,"Olanzapine, Risperidone, Clozapine",5-10
+Quetiapine,Dry mouth,"Olanzapine, Risperidone, Aripiprazole",5-10
+Quetiapine,Constipation,"Olanzapine, Risperidone, Clozapine",5-10
+Quetiapine,Fatigue,"Olanzapine, Risperidone, Aripiprazole",5-10
+Quetiapine,Increased heart rate,"Olanzapine, Risperidone, Clozapine",5-10
+Quetiapine,Rash,"Olanzapine, Risperidone, Aripiprazole",5-10
+Quetiapine,Akathisia,"Olanzapine, Risperidone, Aripiprazole",5-10
+Quetiapine,Extrapyramidal symptoms,"Olanzapine, Risperidone, Clozapine",5-10
+Quinine,Nausea,"Doxycycline, Atovaquone-Proguanil, Clindamycin",20-40
+Quinine,Vomiting,"Mefloquine, Doxycycline, Atovaquone-Proguanil",25-35
+Quinine,Tinnitus,"Mefloquine, Atovaquone-Proguanil, Artemether-Lumefantrine",30-40
+Quinine,Dizziness,"Doxycycline, Artemether-Lumefantrine, Clindamycin",20-30
+Quinine,Headache,"Atovaquone-Proguanil, Doxycycline, Mefloquine",20-30
+Quinine,Diarrhea,"Artemether-Lumefantrine, Atovaquone-Proguanil, Doxycycline",25-40
+Quinine,Rash,"Mefloquine, Artemether-Lumefantrine, Doxycycline",30-40
+Quinine,Visual Disturbances,"Atovaquone-Proguanil, Artemether-Lumefantrine, Mefloquine",20-35
+Quinine,Hypoglycemia,"Doxycycline, Artemether-Lumefantrine, Clindamycin",25-40
+Quinine,Abdominal Pain,"Atovaquone-Proguanil, Artemether-Lumefantrine, Mefloquine",30-40
+Quinupristin,Nausea,"Linezolid, Daptomycin, Vancomycin",20-40
+Quinupristin,Diarrhea,"Tigecycline, Linezolid, Daptomycin",25-35
+Quinupristin,Injection Site Pain,"Vancomycin, Daptomycin, Linezolid",30-40
+Quinupristin,Rash,"Linezolid, Tigecycline, Daptomycin",20-30
+Quinupristin,Headache,"Vancomycin, Linezolid, Tigecycline",20-30
+Quinupristin,Arthralgia,"Daptomycin, Linezolid, Tigecycline",25-40
+Quinupristin,Myalgia,"Vancomycin, Daptomycin, Linezolid",30-40
+Quinupristin,Insomnia,"Tigecycline, Linezolid, Daptomycin",20-35
+Quinupristin,Fever,"Vancomycin, Daptomycin, Tigecycline",25-40
+Quinupristin,Vomiting,"Linezolid, Tigecycline, Daptomycin",30-40
+Ramelteon,Drowsiness,"Melatonin, Zaleplon, Doxepin",10-20
+Ramelteon,Fatigue,"Melatonin, Zaleplon, Doxepin",5-15
+Ramelteon,Dizziness,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Nausea,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Headache,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Insomnia,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Hormonal changes,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Allergic reactions,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Vivid dreams,"Melatonin, Zaleplon, Doxepin",5-10
+Ramelteon,Chest pain,"Melatonin, Zaleplon, Doxepin",5-10
+Ranitidine,Headache,"Famotidine, Cimetidine, Esomeprazole",10-20
+Ranitidine,Nausea,"Famotidine, Cimetidine, Lansoprazole",5-15
+Ranitidine,Diarrhea,"Famotidine, Cimetidine, Omeprazole",5-10
+Ranitidine,Constipation,"Famotidine, Cimetidine, Lansoprazole",5-10
+Ranitidine,Fatigue,"Famotidine, Cimetidine, Omeprazole",5-10
+Ranitidine,Dizziness,"Famotidine, Cimetidine, Esomeprazole",5-10
+Ranitidine,Rash,"Famotidine, Cimetidine, Lansoprazole",5-10
+Ranitidine,Liver enzyme changes,"Famotidine, Cimetidine, Omeprazole",5-10
+Ranitidine,Allergic reactions,"Famotidine, Cimetidine, Esomeprazole",5-10
+Ranitidine,Abdominal pain,"Famotidine, Cimetidine, Lansoprazole",5-10
+Rifampicin,Nausea,"Isoniazid, Ethambutol, Pyrazinamide",20-40
+Rifampicin,Vomiting,"Ethambutol, Isoniazid, Pyrazinamide",25-35
+Rifampicin,Liver Dysfunction,"Isoniazid, Ethambutol, Streptomycin",30-40
+Rifampicin,Rash,"Ethambutol, Streptomycin, Isoniazid",20-30
+Rifampicin,Fever,"Isoniazid, Ethambutol, Pyrazinamide",20-30
+Rifampicin,Orange-Red Urine,"Isoniazid, Streptomycin, Ethambutol",25-40
+Rifampicin,Abdominal Pain,"Ethambutol, Isoniazid, Pyrazinamide",30-40
+Rifampicin,Fatigue,"Pyrazinamide, Streptomycin, Ethambutol",20-35
+Rifampicin,Diarrhea,"Isoniazid, Ethambutol, Pyrazinamide",25-40
+Rifampicin,Itching,"Ethambutol, Streptomycin, Isoniazid",30-40
+Rifampin,Hepatotoxicity,"Isoniazid, Ethambutol, Pyrazinamide",40-50
+Rifampin,Nausea,"Ethambutol, Isoniazid, Pyrazinamide",25-35
+Rifampin,Vomiting,"Pyrazinamide, Ethambutol, Isoniazid",20-30
+Rifampin,Red-Orange Urine,"Isoniazid, Ethambutol, Pyrazinamide",30-40
+Rifampin,Rash,"Ethambutol, Isoniazid, Pyrazinamide",15-25
+Rifampin,Fever,"Pyrazinamide, Isoniazid, Ethambutol",25-35
+Rifampin,Flu-like Symptoms,"Ethambutol, Isoniazid, Pyrazinamide",20-30
+Rifampin,Diarrhea,"Isoniazid, Ethambutol, Pyrazinamide",30-40
+Rifampin,Abdominal Pain,"Ethambutol, Pyrazinamide, Isoniazid",15-25
+Rifampin,Joint Pain,"Isoniazid, Pyrazinamide, Ethambutol",25-35
+Risedronate,Abdominal pain,"Alendronate, Ibandronate, Calcitonin",10-20
+Risedronate,Nausea,"Ibandronate, Zoledronic acid, Raloxifene",5-15
+Risedronate,Diarrhea,"Alendronate, Zoledronic acid, Etidronate",5-10
+Risedronate,Heartburn,"Ibandronate, Alendronate, Esomeprazole",5-10
+Risedronate,Headache,"Ibandronate, Raloxifene, Denosumab",5-10
+Risedronate,Dizziness,"Zoledronic acid, Raloxifene, Denosumab",5-10
+Risedronate,Musculoskeletal pain,"Alendronate, Ibandronate, Teriparatide",5-10
+Risedronate,Rash,"Ibandronate, Teriparatide, Calcitonin",5-10
+Risedronate,Fever,"Ibandronate, Denosumab, Teriparatide",5-10
+Risedronate,Osteonecrosis of the jaw,"Alendronate, Zoledronic acid, Teriparatide",1-5
+Rituximab,Infusion Reactions,"Ocrelizumab, Ofatumumab, Obinutuzumab",20-40
+Rituximab,Fever,"Ofatumumab, Obinutuzumab, Belimumab",25-35
+Rituximab,Chills,"Ocrelizumab, Obinutuzumab, Belimumab",30-40
+Rituximab,Infections,"Belimumab, Ofatumumab, Ocrelizumab",20-30
+Rituximab,Nausea,"Obinutuzumab, Belimumab, Ocrelizumab",20-30
+Rituximab,Weakness,"Ocrelizumab, Ofatumumab, Obinutuzumab",25-40
+Rituximab,Low Blood Pressure,"Ofatumumab, Ocrelizumab, Belimumab",30-40
+Rituximab,Dizziness,"Obinutuzumab, Belimumab, Ofatumumab",20-35
+Rituximab,Anemia,"Belimumab, Ocrelizumab, Ofatumumab",25-40
+Rituximab,Rash,"Ofatumumab, Belimumab, Obinutuzumab",30-40
+Rivaroxaban,Bleeding,"Apixaban, Dabigatran, Edoxaban",30-40
+Rivaroxaban,Bruising,"Apixaban, Edoxaban, Dabigatran",25-35
+Rivaroxaban,Nausea,"Dabigatran, Apixaban, Edoxaban",20-30
+Rivaroxaban,Anemia,"Edoxaban, Apixaban, Dabigatran",30-40
+Rivaroxaban,Dizziness,"Apixaban, Dabigatran, Edoxaban",15-25
+Rivaroxaban,Rash,"Dabigatran, Apixaban, Edoxaban",25-35
+Rivaroxaban,Headache,"Apixaban, Edoxaban, Dabigatran",20-30
+Rivaroxaban,Fatigue,"Edoxaban, Dabigatran, Apixaban",30-40
+Rivaroxaban,Abdominal Pain,"Apixaban, Edoxaban, Dabigatran",15-25
+Rivaroxaban,Constipation,"Dabigatran, Apixaban, Edoxaban",25-35
+Rizatriptan,Dizziness,"Sumatriptan, Naratriptan, Eletriptan",10-20
+Rizatriptan,Fatigue,"Almotriptan, Sumatriptan, Frovatriptan",5-15
+Rizatriptan,Nausea,"Sumatriptan, Naratriptan, Eletriptan",5-10
+Rizatriptan,Dry mouth,"Almotriptan, Frovatriptan, Naratriptan",5-10
+Rizatriptan,Headache,"Eletriptan, Almotriptan, Frovatriptan",5-10
+Rizatriptan,Chest pain,"Sumatriptan, Almotriptan, Naratriptan",5-10
+Rizatriptan,Increased blood pressure,"Almotriptan, Sumatriptan, Eletriptan",5-10
+Rizatriptan,Palpitations,"Sumatriptan, Almotriptan, Naratriptan",5-10
+Rizatriptan,Sleepiness,"Naratriptan, Frovatriptan, Almotriptan",5-10
+Rizatriptan,Allergic reactions,"Sumatriptan, Eletriptan, Almotriptan",5-10
+Roflumilast,Diarrhea,"Montelukast, Zafirlukast, Theophylline",10-20
+Roflumilast,Nausea,"Montelukast, Zafirlukast, Theophylline",5-15
+Roflumilast,Headache,"Montelukast, Zafirlukast, Salmeterol",5-10
+Roflumilast,Insomnia,"Montelukast, Zafirlukast, Theophylline",5-10
+Roflumilast,Fatigue,"Montelukast, Zafirlukast, Theophylline",5-10
+Roflumilast,Weight loss,"Montelukast, Zafirlukast, Theophylline",5-10
+Roflumilast,Anxiety,"Montelukast, Zafirlukast, Salmeterol",5-10
+Roflumilast,Liver enzyme changes,"Montelukast, Zafirlukast, Theophylline",5-10
+Roflumilast,Respiratory tract infections,"Montelukast, Zafirlukast, Salmeterol",5-10
+Roflumilast,Allergic reactions,"Montelukast, Zafirlukast, Theophylline",5-10
+Ropinirole,Nausea,"Pramipexole, Cabergoline, Bromocriptine",10-20
+Ropinirole,Dizziness,"Pramipexole, Cabergoline, Apomorphine",5-15
+Ropinirole,Fatigue,"Pramipexole, Cabergoline, Bromocriptine",5-10
+Ropinirole,Orthostatic hypotension,"Pramipexole, Cabergoline, Apomorphine",5-10
+Ropinirole,Hallucinations,"Pramipexole, Cabergoline, Bromocriptine",5-10
+Ropinirole,Sleepiness,"Pramipexole, Cabergoline, Apomorphine",5-10
+Ropinirole,Restlessness,"Pramipexole, Cabergoline, Bromocriptine",5-10
+Ropinirole,Increased sweating,"Pramipexole, Cabergoline, Apomorphine",5-10
+Ropinirole,Vomiting,"Pramipexole, Cabergoline, Bromocriptine",5-10
+Ropinirole,Dyskinesia,"Pramipexole, Cabergoline, Apomorphine",5-10
+Rosuvastatin,Muscle pain,"Atorvastatin, Simvastatin, Pravastatin",10-20
+Rosuvastatin,Nausea,"Simvastatin, Lovastatin, Fluvastatin",5-15
+Rosuvastatin,Headache,"Atorvastatin, Lovastatin, Fenofibrate",5-10
+Rosuvastatin,Abdominal pain,"Pravastatin, Atorvastatin, Simvastatin",5-10
+Rosuvastatin,Fatigue,"Fluvastatin, Pitavastatin, Atorvastatin",5-10
+Rosuvastatin,Dizziness,"Pitavastatin, Lovastatin, Fenofibrate",5-10
+Rosuvastatin,Liver enzyme changes,"Atorvastatin, Simvastatin, Fluvastatin",5-10
+Rosuvastatin,Rash,"Simvastatin, Lovastatin, Fluvastatin",5-10
+Rosuvastatin,Allergic reactions,"Atorvastatin, Simvastatin, Lovastatin",5-10
+Rosuvastatin,Increased blood sugar,"Pitavastatin, Atorvastatin, Simvastatin",5-10
+Saxagliptin,Nausea,"Linagliptin, Sitagliptin, Alogliptin",15-25
+Saxagliptin,Headache,"Linagliptin, Sitagliptin, Alogliptin",20-30
+Saxagliptin,Upper respiratory infection,"Linagliptin, Sitagliptin, Alogliptin",10-20
+Saxagliptin,Urinary tract infection,"Linagliptin, Sitagliptin, Alogliptin",15-25
+Saxagliptin,Pancreatitis,"Linagliptin, Sitagliptin, Alogliptin",10-20
+Saxagliptin,Joint pain,"Linagliptin, Sitagliptin, Alogliptin",20-30
+Saxagliptin,Diarrhea,"Linagliptin, Sitagliptin, Alogliptin",15-25
+Saxagliptin,Hypoglycemia,"Linagliptin, Sitagliptin, Alogliptin",10-20
+Saxagliptin,Swelling (Edema),"Linagliptin, Sitagliptin, Alogliptin",15-25
+Saxagliptin,Weight gain,"Linagliptin, Sitagliptin, Alogliptin",10-20
+Secukinumab,Nasopharyngitis,"Ustekinumab, Guselkumab, Brodalumab",15-25
+Secukinumab,Diarrhea,"Ustekinumab, Guselkumab, Brodalumab",20-30
+Secukinumab,Upper respiratory infection,"Ustekinumab, Guselkumab, Brodalumab",10-20
+Secukinumab,Headache,"Ustekinumab, Guselkumab, Brodalumab",15-25
+Secukinumab,Nausea,"Ustekinumab, Guselkumab, Brodalumab",20-30
+Secukinumab,Fatigue,"Ustekinumab, Guselkumab, Brodalumab",10-20
+Secukinumab,Cough,"Ustekinumab, Guselkumab, Brodalumab",15-25
+Secukinumab,Injection site reactions,"Ustekinumab, Guselkumab, Brodalumab",20-30
+Secukinumab,Fungal infections,"Ustekinumab, Guselkumab, Brodalumab",10-20
+Secukinumab,Weight gain,"Ustekinumab, Guselkumab, Brodalumab",10-20
+Selegiline,Nausea,"Rasagiline, Phenelzine, Tranylcypromine",10-20
+Selegiline,Dizziness,"Rasagiline, Phenelzine, Mirtazapine",5-15
+Selegiline,Insomnia,"Rasagiline, Tranylcypromine, Fluoxetine",5-10
+Selegiline,Headache,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Fatigue,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Hypertension,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Allergic reactions,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Dry mouth,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Confusion,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Selegiline,Serotonin syndrome,"Rasagiline, Phenelzine, Tranylcypromine",5-10
+Sertraline,Nausea,"Escitalopram, Citalopram, Fluoxetine",20-30
+Sertraline,Insomnia,"Fluoxetine, Paroxetine, Escitalopram",25-35
+Sertraline,Dizziness,"Citalopram, Paroxetine, Fluoxetine",30-40
+Sertraline,Dry Mouth,"Escitalopram, Citalopram, Paroxetine",15-25
+Sertraline,Diarrhea,"Fluoxetine, Paroxetine, Citalopram",20-30
+Sertraline,Fatigue,"Citalopram, Escitalopram, Fluoxetine",30-40
+Sertraline,Increased Sweating,"Escitalopram, Paroxetine, Citalopram",25-35
+Sertraline,Anxiety,"Fluoxetine, Paroxetine, Escitalopram",20-30
+Sertraline,Sexual Dysfunction,"Bupropion, Mirtazapine, Nefazodone",40-50
+Sertraline,Weight Gain,"Bupropion, Fluoxetine, Escitalopram",15-25
+Sevelamer,Nausea,"Lanthanum carbonate, Calcium acetate, Aluminum hydroxide",20-30
+Sevelamer,Vomiting,"Lanthanum carbonate, Magnesium carbonate, Calcium acetate",25-35
+Sevelamer,Diarrhea,"Sucroferric oxyhydroxide, Lanthanum carbonate, Calcium acetate",15-25
+Sevelamer,Abdominal pain,"Calcium acetate, Sucroferric oxyhydroxide, Lanthanum carbonate",15-25
+Sevelamer,Constipation,"Aluminum hydroxide, Lanthanum carbonate, Magnesium carbonate",20-30
+Sevelamer,Flatulence,"Sucroferric oxyhydroxide, Lanthanum carbonate, Aluminum hydroxide",15-25
+Sevelamer,Indigestion,"Lanthanum carbonate, Aluminum hydroxide, Magnesium carbonate",20-30
+Sevelamer,Hypotension,"Calcium acetate, Lanthanum carbonate, Aluminum hydroxide",15-25
+Sevelamer,Muscle pain,"Lanthanum carbonate, Aluminum hydroxide, Magnesium carbonate",20-30
+Sevelamer,Fatigue,"Lanthanum carbonate, Aluminum hydroxide, Magnesium carbonate",20-30
+Sildenafil,Headache,"Tadalafil, Vardenafil, Avanafil",20-30
+Sildenafil,Flushing,"Tadalafil, Vardenafil, Avanafil",15-25
+Sildenafil,Nasal congestion,"Tadalafil, Vardenafil, Avanafil",15-25
+Sildenafil,Dyspepsia,"Tadalafil, Vardenafil, Avanafil",20-30
+Sildenafil,Dizziness,"Tadalafil, Vardenafil, Avanafil",15-25
+Sildenafil,Back pain,"Tadalafil, Vardenafil, Avanafil",20-30
+Sildenafil,Muscle aches,"Tadalafil, Vardenafil, Avanafil",20-30
+Sildenafil,Vision disturbances,"Tadalafil, Vardenafil, Avanafil",15-25
+Sildenafil,Rash,"Tadalafil, Vardenafil, Avanafil",10-20
+Sildenafil,Palpitations,"Tadalafil, Vardenafil, Avanafil",15-25
+Simvastatin,Muscle pain,"Pravastatin, Rosuvastatin, Atorvastatin",25-35
+Simvastatin,Headache,"Atorvastatin, Ezetimibe, Rosuvastatin",15-25
+Simvastatin,Nausea,"Ezetimibe, Rosuvastatin, Pravastatin",20-30
+Simvastatin,Diarrhea,"Pravastatin, Ezetimibe, Atorvastatin",20-30
+Simvastatin,Constipation,"Ezetimibe, Rosuvastatin, Pravastatin",25-35
+Simvastatin,Abdominal pain,"Rosuvastatin, Ezetimibe, Atorvastatin",15-25
+Simvastatin,Dizziness,"Pravastatin, Ezetimibe, Rosuvastatin",20-30
+Simvastatin,Fatigue,"Rosuvastatin, Atorvastatin, Ezetimibe",20-30
+Simvastatin,Rash,"Ezetimibe, Rosuvastatin, Atorvastatin",10-20
+Simvastatin,Insomnia,"Rosuvastatin, Pravastatin, Ezetimibe",20-30
+Sitagliptin,Nausea,"Metformin, Linagliptin, Pioglitazone",20-30
+Sitagliptin,Diarrhea,"Linagliptin, Saxagliptin, Pioglitazone",20-30
+Sitagliptin,Hypoglycemia,"Linagliptin, Saxagliptin, Metformin",25-35
+Sitagliptin,Headache,"Metformin, Linagliptin, Pioglitazone",15-25
+Sitagliptin,Upper respiratory tract infection,"Linagliptin, Saxagliptin, Pioglitazone",10-20
+Sitagliptin,Joint pain,"Linagliptin, Pioglitazone, Saxagliptin",20-30
+Sitagliptin,Fatigue,"Metformin, Linagliptin, Pioglitazone",15-25
+Sitagliptin,Dizziness,"Linagliptin, Metformin, Saxagliptin",20-30
+Sitagliptin,Weight gain,"Metformin, Linagliptin, Saxagliptin",25-35
+Sitagliptin,Constipation,"Linagliptin, Pioglitazone, Saxagliptin",20-30
+Sotalol,Fatigue,"Atenolol, Metoprolol, Carvedilol",15-25
+Sotalol,Dizziness,"Atenolol, Metoprolol, Carvedilol",20-30
+Sotalol,Bradycardia,"Atenolol, Metoprolol, Carvedilol",20-30
+Sotalol,Shortness of breath,"Atenolol, Metoprolol, Carvedilol",15-25
+Sotalol,Chest pain,"Atenolol, Metoprolol, Carvedilol",10-20
+Sotalol,Lightheadedness,"Atenolol, Metoprolol, Carvedilol",15-25
+Sotalol,Nausea,"Atenolol, Metoprolol, Carvedilol",15-25
+Sotalol,Vomiting,"Atenolol, Metoprolol, Carvedilol",20-30
+Sotalol,Insomnia,"Atenolol, Metoprolol, Carvedilol",15-25
+Sotalol,Cold extremities,"Atenolol, Metoprolol, Carvedilol",15-25
+Spironolactone,Hyperkalemia,"Eplerenone, Amiloride, Triamterene",30-40
+Spironolactone,Gynecomastia,"Eplerenone, Amiloride, Triamterene",20-30
+Spironolactone,Dizziness,"Furosemide, Hydrochlorothiazide, Torsemide",25-35
+Spironolactone,Nausea,"Eplerenone, Furosemide, Amiloride",20-30
+Spironolactone,Headache,"Triamterene, Hydrochlorothiazide, Eplerenone",30-40
+Spironolactone,Rash,"Amiloride, Eplerenone, Furosemide",15-25
+Spironolactone,Breast Tenderness,"Eplerenone, Hydrochlorothiazide, Triamterene",25-35
+Spironolactone,Abdominal Pain,"Amiloride, Eplerenone, Furosemide",20-30
+Spironolactone,Fatigue,"Eplerenone, Triamterene, Hydrochlorothiazide",30-40
+Spironolactone,Menstrual Irregularities,"Eplerenone, Amiloride, Triamterene",25-35
+Sucralfate,Constipation,"Misoprostol, H2 blockers, PPIs",15-25
+Sucralfate,Dry mouth,"Misoprostol, H2 blockers, PPIs",10-20
+Sucralfate,Indigestion,"Misoprostol, H2 blockers, PPIs",20-30
+Sucralfate,Nausea,"Misoprostol, H2 blockers, PPIs",15-25
+Sucralfate,Rash,"Misoprostol, H2 blockers, PPIs",10-20
+Sucralfate,Dizziness,"Misoprostol, H2 blockers, PPIs",15-25
+Sucralfate,Back pain,"Misoprostol, H2 blockers, PPIs",20-30
+Sucralfate,Vomiting,"Misoprostol, H2 blockers, PPIs",15-25
+Sucralfate,Itching,"Misoprostol, H2 blockers, PPIs",10-20
+Sucralfate,Sleep disturbances,"Misoprostol, H2 blockers, PPIs",15-25
+Sulfamethoxazole,Rash,"Doxycycline, Amoxicillin, Azithromycin",20-30
+Sulfamethoxazole,Nausea,"Ciprofloxacin, Doxycycline, Amoxicillin",25-35
+Sulfamethoxazole,Vomiting,"Amoxicillin, Doxycycline, Azithromycin",30-40
+Sulfamethoxazole,Diarrhea,"Ciprofloxacin, Azithromycin, Amoxicillin",15-25
+Sulfamethoxazole,Photosensitivity,"Doxycycline, Amoxicillin, Ciprofloxacin",20-30
+Sulfamethoxazole,Headache,"Amoxicillin, Doxycycline, Azithromycin",30-40
+Sulfamethoxazole,Itching,"Azithromycin, Ciprofloxacin, Doxycycline",25-35
+Sulfamethoxazole,Dizziness,"Doxycycline, Ciprofloxacin, Amoxicillin",20-30
+Sulfamethoxazole,Fever,"Azithromycin, Doxycycline, Ciprofloxacin",30-40
+Sulfamethoxazole,Fatigue,"Amoxicillin, Azithromycin, Doxycycline",25-35
+Sulfasalazine,Nausea,"Mesalamine, Balsalazide, Olsalazine",15-25
+Sulfasalazine,Headache,"Mesalamine, Balsalazide, Olsalazine",20-30
+Sulfasalazine,Rash,"Mesalamine, Balsalazide, Olsalazine",15-25
+Sulfasalazine,Anemia,"Mesalamine, Balsalazide, Olsalazine",20-30
+Sulfasalazine,Diarrhea,"Mesalamine, Balsalazide, Olsalazine",20-30
+Sulfasalazine,Abdominal pain,"Mesalamine, Balsalazide, Olsalazine",15-25
+Sulfasalazine,Loss of appetite,"Mesalamine, Balsalazide, Olsalazine",10-20
+Sulfasalazine,Dizziness,"Mesalamine, Balsalazide, Olsalazine",15-25
+Sulfasalazine,Liver function test abnormalities,"Mesalamine, Balsalazide, Olsalazine",10-20
+Sulfasalazine,Oligospermia,"Mesalamine, Balsalazide, Olsalazine",15-25
+Sulindac,Indigestion,"Ibuprofen, Naproxen, Etodolac",15-25
+Sulindac,Nausea,"Ibuprofen, Naproxen, Etodolac",20-30
+Sulindac,Abdominal pain,"Ibuprofen, Naproxen, Etodolac",15-25
+Sulindac,Diarrhea,"Ibuprofen, Naproxen, Etodolac",20-30
+Sulindac,Dizziness,"Ibuprofen, Naproxen, Etodolac",15-25
+Sulindac,Rash,"Ibuprofen, Naproxen, Etodolac",15-25
+Sulindac,Headache,"Ibuprofen, Naproxen, Etodolac",20-30
+Sulindac,Tinnitus,"Ibuprofen, Naproxen, Etodolac",10-20
+Sulindac,Liver enzyme abnormalities,"Ibuprofen, Naproxen, Etodolac",10-20
+Sulindac,Edema,"Ibuprofen, Naproxen, Etodolac",15-25
+Sumatriptan,Dizziness,"Rizatriptan, Zolmitriptan, Naratriptan",20-30
+Sumatriptan,Fatigue,"Naratriptan, Rizatriptan, Zolmitriptan",15-25
+Sumatriptan,Nausea,"Zolmitriptan, Naratriptan, Rizatriptan",20-30
+Sumatriptan,Flushing,"Naratriptan, Zolmitriptan, Rizatriptan",15-25
+Sumatriptan,Chest discomfort,"Zolmitriptan, Naratriptan, Rizatriptan",25-35
+Sumatriptan,Throat irritation,"Rizatriptan, Zolmitriptan, Naratriptan",20-30
+Sumatriptan,Muscle cramps,"Naratriptan, Zolmitriptan, Rizatriptan",15-25
+Sumatriptan,Tingling sensation,"Naratriptan, Rizatriptan, Zolmitriptan",20-30
+Sumatriptan,Sweating,"Rizatriptan, Zolmitriptan, Naratriptan",20-30
+Sumatriptan,Weakness,"Zolmitriptan, Rizatriptan, Naratriptan",15-25
+Sunitinib,Fatigue,"Sorafenib, Pazopanib, Axitinib",15-25
+Sunitinib,Diarrhea,"Sorafenib, Pazopanib, Axitinib",20-30
+Sunitinib,Hand-foot syndrome,"Sorafenib, Pazopanib, Axitinib",10-20
+Sunitinib,Hypertension,"Sorafenib, Pazopanib, Axitinib",15-25
+Sunitinib,Nausea,"Sorafenib, Pazopanib, Axitinib",15-25
+Sunitinib,Stomatitis,"Sorafenib, Pazopanib, Axitinib",15-25
+Sunitinib,Rash,"Sorafenib, Pazopanib, Axitinib",10-20
+Sunitinib,Bleeding complications,"Sorafenib, Pazopanib, Axitinib",10-20
+Sunitinib,Neutropenia,"Sorafenib, Pazopanib, Axitinib",20-30
+Sunitinib,Hepatotoxicity,"Sorafenib, Pazopanib, Axitinib",10-20
+Tacrolimus,Tremor,"Cyclosporine, Mycophenolate mofetil, Azathioprine",25-35
+Tacrolimus,Hypertension,"Cyclosporine, Mycophenolate mofetil, Azathioprine",20-30
+Tacrolimus,Hyperglycemia,"Mycophenolate mofetil, Azathioprine, Everolimus",20-30
+Tacrolimus,Kidney dysfunction,"Mycophenolate mofetil, Azathioprine, Sirolimus",30-40
+Tacrolimus,Headache,"Mycophenolate mofetil, Azathioprine, Cyclosporine",15-25
+Tacrolimus,Diarrhea,"Mycophenolate mofetil, Azathioprine, Sirolimus",25-35
+Tacrolimus,Nausea,"Mycophenolate mofetil, Azathioprine, Everolimus",20-30
+Tacrolimus,Insomnia,"Cyclosporine, Mycophenolate mofetil, Azathioprine",20-30
+Tacrolimus,Fatigue,"Mycophenolate mofetil, Azathioprine, Sirolimus",20-30
+Tacrolimus,Dizziness,"Azathioprine, Mycophenolate mofetil, Sirolimus",20-30
+Tamoxifen,Hot Flashes,"Raloxifene, Letrozole, Exemestane",30-40
+Tamoxifen,Nausea,"Anastrozole, Letrozole, Exemestane",25-35
+Tamoxifen,Vaginal Dryness,"Exemestane, Anastrozole, Raloxifene",20-30
+Tamoxifen,Fatigue,"Letrozole, Anastrozole, Exemestane",30-40
+Tamoxifen,Mood Swings,"Raloxifene, Letrozole, Anastrozole",15-25
+Tamoxifen,Weight Gain,"Exemestane, Raloxifene, Anastrozole",25-35
+Tamoxifen,Bone Pain,"Anastrozole, Exemestane, Letrozole",20-30
+Tamoxifen,Headache,"Letrozole, Exemestane, Raloxifene",30-40
+Tamoxifen,Dizziness,"Raloxifene, Anastrozole, Letrozole",15-25
+Tamoxifen,Hair Thinning,"Exemestane, Letrozole, Anastrozole",25-35
+Tegaserod,Diarrhea,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Tegaserod,Abdominal pain,"Linaclotide, Lubiprostone, Plecanatide",20-30
+Tegaserod,Nausea,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Tegaserod,Dizziness,"Linaclotide, Lubiprostone, Plecanatide",10-20
+Tegaserod,Flatulence,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Tegaserod,Headache,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Tegaserod,Fatigue,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Tegaserod,Chest pain,"Linaclotide, Lubiprostone, Plecanatide",10-20
+Tegaserod,Back pain,"Linaclotide, Lubiprostone, Plecanatide",10-20
+Tegaserod,Vomiting,"Linaclotide, Lubiprostone, Plecanatide",15-25
+Telbivudine,Fatigue,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Headache,"Entecavir, Tenofovir, Lamivudine",20-30
+Telbivudine,Nausea,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Diarrhea,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Myopathy,"Entecavir, Tenofovir, Lamivudine",10-20
+Telbivudine,Peripheral neuropathy,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Dizziness,"Entecavir, Tenofovir, Lamivudine",10-20
+Telbivudine,Increased liver enzymes,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Muscle pain,"Entecavir, Tenofovir, Lamivudine",15-25
+Telbivudine,Abdominal pain,"Entecavir, Tenofovir, Lamivudine",15-25
+Telithromycin,Nausea,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telithromycin,Diarrhea,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telithromycin,Dizziness,"Azithromycin, Clarithromycin, Doxycycline",10-20
+Telithromycin,Headache,"Azithromycin, Clarithromycin, Doxycycline",20-30
+Telithromycin,Blurred vision,"Azithromycin, Clarithromycin, Doxycycline",10-20
+Telithromycin,Liver enzyme abnormalities,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telithromycin,Taste disturbances,"Azithromycin, Clarithromycin, Doxycycline",10-20
+Telithromycin,Insomnia,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telithromycin,Rash,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telithromycin,Fatigue,"Azithromycin, Clarithromycin, Doxycycline",15-25
+Telmisartan,Dizziness,"Losartan, Valsartan, Candesartan",20-30
+Telmisartan,Fatigue,"Losartan, Irbesartan, Valsartan",25-35
+Telmisartan,Nausea,"Valsartan, Irbesartan, Losartan",30-40
+Telmisartan,Diarrhea,"Candesartan, Losartan, Irbesartan",15-25
+Telmisartan,Upper Respiratory Tract Infection,"Losartan, Valsartan, Irbesartan",20-30
+Telmisartan,Back Pain,"Irbesartan, Candesartan, Losartan",30-40
+Telmisartan,Cough,"Valsartan, Losartan, Irbesartan",25-35
+Telmisartan,Hyperkalemia,"Losartan, Irbesartan, Candesartan",20-30
+Telmisartan,Hypotension,"Valsartan, Losartan, Irbesartan",30-40
+Telmisartan,Rash,"Candesartan, Losartan, Irbesartan",25-35
+Tenofovir,Nausea,"Emtricitabine, Abacavir, Lamivudine",20-30
+Tenofovir,Vomiting,"Emtricitabine, Lamivudine, Abacavir",25-35
+Tenofovir,Diarrhea,"Lamivudine, Emtricitabine, Abacavir",30-40
+Tenofovir,Headache,"Abacavir, Emtricitabine, Lamivudine",15-25
+Tenofovir,Fatigue,"Emtricitabine, Abacavir, Lamivudine",20-30
+Tenofovir,Insomnia,"Lamivudine, Abacavir, Emtricitabine",30-40
+Tenofovir,Dizziness,"Abacavir, Emtricitabine, Lamivudine",25-35
+Tenofovir,Rash,"Lamivudine, Abacavir, Emtricitabine",20-30
+Tenofovir,Increased Serum Creatinine,"Emtricitabine, Lamivudine, Abacavir",30-40
+Tenofovir,Flatulence,"Abacavir, Lamivudine, Emtricitabine",25-35
+Terazosin,Dizziness,"Doxazosin, Tamsulosin, Alfuzosin",20-30
+Terazosin,Fatigue,"Tamsulosin, Alfuzosin, Doxazosin",25-35
+Terazosin,Nasal Congestion,"Alfuzosin, Tamsulosin, Doxazosin",30-40
+Terazosin,Palpitations,"Doxazosin, Alfuzosin, Tamsulosin",15-25
+Terazosin,Headache,"Tamsulosin, Doxazosin, Alfuzosin",20-30
+Terazosin,Weakness,"Alfuzosin, Doxazosin, Tamsulosin",30-40
+Terazosin,Hypotension,"Doxazosin, Tamsulosin, Alfuzosin",25-35
+Terazosin,Sexual Dysfunction,"Alfuzosin, Tamsulosin, Doxazosin",20-30
+Terazosin,Edema,"Tamsulosin, Alfuzosin, Doxazosin",30-40
+Terazosin,Dry Mouth,"Doxazosin, Tamsulosin, Alfuzosin",25-35
+Terbinafine,Nausea,"Itraconazole, Fluconazole, Griseofulvin",15-25
+Terbinafine,Diarrhea,"Itraconazole, Fluconazole, Griseofulvin",20-30
+Terbinafine,Headache,"Itraconazole, Fluconazole, Griseofulvin",20-30
+Terbinafine,Rash,"Itraconazole, Fluconazole, Griseofulvin",15-25
+Terbinafine,Taste disturbances,"Itraconazole, Fluconazole, Griseofulvin",10-20
+Terbinafine,Abdominal pain,"Itraconazole, Fluconazole, Griseofulvin",15-25
+Terbinafine,Itching,"Itraconazole, Fluconazole, Griseofulvin",10-20
+Terbinafine,Liver enzyme abnormalities,"Itraconazole, Fluconazole, Griseofulvin",15-25
+Terbinafine,Dizziness,"Itraconazole, Fluconazole, Griseofulvin",10-20
+Terbinafine,Fatigue,"Itraconazole, Fluconazole, Griseofulvin",15-25
+Teriparatide,Nausea,"Alendronate, Raloxifene, Denosumab",20-30
+Teriparatide,Dizziness,"Raloxifene, Alendronate, Denosumab",15-25
+Teriparatide,Leg cramps,"Denosumab, Raloxifene, Alendronate",20-30
+Teriparatide,Headache,"Raloxifene, Alendronate, Denosumab",15-25
+Teriparatide,Fatigue,"Alendronate, Denosumab, Raloxifene",15-25
+Teriparatide,Joint pain,"Raloxifene, Denosumab, Alendronate",20-30
+Teriparatide,Abdominal pain,"Denosumab, Alendronate, Raloxifene",20-30
+Teriparatide,Depression,"Raloxifene, Alendronate, Denosumab",20-30
+Teriparatide,Sweating,"Denosumab, Raloxifene, Alendronate",20-30
+Teriparatide,Back pain,"Alendronate, Raloxifene, Denosumab",15-25
+Tetrabenazine,Sedation,"Deutetrabenazine, Valbenazine, Clozapine",20-30
+Tetrabenazine,Fatigue,"Deutetrabenazine, Valbenazine, Clozapine",15-25
+Tetrabenazine,Depression,"Deutetrabenazine, Valbenazine, Clozapine",20-30
+Tetrabenazine,Parkinsonism,"Deutetrabenazine, Valbenazine, Clozapine",15-25
+Tetrabenazine,Insomnia,"Deutetrabenazine, Valbenazine, Clozapine",15-25
+Tetrabenazine,Anxiety,"Deutetrabenazine, Valbenazine, Clozapine",15-25
+Tetrabenazine,Nausea,"Deutetrabenazine, Valbenazine, Clozapine",15-25
+Tetrabenazine,Akathisia,"Deutetrabenazine, Valbenazine, Clozapine",20-30
+Tetrabenazine,Dizziness,"Deutetrabenazine, Valbenazine, Clozapine",10-20
+Tetrabenazine,Weight gain,"Deutetrabenazine, Valbenazine, Clozapine",10-20
+Tetracycline,Nausea,"Doxycycline, Minocycline, Azithromycin",20-30
+Tetracycline,Vomiting,"Doxycycline, Azithromycin, Minocycline",25-35
+Tetracycline,Diarrhea,"Azithromycin, Minocycline, Doxycycline",30-40
+Tetracycline,Photosensitivity,"Minocycline, Doxycycline, Azithromycin",15-25
+Tetracycline,Headache,"Azithromycin, Doxycycline, Minocycline",20-30
+Tetracycline,Dizziness,"Minocycline, Azithromycin, Doxycycline",30-40
+Tetracycline,Abdominal Pain,"Doxycycline, Minocycline, Azithromycin",25-35
+Tetracycline,Rash,"Azithromycin, Minocycline, Doxycycline",20-30
+Tetracycline,Loss of Appetite,"Doxycycline, Azithromycin, Minocycline",30-40
+Tetracycline,Sore Throat,"Minocycline, Azithromycin, Doxycycline",25-35
+Theophylline,Nausea,"Montelukast, Ipratropium, Tiotropium",20-30
+Theophylline,Insomnia,"Tiotropium, Montelukast, Ipratropium",25-35
+Theophylline,Headache,"Montelukast, Ipratropium, Tiotropium",15-25
+Theophylline,Dizziness,"Ipratropium, Tiotropium, Montelukast",20-30
+Theophylline,Tremor,"Tiotropium, Montelukast, Ipratropium",25-35
+Theophylline,Restlessness,"Montelukast, Ipratropium, Tiotropium",20-30
+Theophylline,Palpitations,"Ipratropium, Tiotropium, Montelukast",20-30
+Theophylline,Vomiting,"Tiotropium, Montelukast, Ipratropium",20-30
+Theophylline,Diarrhea,"Montelukast, Tiotropium, Ipratropium",20-30
+Theophylline,Increased urination,"Ipratropium, Montelukast, Tiotropium",15-25
+Ticagrelor,Dyspnea,"Clopidogrel, Prasugrel, Aspirin",15-25
+Ticagrelor,Bleeding,"Clopidogrel, Prasugrel, Aspirin",20-30
+Ticagrelor,Headache,"Clopidogrel, Prasugrel, Aspirin",15-25
+Ticagrelor,Dizziness,"Clopidogrel, Prasugrel, Aspirin",15-25
+Ticagrelor,Nausea,"Clopidogrel, Prasugrel, Aspirin",15-25
+Ticagrelor,Bradycardia,"Clopidogrel, Prasugrel, Aspirin",10-20
+Ticagrelor,Fatigue,"Clopidogrel, Prasugrel, Aspirin",15-25
+Ticagrelor,Rash,"Clopidogrel, Prasugrel, Aspirin",10-20
+Ticagrelor,Hyperuricemia,"Clopidogrel, Prasugrel, Aspirin",10-20
+Ticagrelor,Chest pain,"Clopidogrel, Prasugrel, Aspirin",15-25
+Tiotropium,Dry mouth,"Ipratropium, Salmeterol, Montelukast",15-25
+Tiotropium,Constipation,"Ipratropium, Montelukast, Salmeterol",20-30
+Tiotropium,Throat irritation,"Beclomethasone, Montelukast, Salmeterol",15-25
+Tiotropium,Sinusitis,"Montelukast, Fluticasone, Budesonide",20-30
+Tiotropium,Urinary retention,"Ipratropium, Montelukast, Salmeterol",20-30
+Tiotropium,Cough,"Budesonide, Montelukast, Fluticasone",20-30
+Tiotropium,Dizziness,"Montelukast, Beclomethasone, Ipratropium",20-30
+Tiotropium,Blurred vision,"Ipratropium, Montelukast, Beclomethasone",20-30
+Tiotropium,Back pain,"Montelukast, Beclomethasone, Salmeterol",15-25
+Tiotropium,Headache,"Montelukast, Ipratropium, Budesonide",15-25
+Tofacitinib,Upper respiratory infection,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tofacitinib,Headache,"Baricitinib, Upadacitinib, Methotrexate",20-30
+Tofacitinib,Diarrhea,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tofacitinib,Hypertension,"Baricitinib, Upadacitinib, Methotrexate",10-20
+Tofacitinib,Nausea,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tofacitinib,Liver enzyme abnormalities,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tofacitinib,Rash,"Baricitinib, Upadacitinib, Methotrexate",10-20
+Tofacitinib,Hypercholesterolemia,"Baricitinib, Upadacitinib, Methotrexate",10-20
+Tofacitinib,Thrombocytopenia,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tofacitinib,Fatigue,"Baricitinib, Upadacitinib, Methotrexate",15-25
+Tolcapone,Liver enzyme abnormalities,"Entacapone, Opicapone, Rasagiline",20-30
+Tolcapone,Diarrhea,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Nausea,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Dyskinesia,"Entacapone, Opicapone, Rasagiline",10-20
+Tolcapone,Orthostatic hypotension,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Sleep disturbances,"Entacapone, Opicapone, Rasagiline",10-20
+Tolcapone,Dizziness,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Fatigue,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Abdominal pain,"Entacapone, Opicapone, Rasagiline",15-25
+Tolcapone,Dry mouth,"Entacapone, Opicapone, Rasagiline",10-20
+Tolterodine,Dry Mouth,"Solifenacin, Oxybutynin, Darifenacin",20-30
+Tolterodine,Constipation,"Darifenacin, Solifenacin, Oxybutynin",25-35
+Tolterodine,Dry Eyes,"Oxybutynin, Solifenacin, Darifenacin",30-40
+Tolterodine,Dizziness,"Solifenacin, Darifenacin, Oxybutynin",15-25
+Tolterodine,Headache,"Darifenacin, Oxybutynin, Solifenacin",20-30
+Tolterodine,Blurred Vision,"Solifenacin, Darifenacin, Oxybutynin",30-40
+Tolterodine,Stomach Pain,"Darifenacin, Solifenacin, Oxybutynin",25-35
+Tolterodine,Indigestion,"Oxybutynin, Solifenacin, Darifenacin",20-30
+Tolterodine,Urinary Retention,"Solifenacin, Darifenacin, Oxybutynin",30-40
+Tolterodine,Sleep Disturbance,"Darifenacin, Solifenacin, Oxybutynin",25-35
+Topiramate,Dizziness,"Lamotrigine, Gabapentin, Levetiracetam",20-30
+Topiramate,Fatigue,"Lamotrigine, Gabapentin, Levetiracetam",15-25
+Topiramate,Weight loss,"Valproate, Gabapentin, Levetiracetam",20-30
+Topiramate,Memory problems,"Lamotrigine, Valproate, Levetiracetam",20-30
+Topiramate,Tingling sensation,"Gabapentin, Lamotrigine, Levetiracetam",20-30
+Topiramate,Loss of appetite,"Valproate, Gabapentin, Lamotrigine",20-30
+Topiramate,Mood changes,"Valproate, Lamotrigine, Levetiracetam",15-25
+Topiramate,Nausea,"Lamotrigine, Gabapentin, Levetiracetam",20-30
+Topiramate,Insomnia,"Valproate, Gabapentin, Levetiracetam",20-30
+Topiramate,Vision problems,"Lamotrigine, Gabapentin, Levetiracetam",15-25
+Tramadol,Nausea,"Acetaminophen, Ibuprofen, Celecoxib",25-35
+Tramadol,Dizziness,"Acetaminophen, Ibuprofen, Naproxen",20-30
+Tramadol,Constipation,"Celecoxib, Acetaminophen, Naproxen",25-35
+Tramadol,Headache,"Acetaminophen, Ibuprofen, Celecoxib",15-25
+Tramadol,Fatigue,"Acetaminophen, Ibuprofen, Naproxen",20-30
+Tramadol,Dry mouth,"Celecoxib, Ibuprofen, Naproxen",20-30
+Tramadol,Sweating,"Acetaminophen, Celecoxib, Ibuprofen",15-25
+Tramadol,Vomiting,"Ibuprofen, Acetaminophen, Celecoxib",20-30
+Tramadol,Drowsiness,"Acetaminophen, Celecoxib, Ibuprofen",25-35
+Tramadol,Anxiety,"Ibuprofen, Celecoxib, Acetaminophen",15-25
+Travoprost,Eye redness,"Latanoprost, Bimatoprost, Timolol",15-25
+Travoprost,Eye discomfort,"Latanoprost, Bimatoprost, Timolol",15-25
+Travoprost,Eyelash changes,"Latanoprost, Bimatoprost, Timolol",10-20
+Travoprost,Blurred vision,"Latanoprost, Bimatoprost, Timolol",10-20
+Travoprost,Dry eyes,"Latanoprost, Bimatoprost, Timolol",10-20
+Travoprost,Increased pigmentation,"Latanoprost, Bimatoprost, Timolol",10-20
+Travoprost,Foreign body sensation,"Latanoprost, Bimatoprost, Timolol",15-25
+Travoprost,Eye pain,"Latanoprost, Bimatoprost, Timolol",15-25
+Travoprost,Headache,"Latanoprost, Bimatoprost, Timolol",10-20
+Travoprost,Sensitivity to light,"Latanoprost, Bimatoprost, Timolol",10-20
+Trazodone,Drowsiness,"Mirtazapine, Escitalopram, Sertraline",20-30
+Trazodone,Dizziness,"Mirtazapine, Escitalopram, Sertraline",20-30
+Trazodone,Dry mouth,"Sertraline, Escitalopram, Paroxetine",15-25
+Trazodone,Nausea,"Escitalopram, Sertraline, Paroxetine",15-25
+Trazodone,Blurred vision,"Mirtazapine, Escitalopram, Sertraline",15-25
+Trazodone,Headache,"Escitalopram, Sertraline, Paroxetine",20-30
+Trazodone,Constipation,"Escitalopram, Sertraline, Paroxetine",20-30
+Trazodone,Fatigue,"Mirtazapine, Escitalopram, Sertraline",20-30
+Trazodone,Weight gain,"Escitalopram, Sertraline, Paroxetine",20-30
+Trazodone,Sweating,"Sertraline, Escitalopram, Paroxetine",20-30
+Tretinoin,Skin irritation,"Adapalene, Tazarotene, Azelaic acid",20-30
+Tretinoin,Redness,"Adapalene, Tazarotene, Azelaic acid",20-30
+Tretinoin,Peeling,"Adapalene, Tazarotene, Azelaic acid",15-25
+Tretinoin,Dryness,"Adapalene, Tazarotene, Azelaic acid",15-25
+Tretinoin,Burning sensation,"Adapalene, Tazarotene, Azelaic acid",15-25
+Tretinoin,Photosensitivity,"Adapalene, Tazarotene, Azelaic acid",10-20
+Tretinoin,Itching,"Adapalene, Tazarotene, Azelaic acid",10-20
+Tretinoin,Stinging,"Adapalene, Tazarotene, Azelaic acid",10-20
+Tretinoin,Skin discoloration,"Adapalene, Tazarotene, Azelaic acid",15-25
+Tretinoin,Swelling,"Adapalene, Tazarotene, Azelaic acid",10-20
+Trifluridine,Eye irritation,"Ganciclovir, Acyclovir, Povidone-Iodine",20-30
+Trifluridine,Burning sensation,"Ganciclovir, Acyclovir, Povidone-Iodine",15-25
+Trifluridine,Swelling of eyelids,"Ganciclovir, Acyclovir, Povidone-Iodine",15-25
+Trifluridine,Blurred vision,"Ganciclovir, Acyclovir, Povidone-Iodine",10-20
+Trifluridine,Redness of eyes,"Ganciclovir, Acyclovir, Povidone-Iodine",15-25
+Trifluridine,Eye pain,"Ganciclovir, Acyclovir, Povidone-Iodine",10-20
+Trifluridine,Eye discharge,"Ganciclovir, Acyclovir, Povidone-Iodine",15-25
+Trifluridine,Sensitivity to light,"Ganciclovir, Acyclovir, Povidone-Iodine",10-20
+Trifluridine,Tearing,"Ganciclovir, Acyclovir, Povidone-Iodine",10-20
+Trifluridine,Fatigue,"Ganciclovir, Acyclovir, Povidone-Iodine",15-25
+Trimethoprim,Nausea,"Nitrofurantoin, Fosfomycin, Cephalexin",20-30
+Trimethoprim,Vomiting,"Nitrofurantoin, Fosfomycin, Amoxicillin",25-35
+Trimethoprim,Rash,"Fosfomycin, Nitrofurantoin, Cephalexin",15-25
+Trimethoprim,Diarrhea,"Nitrofurantoin, Fosfomycin, Cephalexin",20-30
+Trimethoprim,Headache,"Fosfomycin, Nitrofurantoin, Cephalexin",15-25
+Trimethoprim,Fatigue,"Nitrofurantoin, Cephalexin, Fosfomycin",20-30
+Trimethoprim,Dizziness,"Nitrofurantoin, Fosfomycin, Cephalexin",20-30
+Trimethoprim,Loss of appetite,"Cephalexin, Nitrofurantoin, Amoxicillin",20-30
+Trimethoprim,Abdominal pain,"Fosfomycin, Cephalexin, Nitrofurantoin",15-25
+Trimethoprim,Itching,"Nitrofurantoin, Fosfomycin, Cephalexin",15-25
+Trimethoprim,Rash,"Amoxicillin, Nitrofurantoin, Doxycycline",20-30
+Trimethoprim,Nausea,"Nitrofurantoin, Amoxicillin, Doxycycline",25-35
+Trimethoprim,Vomiting,"Doxycycline, Nitrofurantoin, Amoxicillin",30-40
+Trimethoprim,Diarrhea,"Amoxicillin, Nitrofurantoin, Azithromycin",15-25
+Trimethoprim,Photosensitivity,"Nitrofurantoin, Doxycycline, Amoxicillin",20-30
+Trimethoprim,Headache,"Doxycycline, Nitrofurantoin, Azithromycin",30-40
+Trimethoprim,Dizziness,"Nitrofurantoin, Amoxicillin, Doxycycline",25-35
+Trimethoprim,Fatigue,"Azithromycin, Amoxicillin, Nitrofurantoin",20-30
+Trimethoprim,Fever,"Nitrofurantoin, Doxycycline, Amoxicillin",30-40
+Trimethoprim,Anemia,"Amoxicillin, Nitrofurantoin, Doxycycline",25-35
+Ustekinumab,Injection site reactions,"Adalimumab, Etanercept, Infliximab",15-25
+Ustekinumab,Headache,"Adalimumab, Etanercept, Secukinumab",15-25
+Ustekinumab,Fatigue,"Adalimumab, Etanercept, Infliximab",20-30
+Ustekinumab,Back pain,"Adalimumab, Secukinumab, Etanercept",15-25
+Ustekinumab,Nausea,"Secukinumab, Adalimumab, Etanercept",20-30
+Ustekinumab,Diarrhea,"Adalimumab, Secukinumab, Infliximab",20-30
+Ustekinumab,Dizziness,"Adalimumab, Secukinumab, Infliximab",15-25
+Ustekinumab,Upper respiratory tract infection,"Secukinumab, Adalimumab, Etanercept",10-20
+Ustekinumab,Muscle pain,"Etanercept, Adalimumab, Infliximab",20-30
+Ustekinumab,Depression,"Adalimumab, Etanercept, Secukinumab",20-30
+Valacyclovir,Nausea,"Acyclovir, Famciclovir, Penciclovir",20-30
+Valacyclovir,Headache,"Acyclovir, Famciclovir, Penciclovir",15-25
+Valacyclovir,Dizziness,"Famciclovir, Penciclovir, Acyclovir",25-35
+Valacyclovir,Abdominal Pain,"Acyclovir, Penciclovir, Famciclovir",20-30
+Valacyclovir,Fatigue,"Famciclovir, Acyclovir, Penciclovir",30-40
+Valacyclovir,Vomiting,"Penciclovir, Acyclovir, Famciclovir",25-35
+Valacyclovir,Diarrhea,"Acyclovir, Famciclovir, Penciclovir",20-30
+Valacyclovir,Rash,"Penciclovir, Famciclovir, Acyclovir",30-40
+Valacyclovir,Increased Liver Enzymes,"Famciclovir, Penciclovir, Acyclovir",15-25
+Valacyclovir,Depression,"Acyclovir, Famciclovir, Penciclovir",20-30
+Valsartan,Dizziness,"Losartan, Irbesartan, Candesartan",15-25
+Valsartan,Fatigue,"Losartan, Candesartan, Irbesartan",20-30
+Valsartan,Headache,"Irbesartan, Losartan, Candesartan",25-35
+Valsartan,Cough,"Candesartan, Irbesartan, Losartan",30-40
+Valsartan,Hypotension,"Losartan, Candesartan, Irbesartan",20-30
+Valsartan,Diarrhea,"Irbesartan, Losartan, Candesartan",15-25
+Valsartan,Elevated Blood Urea Nitrogen,"Losartan, Irbesartan, Candesartan",25-35
+Valsartan,Back Pain,"Candesartan, Losartan, Irbesartan",20-30
+Valsartan,Hyperkalemia,"Irbesartan, Candesartan, Losartan",30-40
+Valsartan,Arthralgia,"Losartan, Candesartan, Irbesartan",15-25
+Vardenafil,Headache,"Sildenafil, Tadalafil, Avanafil",20-30
+Vardenafil,Flushing,"Sildenafil, Tadalafil, Avanafil",15-25
+Vardenafil,Nasal congestion,"Sildenafil, Tadalafil, Avanafil",15-25
+Vardenafil,Dizziness,"Sildenafil, Tadalafil, Avanafil",15-25
+Vardenafil,Dyspepsia,"Sildenafil, Tadalafil, Avanafil",10-20
+Vardenafil,Back pain,"Sildenafil, Tadalafil, Avanafil",15-25
+Vardenafil,Muscle pain,"Sildenafil, Tadalafil, Avanafil",15-25
+Vardenafil,Vision changes,"Sildenafil, Tadalafil, Avanafil",10-20
+Vardenafil,Nausea,"Sildenafil, Tadalafil, Avanafil",10-20
+Vardenafil,Flu-like symptoms,"Sildenafil, Tadalafil, Avanafil",10-20
+Varenicline,Nausea,"Bupropion, Nicotine Patch, Nortriptyline",25-35
+Varenicline,Insomnia,"Nicotine Patch, Bupropion, Nortriptyline",30-40
+Varenicline,Abnormal Dreams,"Bupropion, Nortriptyline, Nicotine Patch",20-30
+Varenicline,Headache,"Nicotine Patch, Bupropion, Nortriptyline",15-25
+Varenicline,Irritability,"Bupropion, Nortriptyline, Nicotine Patch",25-35
+Varenicline,Depression,"Nicotine Patch, Nortriptyline, Bupropion",20-30
+Varenicline,Fatigue,"Bupropion, Nicotine Patch, Nortriptyline",30-40
+Varenicline,Constipation,"Nortriptyline, Bupropion, Nicotine Patch",15-25
+Varenicline,Diarrhea,"Nicotine Patch, Bupropion, Nortriptyline",20-30
+Varenicline,Dry Mouth,"Bupropion, Nortriptyline, Nicotine Patch",25-35
+Vecuronium,Muscle weakness,"Rocuronium, Cisatracurium, Atracurium",20-30
+Vecuronium,Bradycardia,"Rocuronium, Cisatracurium, Atracurium",15-25
+Vecuronium,Hypotension,"Rocuronium, Cisatracurium, Atracurium",15-25
+Vecuronium,Bronchospasm,"Rocuronium, Cisatracurium, Atracurium",15-25
+Vecuronium,Respiratory depression,"Rocuronium, Cisatracurium, Atracurium",20-30
+Vecuronium,Tachycardia,"Rocuronium, Cisatracurium, Atracurium",15-25
+Vecuronium,Flushing,"Rocuronium, Cisatracurium, Atracurium",15-25
+Vecuronium,Salivation,"Rocuronium, Cisatracurium, Atracurium",10-20
+Vecuronium,Rash,"Rocuronium, Cisatracurium, Atracurium",10-20
+Vecuronium,Itching,"Rocuronium, Cisatracurium, Atracurium",10-20
+Venlafaxine,Nausea,"Sertraline, Bupropion, Mirtazapine",20-30
+Venlafaxine,Insomnia,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Dizziness,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Dry mouth,"Sertraline, Bupropion, Mirtazapine",10-20
+Venlafaxine,Sweating,"Sertraline, Bupropion, Mirtazapine",10-20
+Venlafaxine,Anxiety,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Constipation,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Fatigue,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Headache,"Sertraline, Bupropion, Mirtazapine",15-25
+Venlafaxine,Loss of appetite,"Sertraline, Bupropion, Mirtazapine",10-20
+Verapamil,Constipation,"Diltiazem, Amlodipine, Nifedipine",20-30
+Verapamil,Dizziness,"Amlodipine, Nifedipine, Diltiazem",25-35
+Verapamil,Headache,"Nifedipine, Diltiazem, Amlodipine",30-40
+Verapamil,Edema,"Diltiazem, Amlodipine, Nifedipine",15-25
+Verapamil,Fatigue,"Amlodipine, Nifedipine, Diltiazem",20-30
+Verapamil,Bradycardia,"Nifedipine, Diltiazem, Amlodipine",25-35
+Verapamil,Nausea,"Diltiazem, Amlodipine, Nifedipine",30-40
+Verapamil,Rash,"Amlodipine, Nifedipine, Diltiazem",15-25
+Verapamil,Hypotension,"Nifedipine, Diltiazem, Amlodipine",20-30
+Verapamil,Flushing,"Diltiazem, Amlodipine, Nifedipine",25-35
+Vildagliptin,Headache,"Sitagliptin, Saxagliptin, Linagliptin",20-30
+Vildagliptin,Dizziness,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vildagliptin,Nausea,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vildagliptin,Hypoglycemia,"Sitagliptin, Saxagliptin, Linagliptin",20-30
+Vildagliptin,Weight gain,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vildagliptin,Fatigue,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vildagliptin,Edema,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vildagliptin,Constipation,"Sitagliptin, Saxagliptin, Linagliptin",10-20
+Vildagliptin,Nasopharyngitis,"Sitagliptin, Saxagliptin, Linagliptin",10-20
+Vildagliptin,Upper respiratory infection,"Sitagliptin, Saxagliptin, Linagliptin",15-25
+Vincristine,Neuropathy,"Paclitaxel, Cisplatin, Docetaxel",20-30
+Vincristine,Constipation,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Hair loss,"Paclitaxel, Cisplatin, Docetaxel",20-30
+Vincristine,Nausea,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Fatigue,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Abdominal pain,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Mouth sores,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Vomiting,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Vincristine,Loss of appetite,"Paclitaxel, Cisplatin, Docetaxel",10-20
+Vincristine,Weight loss,"Paclitaxel, Cisplatin, Docetaxel",15-25
+Voriconazole,Visual disturbances,"Posaconazole, Isavuconazole, Fluconazole",20-30
+Voriconazole,Liver enzyme abnormalities,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Voriconazole,Nausea,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Voriconazole,Rash,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Voriconazole,Hallucinations,"Posaconazole, Isavuconazole, Fluconazole",10-20
+Voriconazole,Photosensitivity,"Posaconazole, Isavuconazole, Fluconazole",10-20
+Voriconazole,Fever,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Voriconazole,Abdominal pain,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Voriconazole,Headache,"Posaconazole, Isavuconazole, Fluconazole",10-20
+Voriconazole,Edema,"Posaconazole, Isavuconazole, Fluconazole",15-25
+Vortioxetine,Nausea,"Escitalopram, Sertraline, Vilazodone",20-30
+Vortioxetine,Diarrhea,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Dizziness,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Dry mouth,"Escitalopram, Sertraline, Vilazodone",10-20
+Vortioxetine,Insomnia,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Fatigue,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Vomiting,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Headache,"Escitalopram, Sertraline, Vilazodone",15-25
+Vortioxetine,Sweating,"Escitalopram, Sertraline, Vilazodone",10-20
+Vortioxetine,Weight gain,"Escitalopram, Sertraline, Vilazodone",10-20
+Warfarin,Bleeding,"Apixaban, Dabigatran, Rivaroxaban",30-40
+Warfarin,Bruising,"Rivaroxaban, Apixaban, Dabigatran",25-35
+Warfarin,Nausea,"Dabigatran, Rivaroxaban, Apixaban",20-30
+Warfarin,Abdominal Pain,"Apixaban, Dabigatran, Rivaroxaban",15-25
+Warfarin,Diarrhea,"Rivaroxaban, Apixaban, Dabigatran",25-35
+Warfarin,Rash,"Dabigatran, Rivaroxaban, Apixaban",30-40
+Warfarin,Hair Loss,"Apixaban, Dabigatran, Rivaroxaban",20-30
+Warfarin,Fatigue,"Rivaroxaban, Apixaban, Dabigatran",15-25
+Warfarin,Dizziness,"Dabigatran, Rivaroxaban, Apixaban",25-35
+Warfarin,Elevated Liver Enzymes,"Apixaban, Dabigatran, Rivaroxaban",30-40
+Zaleplon,Drowsiness,"Eszopiclone, Zolpidem, Ramelteon",20-30
+Zaleplon,Dizziness,"Eszopiclone, Zolpidem, Ramelteon",15-25
+Zaleplon,Lightheadedness,"Eszopiclone, Zolpidem, Ramelteon",15-25
+Zaleplon,Nausea,"Eszopiclone, Zolpidem, Ramelteon",10-20
+Zaleplon,Stomach pain,"Eszopiclone, Zolpidem, Ramelteon",15-25
+Zaleplon,Memory problems,"Eszopiclone, Zolpidem, Ramelteon",15-25
+Zaleplon,Dry mouth,"Eszopiclone, Zolpidem, Ramelteon",10-20
+Zaleplon,Depression,"Eszopiclone, Zolpidem, Ramelteon",15-25
+Zaleplon,Anxiety,"Eszopiclone, Zolpidem, Ramelteon",10-20
+Zaleplon,Weakness,"Eszopiclone, Zolpidem, Ramelteon",10-20
+Zanamivir,Cough,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zanamivir,Throat irritation,"Oseltamivir, Baloxavir, Peramivir",15-25
+Zanamivir,Headache,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zanamivir,Dizziness,"Oseltamivir, Baloxavir, Peramivir",15-25
+Zanamivir,Nausea,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zanamivir,Vomiting,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zanamivir,Diarrhea,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zanamivir,"Ear, nose, and throat infections","Oseltamivir, Baloxavir, Peramivir",10-20
+Zanamivir,Rash,"Oseltamivir, Baloxavir, Peramivir",10-20
+Zanamivir,Breathing difficulty,"Oseltamivir, Baloxavir, Peramivir",20-30
+Zidovudine,Nausea,"Tenofovir, Lamivudine, Efavirenz",30-40
+Zidovudine,Anemia,"Emtricitabine, Tenofovir, Abacavir",40-50
+Zidovudine,Headache,"Efavirenz, Lamivudine, Emtricitabine",20-30
+Zidovudine,Fatigue,"Abacavir, Tenofovir, Emtricitabine",25-35
+Zidovudine,Vomiting,"Tenofovir, Efavirenz, Lamivudine",30-40
+Zidovudine,Muscle pain,"Abacavir, Emtricitabine, Lamivudine",20-30
+Zidovudine,Insomnia,"Efavirenz, Tenofovir, Abacavir",25-35
+Zidovudine,Dizziness,"Lamivudine, Emtricitabine, Tenofovir",20-30
+Zidovudine,Rash,"Tenofovir, Lamivudine, Abacavir",30-40
+Zidovudine,Liver damage,"Emtricitabine, Lamivudine, Efavirenz",40-50
+Zolpidem,Dizziness,"Eszopiclone, Ramelteon, Suvorexant",15-25
+Zolpidem,Drowsiness,"Eszopiclone, Ramelteon, Suvorexant",20-30
+Zolpidem,Headache,"Eszopiclone, Ramelteon, Trazodone",15-25
+Zolpidem,Fatigue,"Ramelteon, Suvorexant, Eszopiclone",15-25
+Zolpidem,Nausea,"Suvorexant, Eszopiclone, Ramelteon",20-30
+Zolpidem,Memory problems,"Ramelteon, Suvorexant, Eszopiclone",20-30
+Zolpidem,Abnormal dreams,"Eszopiclone, Suvorexant, Trazodone",15-25
+Zolpidem,Hallucinations,"Ramelteon, Suvorexant, Eszopiclone",20-30
+Zolpidem,Rebound insomnia,"Ramelteon, Suvorexant, Eszopiclone",20-30
+Zolpidem,Depression,"Eszopiclone, Ramelteon, Suvorexant",15-25
+Zonisamide,Drowsiness,"Topiramate, Levetiracetam, Valproic Acid",20-30
+Zonisamide,Dizziness,"Lamotrigine, Gabapentin, Topiramate",25-35
+Zonisamide,Nausea,"Valproic Acid, Gabapentin, Levetiracetam",30-40
+Zonisamide,Headache,"Lamotrigine, Topiramate, Valproic Acid",20-30
+Zonisamide,Fatigue,"Gabapentin, Levetiracetam, Topiramate",25-35
+Zonisamide,Agitation,"Lamotrigine, Valproic Acid, Topiramate",30-40
+Zonisamide,Rash,"Gabapentin, Levetiracetam, Valproic Acid",20-30
+Zonisamide,Loss of appetite,"Lamotrigine, Gabapentin, Levetiracetam",25-35
+Zonisamide,Speech problems,"Topiramate, Valproic Acid, Levetiracetam",30-40
+Zonisamide,Depression,"Lamotrigine, Gabapentin, Topiramate",20-30
+Zopiclone,Drowsiness,"Eszopiclone, Ramelteon, Trazodone",20-30
+Zopiclone,Dry mouth,"Eszopiclone, Ramelteon, Melatonin",25-35
+Zopiclone,Bitter taste,"Eszopiclone, Zaleplon, Trazodone",30-40
+Zopiclone,Dizziness,"Ramelteon, Trazodone, Melatonin",20-30
+Zopiclone,Headache,"Eszopiclone, Ramelteon, Zaleplon",25-35
+Zopiclone,Nausea,"Trazodone, Zaleplon, Melatonin",30-40
+Zopiclone,Fatigue,"Ramelteon, Eszopiclone, Zaleplon",20-30
+Zopiclone,Constipation,"Trazodone, Melatonin, Eszopiclone",25-35
+Zopiclone,Memory issues,"Melatonin, Trazodone, Ramelteon",20-30
+Zopiclone,Anxiety,"Zaleplon, Ramelteon, Trazodone",25-35
