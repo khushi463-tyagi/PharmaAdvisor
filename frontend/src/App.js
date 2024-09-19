@@ -19,7 +19,7 @@ import './styles/App.css';
 
 function App() {
   return (
-      <Router>    
+      <Router basename='/PharmaAdvisor'>    
           <Routes>
               <Route path="/" exact element={<WelcomePage />} />
               <Route path="/login" element={<LoginSignupPage />} />
