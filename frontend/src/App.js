@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Outlet } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import WelcomePage from './components/WelcomePage';
@@ -19,7 +19,7 @@ import './styles/App.css';
 
 function App() {
   return (
-      <Router basename='/PharmaAdvisor'>    
+      <Router>    
           <Routes>
               <Route path="/" exact element={<WelcomePage />} />
               <Route path="/login" element={<LoginSignupPage />} />
