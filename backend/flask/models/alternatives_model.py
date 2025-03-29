@@ -1,24 +1,23 @@
 import pandas as pd
 from flask import Flask, request, jsonify
 from flask_cors import CORS
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+from sklearn.ensemble import RandomForestClassifier
 
 app = Flask(__name__)
 CORS(app)
 df = pd.read_csv('data/AlternativesDataset.csv')
-@app.route('/get-alternative', methods=['POST'])
-def get_alternatives(medicine_name, side_effect):
-   import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import LabelEncoder
-from sklearn.ensemble import RandomForestClassifier
-import difflib
+
+
+   
 
 def train_model(file_path):
     df = pd.read_csv(file_path)
     
     features = ['Medicine', 'Disease', 'Side_Effect']
     target = 'Alternative'
-    df = df.dropna(subset=[target])
+
     
     label_encoders = {}
     for col in features + [target]:
@@ -32,16 +31,17 @@ def train_model(file_path):
     rf_model = RandomForestClassifier(n_estimators=200, min_samples_split=5, random_state=42)
     rf_model.fit(X_train, y_train)
     
-    accuracy = rf_model.score(X_test, y_test)
-    print(f'Model Accuracy: {accuracy * 100:.2f}%')
+    # accuracy = rf_model.score(X_test, y_test)
+    # print(f'Model Accuracy: {accuracy * 100:.2f}%')
     
     return rf_model, label_encoders, df
-
+import difflib
 def find_closest_match(input_value, valid_values):
     matches = difflib.get_close_matches(input_value, valid_values, n=1, cutoff=0.7)
     return matches[0] if matches else None
-
-def predict_alternative(rf_model, label_encoders, df, medicine, disease, side_effect):
+   
+@app.route('/get-alternative', methods=['POST'])
+def get_alternative(rf_model, label_encoders, df, medicine, disease, side_effect):
     try:
         medicine_list = df['Medicine'].astype(str).unique().tolist()
         disease_list = df['Disease'].astype(str).unique().tolist()
